@@ -1,0 +1,3443 @@
+﻿Show Game messages	Oyun mesajlarını göster	0	2
+sells a house from	bir evsattı	0	2
+one utility	bir yardımcı program	0	2
+there are more than you can imagine in this hotel	Bu otelde	 hayal edebileceğinizden çok daha fazlası var	0	2
+there are no save tables	kayıtlı masa yok	0	2
+You are banned from that table, you are not allowed to join it	Bu masadan yasaklandın, katılmana izin verilmiyor.	0	2
+is in jail. No rent can be collected	 hapiste. Kira toplanamaz	0	2
+Computer bug in bank's network	Bankanın ağındaki bilgisayar hatası	0	2
+there is really a house here	burada gerçekten bir ev var	0	2
+There is an impressive hotel over there	Orada etkileyici bir otel var	0	2
+The game order is reversed	Oyun sırası tersine döndü	0	2
+You made three doubles in a row	Arka arkaya üç çift yaptın	0	2
+You haven't anymore pennies, you are out of the game	Artık puanınız yok, oyun dışı kaldınız!	0	2
+Please make your buildings compliant with new environmental standards	Lütfen binalarınızı yeni çevre standartlarına uygun hale getirin	0	2
+What a lovely house	Ne güzel bir ev	0	2
+You are a loser	sen bir kaybedensin	0	2
+Today is your birthday and each player offers you	Bugün senin doğum günün ve her oyuncu sana öder 	0	2
+Parc place	Park yeri	0	2
+Saint-Charles place	Aziz Charles Meydanı	0	2
+Saint-James place	aziz-James meydanı	0	2
+Press the numbers from 1 to 5 to read each category and its letter one by one	Her kategoriyi ve harfini tek tek okumak için 1'den 5'e kadar rakamlara basın.	0	2
+Computer programming language with	bilgisayar programlama dili, harf,	0	2
+Press Ctrl+1 to Ctrl+5 to enter a word you have found	Bulduğunuz bir kelimeyi girmek için Ctrl+1 ila Ctrl+5 tuşlarına basın.	0	2
+You can't stay more than 3 turns in jail, you must pay to go out	Hapishanede 3 turdan fazla kalamazsınız, dışarı çıkmak için ödeme yaptınız.	0	2
+Enter the number of points to add or remove from	Eklenecek veya kaldırılacak puan sayısını girin:	0	2
+Enter the number of points obtained for this hand	Bu elde elde edilen puan sayısını girin.	0	2
+Press T to see how many thinking time left	Ne kadar düşünme süresi kaldığını görmek için T'ye basın.	0	2
+Press J to find out who is the judge of the round	Turun hakeminin kim olduğunu öğrenmek için J'ye basın.	0	2
+Press S or Shift+S to view scores	Puanları görüntülemek için S veya Shift+S tuşlarına basın.	0	2
+Press space to repeat the current proposal to judge	Yargılamak üzere mevcut teklifi tekrarlamak için boşluk tuşuna basın.	0	2
+Press Shift+P to add or remove points manually	Puanları manuel olarak eklemek veya kaldırmak için Shift+P tuşlarına basın.	0	2
+Press H at the beginning of a game to swap colors	Renkleri değiştirmek için oyunun başında H tuşuna basın.	0	2
+Press K, D, R, B, N and P to quickly navigate between pieces	Parçalar arasında hızlıca gezinmek için K, D, R, B, N ve P tuşlarına basın	0	2
+Press Shift+N to request a draw	Beraberlik istemek için Shift+N tuşlarına basın.	0	2
+Press Shift+M to abandon	Vazgeçmek için Shift+M tuşlarına basın.	0	2
+Press Ctrl+O to import/export position in FEN format	Konumu FEN formatında içe/dışa aktarmak için Ctrl+O tuşlarına basın.	0	2
+For spectators, press 1 to 4 to change board and view	İzleyiciler için, panoyu değiştirmek ve görüntülemek için 1 ila 4'e basın.	0	2
+At your turn, pick a token numbered from 1 to 9. Use corresponding number keys to choose a token to pick. Be the first to make fifteen by summing up three tokens	Sıra size geldiğinde, 1'den 9'a kadar numaralandırılmış bir jeton seçin. Almak üzere bir jeton seçmek için karşılık gelen sayı tuşlarını kullanın. Üç jetonu toplayarak on beş yapan ilk kişi olun!	0	2
+Be the quickest to find the sounds going in pairs ! Use number keys to press buttons 1 to 10, and Ctrl+number for buttons 11 to 20	Çiftler halinde giden sesleri bulmak için en hızlı siz olun! 1 ile 10 arasındaki düğmelere basmak için sayı tuşlarını ve 11 ile 20 arasındaki düğmeler için Ctrl+sayı tuşlarını kullanın.	0	2
+Make a maximum of points without exceeding 21! Press space to draw a card and backspace to stop	21'i geçmeden maksimum puan kazanın! Bir kart çekmek için boşluk tuşuna ve durdurmak için geri tuşuna basın.	0	2
+Press E to see how many cards each player has	Her oyuncunun kaç kartı olduğunu görmek için E'ye basın.	0	2
+Put the notes in the right order! Use Ctrl+numbers 1 to 0 to swap two notes	Notaları doğru sıraya koyun! İki notayı değiştirmek için Ctrl+1'den 0'a kadar olan sayıları kullanın.	0	2
+Reproduce the sequence with numbers 1 to 5. Listen to the sounds of the different keys, then press space when you are ready to start	1'den 5'e kadar olan sayılarla diziyi yeniden oluşturun. Farklı tuşların seslerini dinleyin, ardından başlamaya hazır olduğunuzda boşluk tuşuna basın.	0	2
+shuffles the dominos and deals 5 to each player	domino taşlarını karıştırır ve her oyuncuya 5 adet dağıtır.	0	2
+to each one	Her birine	0	2
+Pay the doctor's fee	Doktor ücretini öde	0	2
+Dice room; Take 3 feathers (probable at 50%), Take 5 feathers (probable at 10%) and Die roll	zar odası; 3 tüy al (%50 olasılıkla), 5 tüy al (%10 olasılıkla) ve zar rulosu	0	2
+Pleasure room; Everyone  passes their hand to their neighbor., Take 3 feathers and Draw 1 cards	zevk odası; Herkes elini rakibiyle değiştirir. 3 tüy al ve 1 kart çek.	0	2
+Dining room; Take 3 feathers	Yemek odası; 3 tüy al	0	2
+Big table; Draw 1 cards, Take 5 feathers and Skip 1 turns	Büyük masa; 1 kart çek, 5 tüy al ve 1 tur atla	0	2
+Little table; Take 3 feathers and Draw 1 cards (probable at 35%)	Küçük masa; 3 tüy al ve 1 kart çek (%35 olasılıkla)	0	2
+Slot machine; Pay 3 feathers (probable at 60%), Take 3 feathers (probable at 50%), Take 7 feathers (probable at 20%), Pay 7 feathers (probable at 25%), Jackpot (-1) (probable at 8%) and Play again (probable at 60	Kumar makinesi; 3 tüy ödeyin (%60 olasılıkla), 3 tüy alın (%50 olasılıkla), 7 tüy alın (%20 olasılıkla), 7 tüy ödeyin (%25 olasılıkla), İkramiye (-1) (%8 olasılıkla) ) ve Yeniden Oynat (%60 olasıdır)	0	2
+Slot machine; Pay 3 feathers (probable at 75%), Take 3 feathers (probable at 66%), Take 5 feathers (probable at 25%), Pay 5 feathers (probable at 30%), Jackpot (-1) (probable at 8%) and Play again (probable at 60	Kumar makinesi; 3 tüy ödeyin (%75 olasılıkla), 3 tüy alın (%66 olasılıkla), 5 tüy alın (%25 olasılıkla), 5 tüy ödeyin (%30 olasılıkla), İkramiye (-1) (%8 olasılıkla) ) ve Yeniden Oynat (%60 olasıdır)	0	2
+Room of sharing; Give 2 feathers to each player	Paylaşım Odası; Her oyuncuya 2 tüy verin	0	2
+Communal room; Challenge another player	ortak oda; Başka bir oyuncuya meydan oku	0	2
+Rest room; Take 5 feathers, Draw 2 cards and Skip 1 turns	Tuvalet; 5 tüy al, 2 kart çek ve 1 tur atla	0	2
+Place your bets! The roulette is ready	Bahislerinizi yapın! Rulet hazır!	0	2
+Roulette room; Roulette	Rulet odası; Rulet	0	2
+Skip 2 turns and Give 6 feathers	2 tur atla ve 6 tüy ver.	0	2
+Give 4 feathers and Go back 3 squares	4 tüy ver ve 3 kare geri git.	0	2
+You give 2 feathers to	2 tüy veriyorsun	0	2
+Meeting room; Draw 2 cards, Take 3 feathers and Everyone  passes their hand to their neighbor	Toplantı odası; 2 kart çekin, 3 tüy alın ve Herkes elini rakibiyle değiştirir.	0	2
+Cabinets; Skip 1 turns	Dolaplar; 1 tur atla	0	2
+Investers' salon; Each player give you 2 feathers	yatırımcıların salonu; Her oyuncu size 2 tüy verir	0	2
+Charity salon; Feathers are redistributed	hayır salonu; Tüyler yeniden dağıtılır	0	2
+Hotel room; Skip 2 turns, Draw 2 cards and Take 7 feathers	Otel odası; 2 tur atla, 2 kart çek ve 7 tüy al	0	2
+Audacious dice	cüretkar zar	0	2
+The rent depends on the last dice roll	Kira son zar atışına bağlıdır	0	0
+You have successfully placed your ships. Please wait for your opponent to finish	Gemilerinizi başarıyla yerleştirdiniz. Lütfen rakibinizin bitirmesini bekleyin...	0	2
+Celine Dion's voice goes out of a patrol boat. No doubt that we have found a new Titanic	Celine Dion'un sesi bir devriye botundan çıkıyor. Hiç şüphe yok ki yeni bir Titanik bulduk.	0	2
+Celine Dion's voice goes out of a cruiser. No doubt that we have found a new Titanic	Celine Dion'un sesi bir kruvazörden çıkıyor. Hiç şüphe yok ki yeni bir Titanik bulduk.	0	2
+Celine Dion's voice goes out of an aircraft port. No doubt that we have found a new Titanic	Celine Dion'un sesi bir uçak limanından çıkıyor. Hiç şüphe yok ki yeni bir Titanik bulduk.	0	2
+an aircraft carrier suddenly disappears from the ocean surface and gets deep in the sea	bir uçak gemisi aniden okyanus yüzeyinden kaybolur ve denizin derinliklerine iner.	0	2
+an aircraft port suddenly disappears from the ocean surface and gets deep in the sea	Güle güle benim küçük Uçak limanım	0	2
+times the dice sum	zar toplamının çarpımı	0	2
+Collect a dividend of	karpayı topla	0	2
+You propose an auction for	teklif ediyorsun	0	2
+Here is the complete list of the properties on the board	İşte panodaki mülklerim tam listesi	0	2
+This property isn't mortgaged	Bu mülk ipotekli değil	0	2
+There aren't any houses to sell here	Burada satılacak ev yok	0	2
+Rent on empty land	boş arazide kiralık	0	2
+made three doubles in a row	arka arkaya üç çift yaptı	0	2
+You can't mortgage a property in a group containing houses	Evleri içeren bir gruptaki bir mülkü ipotek edemezsiniz	0	2
+because you stopped the round incorrectly	çünkü turu yanlış durdurdunuz.	0	2
+You sell a house from	bir ev satıyorsun	0	2
+On this land are	Bu topraklarda	0	2
+You have a dinner at	akşam yemeği yersin	0	2
+You have helped a friend who gives you	Sana veren bir arkadaşa yardım ettin	0	2
+You don't have enough cash	Yeterince paranız yok.	0	0
+would like to add you to their friends list	sizi arkadaş listesine eklemek istiyor.	0	2
+First call: nobody is interested in	İlk duyuru Kimse ilgilenmiyormu, 	0	2
+Second call: nobody is interested in	İkinci duyuru Kimse ilgilenmiyormu, 	0	2
+Nobody was interested in	Kimse ilgilenmedi, 	0	2
+The property returns to the bank	Mülk bankaya geri döner.	0	2
+With a hotel	otel	0	2
+You have a date at	randevun var	0	2
+turns in jail	hapiste tur	0	2
+Bid in auction	açık artırmada teklif ver	0	2
+in exchange	karşılığında	0	2
+Choose the property where you want to sell a house	Ev satmak istediğiniz mülkü seçin	0	2
+The house stock is exhausted	Ev stoğu tükendi	0	2
+house stock is exhausted	Ev stoğu tükendi	0	2
+You have made a double	Çift attınız.	0	2
+View player positions on the board	Tahtadaki oyuncu pozisyonlarını görüntüleyin	0	2
+has made an excellent rummy without laying off	bırakmadan mükemmel bir rumi yaptı	0	2
+The table has been successfully deleted	masa başarıyla silindi	0	2
+Political manifestations took place and vandals harmed your buildings	Siyasi tezahürler gerçekleşti ve vandallar binalarınıza zarar verdi	0	2
+You can't roll the dice when you have negative cash	Negatif paranız olduğunda zarları atamazsınız	0	2
+You are already present on the table	Siz zaten masadasınız.	0	2
+has blocked you; you are not allowed to invite, join, or send him/her a PM	seni engelledi; onu davet etmenize, katılmanıza veya özel mesaj  göndermenize izin verilmiyor.	0	2
+has sent everybody to jail	herkesi hapse gönderdi	0	2
+You are bankrupt	iflas ettin	0	2
+You mortgage	ipotek ettin	0	2
+Playing chess against a bot requires the Stockfish chess engine	Bir bota karşı satranç oynamak Stockfish satranç motorunu gerektirir.	0	2
+Do you want to set a time limit	Bir zaman sınırı belirlemek istiyor musunuz?	0	2
+Play with a die malus of -2 during 3 turns	3 tur boyunca -2 zarla oynayın..	0	2
+It's black's turn	Sıra siyahta.	0	2
+It's white's turn	Sıra beyazda.	0	2
+That move isn't legal, you would be check	Bu hareket yasal değil, çek olursun.	0	2
+black, odd and pass	siyah, tek ve pas!	0	2
+You now play with a die malus of -1 during 4 turns	Artık 4 tur boyunca -1 zarla oynuyorsunuz.	0	2
+Play with a die malus of -1 during 4 turns	4 tur boyunca -1 zarla oynayın..	0	2
+Play with a die bonus of +2 during 2 turns	2 tur boyunca +2 zar bonusu ile oynayın.	0	2
+Enter the cash amount to send to	Gönderilecek para tutarını girin	0	2
+Please enter the thinking time limit for each player  in minutes	Lütfen her oyuncu için dakika cinsinden düşünme süresi sınırını girin	0	2
+Choose the challenges which you want to play with	Oynamak istediğiniz zorlukları seçin	0	2
+You are going to play golf with	golf oynayacaksın	0	2
+The police has become completely crazy	Polis tamamen çıldırdı	0	2
+There are 103 known categories	Bilinen 103 kategori var.	0	2
+There are 32 known categories	Bilinen 32 kategori var.	0	2
+there are really	gerçekten var	0	2
+You have a meeting with	bir toplantınız var	0	2
+You have a business meeting at	şu adreste bir iş görüşmen var	0	2
+You have been elected chairman of the board	Yönetim kurulu başkanı seçildiniz	0	2
+You don't have that amount to auction	Açık artırma için yeterli paran yok.	0	2
+You have opened a new beauty center and each player wants to try it	Yeni bir güzellik merkezi açtınız ve her oyuncu denemek istiyor	0	2
+Hey daddy, what a house over there	Hey baba, orada bir ev var	0	2
+Buy a  house	Bir ev al	0	2
+Press Shift+H to sell a house	Bir ev satmak için Shift+H tuşlarına basın	0	2
+The property is finally sold for	Mülk sonunda satıldı	0	2
+cproposes an auction for	teklif ediyor	0	2
+is put up for auction	açık artırmaya çıkarıldı	0	2
+double rent can be claimed for unbuilt properties	inşa edilmemiş mülkler için çift kira talep edilebilir	0	2
+Sell a house	bir ev sat	0	2
+You already own that property	zaten o mülkün sahibisin	0	2
+builds a house on There are now	üzerine bir ev inşa eder	0	2
+The turf is green and well maintained	Çim yeşil ve bakımlı.	0	2
+A huge construction is on the land	Arazide büyük bir inşaat var	0	2
+You have won a beauty contest	Bir güzellik yarışmasını kazandın	0	2
+You build a house on	üzerine bir ev inşa ediyorsun	0	2
+The table master will be the judge for the whole game	Masa sahibi tüm oyun için hakem olacak	0	2
+This smell of cut grass betrays an obvious presence	Bu kesilmiş çimen kokusu bariz bir varlığı ele veriyor	0	2
+Find the longest word with these letters	Bu harflerle en uzun kelimeyi bulun:	0	2
+All buttons must have the same color! Swap a button and its neighbors with Ctrl + number keys	Tüm düğmeler aynı renge sahip olmalıdır! Bir düğmeyi ve komşularını Ctrl + sayı tuşlarıyla değiştirin.	0	2
+Are you ready to dig? Take turns digging between 1 and 4 meters. Avoid bombs and get your hands on the treasure quickly! Use number keys to choose how many meters to dig	Kazmaya hazır mısın? Sırayla 1 ila 4 metre arasında kazı yapın. Bombalardan kaçının ve hazineyi hızla ele geçirin! Kaç metre kazılacağını seçmek için sayı tuşlarını kullanın.	0	2
+meet in atomic number	atom numarasında buluşuyor.	0	2
+meet in mine or treasure	madende veya hazinede buluşur.	0	2
+meet in secret code	gizli şifrede buluşuyor.	0	2
+meet in heavy weight	ağır yükte buluşuyor	0	2
+meet in colored buttons duel	renkli düğmeler düellosunda buluşuyor.	0	2
+meet in longest word	en uzun kelimede buluşur.	0	2
+meet in mini-roulette	mini rulette buluşuyor.	0	2
+meet in Jingle memory	Jingle hafızasında buluşur.	0	2
+Fight your opponent by rolling the die	Zar atarak rakibinizle savaşın.	0	0
+meet in speed question duel	hızlı soru düellosunda buluşur.	0	2
+With which dots is written	Brail alfabesinde hangi noktalarla yazılır	0	2
+meet in first to fifteen	on beşe bir kala buluşur.	0	2
+meet in braille duel	braille düellosunda buluşur.	0	2
+meet in musical duel	müzikal düelloda buluşur.	0	2
+meet in rhytmic duel	ritmik düelloda buluşur.	0	2
+meet in black jack	black jack'te buluşur.	0	2
+in braille	hızlı ol ?	0	2
+Reproduce the rhythm you are hearing with	Duyduğunuz ritmi yeniden tekrarlayın	0	2
+Find the secret code with	Şu basamaktaki sayıyı bulun	0	2
+What is the current lap number of	şu anki tur numarası nedir	0	2
+is on the square	meydanda	0	2
+gives you in exchange	karşılığında sana verir	0	2
+Somebody is looking at you, for sure	Biri sana bakıyor kesin	0	2
+There will be double salary when landing  exactly on start	başlangıçta çift maaş etkin olacak	0	2
+for having driven too fast	çok hızlı sürdüğün için	0	2
+is sold for	satılır	0	2
+Collect interest on your properties	Mülkleriniz için faiz toplayın	0	0
+Press G to propose an auction	Açık artırma önermek için G'ye basın	0	2
+Enable double salary when landing exactly on start	Tam olarak başlangıçta inerken çift maaşı etkinleştir	0	2
+has made a double	 çift attı.	0	2
+made a double	duble yaptı	0	2
+The trade has been refused	ticaret reddedildi	0	2
+That's the wrong language	bu yanlış dil	0	2
+has begun to trade with	ticaret yapmaya başladı	0	2
+Choose the game board to use	Kullanılacak oyun tahtasını seçin	0	2
+How many players are there in the game	Bu oyunda kaç oyuncu var?	0	2
+It's the turn of the thief	Hırsızın sırası	0	2
+The thief has been killed	Hırsız öldürüldü	0	2
+has been killed	Öldürüldü	0	2
+Press I to see the position of each player on the board	Her oyuncunun tahtadaki konumunu görmek için ı'ya basın	0	2
+Press F to read the sheet of the square you are currently on	Bulunduğunuz karenin sayfasını okumak için F tuşuna basın	0	2
+Trafalgar square	Trafalgar Meydanı	0	2
+Leicester square	Leicester meydanı	0	2
+Threats at square	Tehditler şu kare için 	0	2
+No sheet available for that squares	O kareler için sayfa mevcut değil	0	0
+Press Shift+D to display the list of all squares on the board in order	Tahtadaki tüm karelerin listesini sırayla görüntülemek için Shift+D tuşlarına basın.	0	2
+Press E to trade with another player	Başka bir oyuncuyla takas yapmak için E'ye basın	0	2
+Press Shift+H to sell a house	Bir ev satmak için Shift+H tuşlarına basın	0	2
+Press H to build a house	Bir ev inşa etmek için H'ye basın	0	2
+Press space to ask for the rent when somebody lands on your square	Biri meydanınıza indiğinde kirayı istemek için boş alana basın	0	2
+Press enter to roll the  dice	Zarı atmak için enter'a basın	0	2
+You roll  the dice	sen zar atarsın, 	0	2
+This game is played with 2, 3 or 4 players	Bu oyun 2, 3 veya 4 oyuncu ile oynanır.	0	2
+It's the turn of the wizard	Sihirbazın sırası	0	2
+6. South bank; Take 2 feathers	6. Güney bankası; 2 tüy al	0	2
+12. On the water; No special effect	12. Su üzerinde	0	2
+15. On the water; No special effect	15. Suda	0	2
+Go out of jail for free. That card can be kept for future use	hapisten çıkış kartı O kart ileride kullanılmak üzere saklanabilir	0	2
+Sorry, you can't go out of jail	Üzgünüm, hapisten çıkamazsın.	0	2
+By selling a ware stock	Bir mal stoğu satarak	0	2
+22. North bank; Draw 1 cards	22. Kuzey bankası; 1 kart çek	0	2
+24. Off the water; Pay 2 feathers	24. Suyun dışında; 2 tüy öde.	0	2
+must pay to go out	dışarı çıkmak için ödeme yapmak zorundasın	0	2
+Pay school tax	Okul vergisini öde	0	2
+Pay recycling tax	Geri dönüşüm vergisi ödeyin	0	2
+Go back to the previous menu	Önceki menüye geri dön	0	2
+Pay for hospital stay	Hastanede kalmak için ödeme yapın	0	2
+Pay repairations	Ücretli onarımlar	0	2
+Problems at the airport. Pay the customs fee	Havaalanındaki sorunlar. Gümrük ücretini öde	0	2
+Pay your attorney's fees	Avukatlık ücretlerinizi ödeyin	0	2
+Pay the police	polise öde	0	2
+Pay your internet service provider	İnternet servis sağlayıcınıza ödeme yapın	0	2
+General reparations  for your buildings	Binalarınız için genel tazminatlar	0	2
+Pay for general reparations to your buildings	Binalarınız için genel tazminat ödeyin	0	2
+You pay	sen ödersin	0	2
+Arrangement: 2 teams of 2 players each	Düzenleme: Her biri 2 oyuncudan oluşan 2 takım	0	2
+Allow drawing when having a playable card	Oynanabilir bir kart varken kart çekmeye izin ver.	0	2
+Arrangement: individual game, no team	Düzenleme: Bireysel oyun, takım yok	0	2
+Number of cards allowed to draw at your turn	Turunuzda çekebileceğiniz kart sayısı	0	2
+You are allowed to draw up to	Turunuzda en fazla 	0	2
+It's the financial crisis! each player must pay	Bu her oyuncunun ödemesi gereken finansal krizdir	0	2
+Choose one to see its sheet	Sayfasını görmek için birini seçin	0	0
+Automatic ticket machine; Draw 3 cards	Otomatik bilet makinesi; 3 kart çek	0	2
+Automatically pay rents	Kiraları otomatik olarak öde	0	2
+now owns all properties of the purple group	artık mor grubun tüm özelliklerine sahip	0	2
+One more shot for nothing	Boşuna bir atış daha	0	2
+one more	Bir tane daha	0	2
+The king will choose his character first at next turn	Kral bir sonraki turda önce karakterini seçecek	0	2
+You kill the bishop	piskopozu öldürürsün	0	2
+quarter.	mahalle	0	2
+How many times have you heard the duck	Ördek sesini kaç kez duydun?	0	2
+Duck notifications sounds when arcade mode is active	Arcade modu aktif olduğunda ördek bildirimleri geliyor	0	2
+Disable interface sounds	Arayüz seslerini devre dışı bırak	0	2
+The sounds aren't identical	Sesler aynı değil.	0	2
+The sounds are identical	Sesler aynı.	0	2
+Each of his noble quarters yields a gold coin	Soylu mahallelerinin her biri bir altın sikke verir	0	2
+You kill the thief	Hırsızı öldürürsün	0	2
+You kill the merchant	Tüccarı öldürürsün	0	2
+You kill the architect	Mimarı öldürdün	0	2
+You don't have any pennies, you are out of the game	Hiç puanın kalmadı. oyunun dışındasın!	0	2
+You kill the	Sen öldürürsün	0	2
+Use the additional set of non-standard community chest and chance cards	Standart olmayan topluluk sandığı ve şans kartlarının ek setini kullanın	0	2
+Send an out of jail card	Hapisten çıkış kartı gönder	0	2
+You can only send private messages to your friends due to your privacy settings	Gizlilik ayarlarınız nedeniyle sadece arkadaşlarınıza özel mesaj gönderebilirsiniz	0	2
+wishes to only have their friends joining their tables	masasına sadece arkadaşlarının katılmasını istiyor.	0	2
+You aren't allowed to join the table of	Şu kişinin masasına katılmanıza izin verilmiyor,	0	2
+Press space to enter your answer, or backspace to listen to the initial word again	Cevabınızı girmek için boşluk tuşuna basın veya başlangıç kelimesini tekrar dinlemek için geri silme tuşuna basın.	0	2
+Whole team finish mode	Tüm takım bitirme modu	0	0
+It's not too late	Çok geç değil	0	2
+No king is present	hiçbir kral mevcut değil	0	2
+You can't save the table in the middle of a turn	Turun ortasında masayı kurtaramazsın	0	2
+The thief can steal the gold of another character	Hırsız başka bir karakterin altınını çalabilir	0	2
+At the end of the game, you get as many victory points as you have gold coins. The imperial treasure itself isn't worth any victory points	Oyunun sonunda, altın paranız kadar zafer puanı kazanırsınız. İmparatorluk hazinesinin kendisi herhangi bir zafer puanına değmez	0	2
+You have made an excellent rummy! You earn a bonus of 200 points	Mükemmel bir rumi yaptın! 200 puan bonus kazanırsınız!	0	2
+The game is completely blocked	Oyun tamamen engellendi	0	2
+The situation is completely blocked, the round ends in a draw	Durum tamamen bloke oldu, tur berabere bitti.	0	0
+At the end of the game, each prestige quarter gives you an additional victory point	Oyunun sonunda, her prestij çeyreği size ek bir zafer puanı verir	0	2
+as salary after having passed by the start square	başlangıç ​​karesini geçtikten sonra maaş olarak	0	2
+as salary after having  passed by the start square	başlangıç karesini geçtikten sonra maaş olarak	0	2
+Choose the player you want to make a deal with	Anlaşma yapmak istediğiniz oyuncuyu seçin	0	2
+You can build several quarters of the same kind without restriction. If the quarry is destroyed, so built quarters are kept	Kısıtlama olmadan aynı türden birkaç mahalle inşa edebilirsiniz. Taş ocağı tahrip olursa, inşa edilen mahalleler tutulur	0	2
+The murderer's gold can't be stolen	Katilin altını çalınamaz	0	2
+This prestigious construction does nothing special, as nobody ever really understood what was the purpose of a university, but it is worth 8 victory points instead of 6 at the end of the game	Bu prestijli yapı özel bir şey yapmıyor, çünkü hiç kimse bir üniversitenin amacının ne olduğunu gerçekten anlamadı, ancak oyunun sonunda 6 yerine 8 zafer puanı değerinde.	0	2
+The play order is reversed	Oynama sırası tersine çevrilir	0	2
+Play order is reversed	Oynama sırası tersine çevrilir	0	2
+Play again after having touched	Dokunduktan sonra tekrar oyna	0	2
+Play again	Tekrar oyna	0	2
+Play again after having touched	Dokunduktan sonra tekrar oynamak mı	0	2
+The murderer can kill another character, who will not play this turn	Katil, bu turu oynamayacak başka bir karakteri öldürebilir	0	2
+Put up unsold properties for auction	Satılmamış mülkleri açık artırmaya çıkar	0	2
+Auction duration is fixed to 15 seconds	Açık artırma süresi 15 saniye olarak sabitlenmiştir.	0	2
+Please enter your bet for this round	Lütfen bu tur için bahisinizi girin 	0	2
+19. Natural shelter; Take 1 feathers (probable at 60%), Draw 1 cards (probable at 60%) and Skip 1 turns (probable at 60	19. Doğal barınak, yüzde 60 ihtimalle 1 tüy al, yüzde 60 ihtimalle 1 kart çek ve yüzde 60 ihtimalle 1 tur bekle.	0	2
+26. Resupplying area; Draw 2 cards and Take 2 feathers	26. İkmal bölgesi; 2 kart çek ve 2 tüy al	0	2
+28. Wooden zone; Draw 2 cards and Take 2 feathers	28. Ahşap bölge; 2 kart çek ve 2 tüy al	0	2
+is sold for	için satılır	0	2
+Press C to see how much cash you have	Ne kadar paranız olduğunu görmek için C'ye basın	0	2
+Your quarters being protected by the highwall, the warlord will have to pay an additional gold coin to destroy them	Karargahınız yüksek duvar tarafından korunuyor, savaş lordu onları yok etmek için ek bir altın para ödemek zorunda kalacak	0	2
+builds the dracoport for gold	dracoport'u altın için inşa ediyor	0	2
+builds a dungeon for	karşılığında bir zindan inşa eder	0	2
+You don't have enough gold to destroy this quarter	Bu mahalleyi yok etmek için yeterli altınınız yok.	0	2
+a cruiser suddenly disappears from the ocean surface and gets deep in the sea	bir kruvazör aniden okyanus yüzeyinden kaybolur ve denizin derinliklerine iner	0	2
+a submarine suddenly disappears from the ocean surface and gets deep in the sea	bir denizaltı aniden okyanus yüzeyinden kaybolur ve denizin derinliklerine iner	0	2
+Good bye, my little Submarine	Güle güle küçük Denizaltı...	0	2
+There will be a jackpot on free parking	Ücretsiz otoparkta bir ikramiye olacak	0	2
+the jackpot	ikramiye	0	2
+uses a get out of jail free card	hapisten ücretsiz çıkış kartı kullanır	0	2
+gets the jackpot	ikramiyeyi alır	0	2
+You can't take cards from the discard pile when you are at your last card	Son kartınızdayken, atılan desteden kart alamazsınız	0	2
+can't attack a complete city	tam bir şehre saldıramazsın	0	2
+A passerby takes pity on you and gives you	Yoldan geçen biri sana acır ve sana verdi	0	2
+Get out of jail using a card	Kartla hapisten çık	0	2
+Get out of jail by paying	Para ödeyerek hapisten çıkın	0	2
+You don't have enough gold to build this quarter	Bu mahalleyi inşa etmek için yeterli altınınız yok	0	2
+Tourists disturb me, there are more than you can imagine in this hotel	Turistler beni rahatsız ediyor, bu otelde hayal edebileceğinizden daha fazlası var.	0	2
+You don't have enough gold	Yeterince altınınız yok	0	2
+You already own a quarter of this type	Bu türün dörtte birine zaten sahipsiniz	0	2
+Wait for the beginning of the next turn or the character's choice	Bir sonraki dönüşün başlangıcını veya karakterin seçimini bekleyin	0	2
+It's still at the wrong place	Hala yanlış yerde	0	2
+Your shot was exactly in the right place	Vuruşun tam olarak doğru yerdeydi	0	2
+a patrol boat suddenly disappears from the ocean surface and gets deep in the sea	bir devriye botu aniden okyanus yüzeyinden kaybolur ve denizin derinliklerine iner.	0	2
+Patrol boat is definitely unable to fire anymore	Devriye botu artık kesinlikle ateş edemiyor.	0	2
+Submarine is definitely unable to fire anymore	Denizaltı artık kesinlikle ateş edemiyor.	0	2
+Cruiser is definitely unable to fire anymore	Kruvazör artık kesinlikle ateş edemiyor.	0	2
+Place your your patrol boat	Devriye botunuzu yerleştirin	0	2
+Place your your cruiser	Kruvazörünüzü yerleştirin	0	2
+blocks and reached level	bloklar ve ulaşılan seviye	0	2
+You are in position	pozisyondasın	0	2
+It isn't allowed to draw if you have a playable card	Oynanabilir bir kartınız varsa kart çekmenize izin verilmez.	0	2
+in the general ranking	genel sıralamada	0	2
+You played for	Sen oynadın	0	2
+You have already played MagicBlocks	Zaten MagicBlocks oynadınız	0	2
+Off the water	Suyun dışında	0	2
+the water	Suda	0	2
+There's nothing other than water over there	Orada sudan başka bir şey yok	0	2
+Place your your submarine	Denizaltınızı yerleştirin	0	2
+Place your your destroyer	Muhripinizi yerleştirin	0	2
+Place your your aircraft port	Uçağınızın limanını	0	2
+Place your ships	Gemilerinizi yerleştirin	0	2
+Which player do you wish to attack	Hangi oyuncuya saldırmak istersiniz?	0	2
+Buy 3 cards for	3 kart satın al	0	2
+You pay a gold coin to draw a card	Kart çekmek için altın ödüyorsunuz	0	2
+pays 3 gold coins for drawing 3 cards	3 kart çekmek için 3 altın öder	0	2
+pays you	sana öder	0	2
+pays a gold coin to draw a card	kart çekmek için altın öder.	0	2
+Choose a card to discard	Atılacak bir kart seçin	0	2
+Choose the cards you want to exchange	Değiştirmek istediğiniz kartları seçin	0	2
+You pay 3 gold coins for drawing 3 cards	3 kart çekmek için 3 altın ödersiniz	0	2
+Do you want to start playing today or tomorrow	Bugün veya yarın oynamaya başlamak ister misiniz	0	2
+Choose the property where you want to build a house	ev inşa etmek istediğiniz mülkü seçin	0	2
+An update of the playroom is available	Oyun odasının bir güncellemesi mevcuttur	0	2
+Do you want to download it now	şimdi indirmek istiyor musun	0	2
+which quarter do you wish to destroy	hangi mahalleyi yok etmek istiyorsun?	0	2
+Which character do you want to kill	Hangi karakteri öldürmek istiyorsun	0	2
+Who do you want to manually add or remove points from	Kimden manuel olarak puan eklemek veya kimden puan kaldırmak istiyorsunuz?	0	2
+This card has no special effect	Bu kartın özel bir etkisi yok	0	2
+You don't have this power	bu güce sahip değilsin	0	2
+You don't have any cards in your hand	Elinizde hiç kart yok	0	2
+You are the murderer and the thief.	Katil ve hırsız sensin.	0	2
+You have invited	davet ettin	0	2
+builds a quarry for	için bir taş ocak inşa eder	0	2
+builds a market for	için market kuruyor.	0	2
+You have finished the round	Turu bitirdiniz	0	2
+builds the laboratory for	için labaratuvar kurar	0	2
+destroys a castle in your city for	şehrinizdeki bir kaleyi için yok eder	0	2
+destroys a market in your city for	şehrinizdeki bir pazarı karşılında yok eder	0	2
+destroys a temple in your city for	şehrinizdeki bir tapınağı karşılığında yok eder	0	2
+destroys a workshop in city  for	için şehirdeki bir atölyeyi yok eder	0	2
+a palace in The	saray	0	2
+A palace	saray	0	2
+destroys a palace in your city for	şehrinizdeki bir sarayı için yok eder.	0	2
+You don't have enough gold to build this quarter	Bu çeyreği inşa etmek için yeterli altınınız yok	0	2
+You destroy a	yok edersin	0	2
+You destroy the	Yok ediyorsun	0	2
+You destroy	Sen yok edersin	0	2
+You build a	Sen inşa ediyorsun	0	2
+You build	Sen inşa ediyorsun	0	2
+You are the merchant	sen tüccarsın	0	2
+has exchanged his hand with yours	elini seninkiyle değiştirdi	0	2
+has exchanged his hand with	Elini değiştirdi	0	2
+No wizard is present	Hiçbir sihirbaz mevcut değil	0	2
+Who do you want to exchange your hand with	Kiminle el değiştirmek istersin	0	2
+Choose the player whose quarters you want to see	Dairelerini görmek istediğiniz oyuncuyu seçin	0	2
+Press J to go out of jail by using a card	Bir kart kullanarak hapisten çıkmak için J tuşuna basın	0	2
+Press P to go out of jail by paying	Ödeme yaparak hapisten çıkmak için P'ye basın	0	2
+receive an out of jail card	hapisten çıkış kartı almak	0	2
+can't go out of jail	hapisten çıkamaz	0	2
+Sorry, you can't go out of jail	hapisten çıkamazsın	0	2
+sunk in total	toplamda battı	0	2
+built quarters for a total of	toplam için inşa edilmiş mahalleler	0	2
+from his nobility quarters	asalet mahallelerinden	0	2
+Double salary on start square	Başlangıç karesinde çift maaş	0	2
+You can't attack that player	O oyuncuya saldıramazsın.	0	2
+from his commercial quarters	onun ticari mahallesinden	0	2
+from his religious quarters	onun dini mahallelerinden	0	2
+coins from your military quarters	askeri karargahınızdan	0	2
+'s city  for	Şehir için	0	2
+It's the turn of the king	Kralın sırası	0	2
+It's the turn of the murderer	Katilin sırası	0	2
+You are the king	Kralsın	0	2
+The merchant earns an additional gold coin at the beginning of his turn	Tüccar, sırasının başında ek bir altın para kazanır	0	2
+You take Three pairs for 150 points	aldın 3 çift için 150 puan.	0	2
+Three pairs for 150 points	3 çift için 150 puan.	0	2
+Each of his commercial quarters yields a gold coin	Ticari mahallelerinin her biri bir altın sikke getiriyor	0	2
+This prestigious construction is no longer useful nowadays, as nobody has ever seen a dragon for centuries, but it is worth 8 victory points instead of 6 at the end of the game	Bu prestijli yapı, yüzyıllardır hiç kimse ejderha görmediği için günümüzde artık kullanışlı değil, ancak oyunun sonunda 6 yerine 8 zafer puanı değerinde.	0	2
+The warlord can destroy an opponent's quarter by paying its construction cost minus one	Savaş lordu, inşaat maliyetini eksi bir ödeyerek rakibin mahallesini yok edebilir.	0	2
+Each of his military quarters yields one gold	Askeri bölgelerinin her biri bir altın verir	0	2
+The bishop can't be attacked by the warlord	Piskopos, savaş lordu tarafından saldırıya uğrayamaz	0	2
+Each of his religious quarters yields a gold coin	Dini mahallelerinin her biri bir altın sikke verir	0	2
+It's the turn of the bishop	Piskoposun sırası	0	2
+It's the turn of the merchant	Sıra tüccarda	0	2
+Choose a card to add to your hand	Elinize eklemek için bir kart seçin	0	2
+View your cards	Kartlarınızı görüntüleyin	0	2
+Exchange cards with the draw pile	kartları beraberlik yığını ile değiştirin	0	2
+draws a community chest card	topluluk sandık kartı çeker	0	2
+draws a chance card	bir şans kartı çeker	0	2
+The architect draws two additional cards and can build up to	Mimar iki ek kart çeker ve	0	2
+It's the turn of the architect	Sıra mimarda	0	2
+Exchange your cards with another player	kartlarınızı başka bir oyuncuyla değiştirin	0	2
+The following characters are excluded from this turn: The thief and The wizard	Aşağıdaki karakterler bu turdan hariç tutulur: Hırsız ve Sihirbaz	0	2
+You collect	Toplarsın	0	2
+coins from your commercial quarters	ticari mahallenizden	0	2
+The draw pile contains cards	beraberlik yığını kartlar içerir	0	2
+It's the turn of the warlord	Savaş lordunun sırası	0	2
+The wizard can exchange his cards with another player or the draw pile	Sihirbaz, kartlarını başka bir oyuncuyla veya beraberlik destesiyle değiştirebilir	0	2
+Open your eyes	Gözlerini aç	0	2
+Do you want to play with open discard	Açık ıskarta ile oynamak ister misiniz	0	2
+Percept income of military quarters	askeri bölgelerin algı geliri	0	2
+Which character do you want to steal gold from	Hangi karakterden altın çalmak istersin?	0	2
+How many quarters do you want to play this game in	Bu oyunu kaç mahallede oynamak istiyorsun	0	2
+Percept income of commercial quarters	Ticari mahallelerin algı geliri	0	2
+Do you want to play with two characters	İki karakterle oynamak ister misin?	0	2
+Press V to see the quarters you have built	İnşa ettiğiniz mahalleleri görmek için V'ye basın	0	2
+Press V or I to view game information	Oyun bilgilerini görüntülemek için V veya I düğmesine basın	0	2
+Press I to obtain game information	Oyun bilgilerini almak için I tuşuna basın	0	2
+you must bank at least	en az	0	2
+You have not accumulated enough points to bank	Banka için yeterli puan biriktirmediniz	0	2
+You have not accumulated enough points for a first banking	İlk bankacılık işlemi için yeterli puan biriktirmediniz	0	2
+You must first choose at least one winning combination before rolling the dice again	Zarı tekrar atmadan önce en az bir kombinasyon seçmelisiniz.	0	2
+Spades is played with 3 to 6 players	Maça 3 ila 6 oyuncu ile oynanır	0	2
+You can play dominos with 2 to 12 players	2 ila 12 oyuncu ile domino oynayabilirsiniz	0	2
+shuffles the dominos and deals 15 to each player	taşları karıştırır ve her oyuncuya 15 tane dağıtır	0	2
+Backgammon is played exclusively with 2 players	Tavla sadece 2 oyuncu ile oynanır.	0	2
+You must follow	takip etmelisin	0	2
+This game is played with 2 to 16 players	Bu oyun 2 ila 16 oyuncu arasında oynanır	0	2
+Press B to enter the number of tricks you think you will take in this round	Bu turda yapacağınızı düşündüğünüz löve sayısını girmek için B'ye basın.	0	2
+Enter the number of tricks you think you will take in this round	Bu turda yapacağınızı düşündüğünüz hile sayısını girin	0	2
+You think you will take	Alacağını düşündüğün el sayısı	0	2
+You can't lead a trick with spade until someone plays a spade	Biri maça çalana kadar maça ile   numara yapamazsın	0	2
+Press C to see your cards	Kartlarınızı görmek için C'ye basın	0	2
+Press C to see what cards are currently on the table, or the numbers from 1 to 9 to read them one by one	Şu anda masada hangi kartların olduğunu veya 1'den 9'a kadar olan sayıları tek tek okumak için C'ye basın	0	2
+You think ds of type negative	1 tip negatif kart verin.	0	2
+You've got the largest number of cards	En fazla karta sahipsin	0	2
+Card picker	Kart seçici	0	2
+You mark 2 points	2 puan aldın.	0	2
+You mark 1 points	1 puan aldın	0	2
+The winner of the whole game is	Oyunun kazananı	0	2
+Bet 3 feathers on number 0 (winning x8	0 numaraya 3 tüy yatırın (x8 kazanır)	0	2
+Bet 3 feathers on number 1 (winning x8	1 numaraya 3 tüy bahse girin (x8 kazanan)	0	2
+Bet 3 feathers on number 2 (winning x8	2 numaraya 3 tüy bahse girin (x8 kazanan)	0	2
+Bet 3 feathers on number 3 (winning x8	3 numaraya 3 tüy yatırın (x8 kazanır)	0	2
+Bet 3 feathers on number 4 (winning x8	4 numaraya 3 tüy bahse girin (x8 kazanan)	0	2
+Bet 3 feathers on number 5 (winning x8	5 numaraya 3 tüy bahse girin (x8 kazanan)	0	2
+Bet 3 feathers on number 6 (winning x8	6 numaraya 3 tüy yatırın (x8 kazanır)	0	2
+Bet 3 feathers on number 7 (winning x8	7 numaraya 3 tüy bahse girin (x8 kazanan)	0	2
+Bet 3 feathers on number 8 (winning x8	8 numaraya 3 tüy yatırın (x8 kazanır)	0	2
+Bet 5 feathers on first quarter (winning x4	İlk çeyrekte 5 tüy bahisi yapın (4 kat kazanan)	0	2
+Bet 5 feathers on second quarter (winning x4	İkinci çeyrekte 5 tüy bahisi yapın (4 kat kazanan)	0	2
+Bet 5 feathers on third quarter (winning x4	Üçüncü çeyrekte 5 tüy bahisi yapın (4 kat kazanan)	0	2
+Bet 5 feathers on last quarter (winning x4	Son çeyrekte 5 tüy bahisi yapın (4 kat kazanan)	0	2
+Bet 9 feathers on black (winning x2	9 tüyü siyaha yatırın (2 kat kazanan)	0	2
+Bet 9 feathers on red (winning x2	9 tüyü kırmızıya yatırın (2 kat kazanan)	0	2
+Bet 9 feathers on pass (winning x2	Geçişte 9 tüy bahse girin (2 kat kazanan)	0	2
+Bet 9 feathers on miss (winning x2	Iskalama üzerine 9 tüy bahisi yapın (2 kat kazanan)	0	2
+Bet 9 feathers on odd (winning x2	9 tüyü teke yatırın (x2 kazanan)	0	2
+Bet 9 feathers on even (winning x2	Çift üzerine 9 tüy yatırın (x2 kazanan)	0	2
+owns the largest number of cards	en fazla karta sahip	0	2
+largest number of cards	en fazla kart sayısı	0	2
+discards 1 cards	1 kart atar.	0	2
+Sort cards by rank	kartlarınızı türlerine göre sıralayın	0	2
+Sort cards by suit	kartlarınızı artan ve azalana göre sıralayın	0	2
+Do you wish to play with the default options	Varsayılan seçeneklerle oynamak ister misiniz?	0	2
+Take 2 feathers	2 tüy al	0	2
+Take 3 feathers	3 tüy al	0	2
+Press D to get detailed information about a card or a character in a menu	Menüdeki bir kart veya karakter hakkında ayrıntılı bilgi almak için (D)ye basın	0	2
+builds a trading post for 3 gold	3 altın karşılığında bir ticaret noktası oluşturur	0	2
+gets 2 gold coins	2 altın alır	0	0
+collects 0 gold from his religious quarters	dini mahallelerinden 0 altın toplar	0	2
+gets a gold coin	altın para alır	0	0
+You must remove all those kilos	Tüm bu kiloları çıkarmalısın	0	2
+He's so funny that you are forgetting what you are doing and the time passing	O kadar komik ki ne yaptığını ve geçen zamanı unutuyorsun	0	2
+You now own all properties of the pink group	artık tüm pembe grubuna sahipsiniz	0	2
+You now own all properties of the red group	artık tüm kırmızı grubuna sahipsiniz	0	2
+now owns all properties of the green group	artık tüm yeşil grubuna sahip	0	2
+You now own all properties of the station group	artık yüm istasyon grubuna sahipsin	0	2
+now owns all properties of the orange group	artık tüm turuncu grubuna sahip	0	2
+You now own all properties of the yellow group	artık tüm sarı grubuna sahipsin	0	2
+You now own all properties of the orange group	artık tüm turuncu grubuna sahipsin	0	2
+You now own all properties of the blue group	artık tüm mavi grubuna sahipsin	0	2
+So close and yet so far from reality, administrators conscientiously watch over the teams and machines from their tower, so that everything always works for the best	Gerçekliğe çok yakın ama yine de çok uzak olan yöneticiler, her şeyin her zaman en iyi şekilde çalışması için kulelerinden ekipleri ve makineleri dikkatli bir şekilde izlerler.	0	2
+You have too many feathers	çok fazla tüyün var	0	2
+now owns all properties of the pink group	artık tüm pembe grubuna sahip	0	2
+You now own all properties of the green group	artık tüm yeşil grubuna sahipsin	0	2
+now owns all properties of the yellow group	artık tüm sarı grubuna sahip	0	2
+You now own all properties of the purple group	artık tüm mor grubuna sahipsin	0	2
+You now own all properties of the azure group	artık tüm gök mavisi grubuna sahipsin	0	2
+now owns all properties of the red group	artık tüm kırmızı grubuna sahip	0	2
+now owns all properties of the blue group	artık tüm mavi grubuna sahip	0	2
+You now own all properties of the public service group	Artık kamu hizmeti grubunun tüm mülklerine sahipsiniz	0	2
+now plays with a die bonus of +2 during 2 turns	artık 2 tur boyunca +2 zar bonusu ile oynuyor.	0	2
+now plays with a die bonus of +1 during 3 turns	artık 3 tur boyunca +1 zar bonusu ile oynuyor.	0	2
+now plays with a die malus of -1 during 3 turns	artık 3 tur boyunca -1'lik bir zarla oynuyor.	0	2
+now plays with a die bonus of +2 during 3 turns	artık 3 tur boyunca +2 zar bonusu ile oynuyor.	0	2
+now plays with a die 4 for 3 turns	şimdi 3 tur boyunca zar 4 ile oynuyor.	0	2
+now plays with a	Şimdi oynuyor	0	2
+had to play joker before the end of the turn	dönüş bitmeden joker oynamak zorunda kaldı	0	2
+Choose a card to play	Oynamak için bir kart seçin	0	2
+You obtain a bonus of 3 points for finishing the round	Turu bitirdiğiniz için 3 puan bonus alırsınız!	0	2
+Your cards are no longer sorted	Kartlarınız artık sıralanmıyor	0	2
+This game is played with 2 to 10 players	Bu oyun 2 ila 10 oyuncu ile oynanır.	0	2
+is located on this land	bu arazi üzerinde yer almaktadır.	0	2
+is in the middle of this nicely mowed land	bu güzel biçilmiş arazinin ortasında.	0	2
+Bbonus of 300 points obtained for playing all 4 immunities	4 dokunulmazlığın tümünü oynadığın için elde edilen 300 puanlık bonus.	0	2
+Bonus of 300 points obtained for winning the round without using a 200 miles card	200 mil kartı kullanmadan raundu kazanmak için elde edilen 300 puanlık bonus.	0	2
+earning a bonus of	bonus kazandı	0	2
+bonus for difficult contract	zor sözleşme için bonus	0	2
+Bonus of 100 points obtained	Alınan 100 puanlık bonus	0	2
+bonus of +2 during 2 turns	2 tur boyunca +2 bonus	0	2
+bonus of +2 during 3 turns	3 tur boyunca +2 bonus	0	2
+Digging up dice	Zar kazmak	0	2
+die malus of -3 during 1 turns	1 turda -3 malus ölür	0	2
+Play with a die 4 during 2 turns	2 tur boyunca bir kalıp 4 ile oynayın	0	2
+Play with a die bonus of +3 during 1 turns	1 tur boyunca +3 zar bonusu ile oynayın.	0	2
+die bonus of +3 during 1 turns	1 tur boyunca +3 zar bonusu.	0	2
+Play with a die bonus of +2 during 2 turns	2 tur boyunca +2 zar bonusu ile oynayın..	0	2
+Play with a die bonus of +1 during 4 turns	4 tur boyunca +1 zar bonusu ile oynayın..	0	2
+You have obtained a bonus of 300 points since you haven't used any 200 miles card	200 mil kartı kullanmadığınız için 300 puan bonus kazandınız	0	2
+Force to play a card of type evil	Evil türünde bir kart oynamaya zorla.	0	2
+Force to play a card of type negative	Negatif türde bir kart oynamaya zorla	0	2
+View other general information	Diğer genel bilgileri görüntüleyin	0	2
+A lot of big volumes of mysterious inscriptions and hardly understandable parchments on the desks give a good overview of the great work undertaken by the translation teams	Masaların üzerindeki büyük hacimli gizemli yazıtlar ve anlaşılması güç parşömenler, çeviri ekipleri tarafından üstlenilen harika çalışmalara iyi bir genel bakış sağlar.	0	2
+The meal is served and it seems delicious	Yemek servis edilir ve lezzetli görünüyor	0	2
+One, two, three, move, move, move	Bir, iki, üç, hareket, hareket, hareket	0	2
+A smaller table for a more confidential party	Daha gizli bir parti için daha küçük bir masa	0	2
+Stairs aren't very convenient for ducks	Merdivenler ördekler için pek uygun değil	0	2
+A great earth globe and a gigantic library allow quiz teams to record and verify world facts in a certain serenity	Büyük bir dünya küresi ve devasa bir kütüphane, bilgi yarışması ekiplerinin dünya gerçeklerini belirli bir dinginlik içinde kaydetmesine ve doğrulamasına olanak tanır.	0	2
+Bubbles and swirls are calming	Kabarcıklar ve girdaplar sakinleştirici	0	2
+The sound of an explosion is heard from far away	Uzaklardan bir patlama sesi duyulur	0	2
+So close, and so far away from the reality, administrators keep conscientiously staying on watch to teams and machines from their tower, so that everything always works for the best	Gerçeklere çok yakın ve çok uzak olan yöneticiler, kulelerinden ekipleri ve makineleri dikkatle izlemeye devam ediyor, böylece her şey her zaman en iyisi için çalışıyor	0	2
+A quiet purr and little regular beeps with musical tones seem to foresee harmonious working	Sessiz bir mırıltı ve müzik tonlarıyla birlikte küçük düzenli bip sesleri uyumlu çalışmayı öngörüyor gibi görünüyor.	0	2
+Thanks to his power, he could make you do anything	Gücü sayesinde sana her şeyi yaptırabilir.	0	2
+What a good smell! It's time to discreetly take some supplies	Ne güzel bir koku! Bazı malzemeleri gizlice almanın zamanı geldi	0	2
+A good moment of release in joy and happyness	Sevinç ve mutluluk içinde iyi bir serbest bırakma anı	0	2
+Green plants are invigorating	Yeşil bitkiler canlandırıcıdır	0	2
+Take this welcome present	Bu hoş geldin hediyesini al	0	2
+Mexican train is played with 2 to 10 players	Meksika treni 2 ila 10 oyuncu ile oynanır	0	2
+Ninety nine is played with 2 to 12 players	Doksan dokuz, 2 ila 12 oyuncu ile oynanır	0	2
+Rummy is played with 2 to 8 players	Remi 2-8 oyuncu ile oynanır.	0	2
+Press C to see how many points you have accumulated for the current turn	Mevcut tur için kaç puan topladığınızı görmek için (C)ye basın	0	2
+Press Ctrl+J to accept an invitation	Bir daveti kabul etmek için Ctrl+J tuşlarına basın	0	2
+Press C to see what cards are currently on the table, or the numbers from 1 to 9 to see them one by one	Şu anda masada hangi kartların olduğunu görmek için C'ye veya tek tek görmek için 1'den 9'a kadar olan sayılara basın.	0	2
+tricks taken out of	çıkarılan hileler	0	2
+Press C to know how many points you have so far for this turn	Bu dönüş için şimdiye kadar kaç puanınız olduğunu öğrenmek için C'ye basın	0	2
+Press D to repeat dice results	Zar sonuçlarını tekrarlamak için D'ye basın	0	2
+Press V to know which tiles are still up	Hangi taşın hala yukarıda olduğunu öğrenmek için V tuşuna basın	0	1
+Press 1 to 9 to know the state (up or down) of each tile separately	Her bir  taşın durumunu (yukarı veya aşağı) ayrı ayrı bilmek için 1'den 9'a basın	0	2
+ships status	gemi durumu	0	2
+Your score so far for this turn is	Bu yıkım için şimdiye kadarki puanınız	0	2
+Press C to see all dominos currently on the table	Şu anda masada olan tüm dominoları görmek için C'ye basın	0	2
+It's impossible to do	Yapmak imkansız	0	2
+Technical problem in jail: all players are set  free	Hapishanede teknik sorun: tüm oyuncular serbest bırakıldı	0	2
+This game requires 3 to 8 players	Bu oyun 3 ila 8 oyuncu gerektirir	0	2
+Otherwise the players will have to press space to claim them	Aksi takdirde oyuncular onları talep etmek için boşluk tuşuna basmak zorunda kalacaklar	0	2
+Battleship can be played with only 2 players	Battleship sadece 2 oyuncu ile oynanabilir	0	2
+This game can be played with 2 to 15 players	Bu oyun 2 ila 15 oyuncuyla oynanabilir.	0	2
+View properties of other players	Diğer oyuncuların özelliklerini görüntüleyin	0	2
+Press Shift+V to see the quarters that other players have built	Diğer oyuncuların oluşturduğu mahalleleri görmek için Shift+V tuşlarına basın	0	2
+Press X to stop the game and open the table to new participants	oyunu kapatmak ve yeni oyuncular almak için X tuşuna basın	0	2
+Press Shift+S to see the cash of other players	Diğer oyuncuların parasını görmek için Shift+S tuşlarına basın.	0	2
+Press space to hit	Bahis için boşluk tuşuna basın.	0	2
+Press enter to stand	Olduğunuz sayıda durmak için, enter tuşuna basın.	0	2
+Press P to split	Bölmek için P tuşuna basın.	0	2
+Press D to double	Bahsinizi İki katına çıkartıp, gelen kartla birlikte olduğunuz sayıda durmak için D tuşuna basın.	0	2
+Press I to take the insurance	Sigortayı almak için I tuşuna basın.	0	2
+Press F to fold	çekilmek için F tuşuna basın.	0	2
+Press Shift+H to sort your dominos. You can also use Shift+Arrow keys to reverse or reorder them	taşlarınızı sıralamak için Shift+H tuşlarına basın. Bunları tersine çevirmek veya yeniden sıralamak için Shift+Ok tuşlarını da kullanabilirsiniz.	0	2
+Press Alt+O to set game options	Oyun seçeneklerini ayarlamak için Alt + O tuşlarına basın	0	2
+Here's a list of all the cards in the discard pile. The most recently discarded are on the top.  Press enter to take the selected and all preceding cards from the pile. Press escape to close this menu without drawing any card	İşte atılan destedeki tüm kartların bir listesi. En son atılanlar en üsttedir. Desteden seçilen ve önceki tüm kartları almak için enter tuşuna basın. Herhangi bir kart çekmeden bu menüyü kapatmak için escape tuşuna basın	0	2
+Here's a list of all the cards in the discard pile. The most recently discarded are on the top. Press enter or escape to close this menu	İşte atılan destedeki tüm kartların bir listesi. En son atılanlar en üsttedir. Bu menüyü kapatmak için enter veya escape tuşuna basın.	0	2
+card left	kartı kaldı	0	2
+hasn't anymore pennies, he's out of the game	oyun dışı kaldı	0	2
+and press Alt+O to set game options	ve oyun seçeneklerini ayarlamak için Alt + O tuşlarına basın	0	2
++2 and +4 responses are allowed	+2 ve +4 duyarlılığına izin verildi	0	2
+to enter, and at least	,tek elde biriktirilmesi gereken en düşük sayı	0	2
+Create a new table of	Yeni bir masa oluştur	0	2
+Playing with a bot isn't supported in this version of the client	İstemcinin bu sürümünde bir botla oynamak desteklenmiyor	0	2
+Create a new table	Yeni bir masa oluştur	0	2
+of -1 during 2 turns	2 tur boyunca -1	0	2
+You have made an excellent rummy, and without laying off	Mükemmel bir per yaptın ve sıra vermeden	0	2
+Join a table	Bir masaya katıl	0	2
+Press N to start forming a new combination on the table	Masada yeni bir kombinasyon oluşturmaya başlamak için N'ye basın	0	2
+The server is going to reboot in less than	Sunucu daha kısa sürede yeniden başlatılacak	0	2
+The server is going to reboot now	Sunucu şimdi yeniden başlatılacak	0	2
+Cancel this deal	Bu anlaşmayı iptal et	0	2
+Celine Dion's voice goes out of a destroyer. No doubt that we have found a new Titanic	Celine Dion'un sesi bir yok ediciden çıkıyor. Hiç şüphe yok ki yeni bir Titanik bulduk.	0	2
+Destroyer is definitely unable to fire anymore	Yok edici kesinlikle artık ateş edemez.	0	2
+Aircraft port is definitely unable to fire anymore	Uçak limanı artık kesinlikle ateş edemez.	0	2
+Press R to cancel	İptal etmek için R'ye basın	0	2
+Press Shift+N to cancel forming a new combination	Yeni bir kombinasyon oluşturmayı iptal etmek için Shift + N tuşlarına basın	0	2
+Press C to see the list of combinations already on the table	Tabloda bulunan kombinasyonların listesini görmek için C'ye basın	0	2
+There isn't any combination on the table at the moment	Şu anda masada herhangi bir kombinasyon yok	0	2
+Press D to see the content of the discard pile	Atılan kartların içeriğini görmek için D'ye basın	0	2
+Draw 1 cards of type negative	Negatif tipte 1 kart çekin	0	2
+Press Shift+D to draw a card from the discard pile	Atılan desteden bir kart çekmek için Shift + D tuşlarına basın	0	2
+Press F to finish forming a new combination on the table	Masada yeni bir kombinasyon oluşturmayı bitirmek için A'ye basın	0	2
+Press delete to junk a card	Bir kartı çöpe atmak için delete'ye basın	0	2
+Press E to see how many cards other players have	Diğer oyuncuların kaç kartı olduğunu görmek için E'ye basın.	0	2
+Press E to know how many cards other players have	Diğer oyuncuların kaç karta sahip olduğunu öğrenmek için E'ye basın	0	2
+Press Shift+F to finish your turn	Sıranızı bitirmek için şift+F tuşlarına basın	0	2
+Press R to have a reminder on activated rules	Etkinleştirilen kurallarla ilgili bir hatırlatıcı olması için R tuşuna basın	0	2
+Press Shift+C to sort your cards by suit	Kartlarınızı gruplarına göre sıralamak için Shift+C tuşlarına basın	0	2
+Press Shift+H to sort your cards by rank	Kartlarınızı numaraya göre sıralamak için Shift + H tuşlarına basın	0	2
+Press Shift+M to disable card sorting	Kart sıralamayı devre dışı bırakmak için Shift+M tuşlarına basın	0	2
+hotels are available	Oteller mevcuttur.	0	2
+To manipulate already existing combinations, open the list of combinations with C key, then open the context menu on the combination you are interested in by pressing application key	Halihazırda var olan kombinasyonları değiştirmek için, C tuşuyla kombinasyonların listesini açın, ardından uygulama tuşuna basarak ilgilendiğiniz kombinasyonun bağlam menüsünü açın	0	2
+Press W to know who is at the table and who is its master	Masada kimin olduğunu ve kimin sahibi olduğunu öğrenmek için W tuşuna basın	0	2
+Here is the list of combinations currently present on the table	İşte şu anda tabloda bulunan kombinasyonların listesi	0	2
+You had to play some of your cards before the end of your turn	Sıranız bitmeden bazı kartlarınızı oynamanız gerekiyordu	0	2
+bonus of +1 during 3 turns	3 tur boyunca +1 bonus.	0	2
+has no longer any die bonus	artık zar bonusu yok.	0	2
+You no longer have any die bonus	Artık herhangi bir zar bonusunuz yok	0	2
+has no longer any die bonus	artık zar bonusu yok	0	2
+This gives you a bonus of	Bu size bir bonus verir	0	2
+You earn a bonus of	bir bonus kazanırsın	0	2
+malus of -3 during 2 turns	2 tur boyunca -3'lük malus	0	2
+Force to play a card	Bir kart oynamaya zorla	0	2
+Force to play a	Oynamaya zorla	0	2
+The goat eats the cabbage	Keçi lahanayı yer	0	2
+How many points are accumulated on this turn	Bu turda kaç puan birikir	0	2
+penality points	puan kaybettirdi	0	2
+has reached the score limit of	aştı	0	2
+Press E to see what is threatening at that square	Bulunduğun karede hangi taşın tehdit ettiğini görmek için E'ye basın.	0	2
+and then press enter again on its destination square	ve ardından hedef karede tekrar enter tuşuna basın	0	2
+and is out of the game	ve oyun dışı kaldı	0	2
+to make your first meld	ihtiyacınız var	0	2
+You haven't made enough points for a first meld. Your first meld must contain at least	Açılma için yeterince puan almadınız. İlk kombinasyonunuz en az olması gereken	0	2
+Press C to know how many points you have accumulated for the current turn	Sahip olduğunuz toplam puanı öğrenmek için C'ye basın.	0	2
+with the total score of	toplam puan	0	2
+You must first draw 2 cards	Önce 2 kart çekmelisiniz	0	0
+now owns all properties of the station group	artık tüm istasyon grubuna sahip	0	2
+Advance to the next unowned property	Bir sonraki sahipsiz mülke ilerleyin	0	2
+Advance to the nearest railway station	En yakın tren istasyonuna ilerleyin	0	2
+Advance to the nearest public service	En yakın kamu hizmetine ilerleyin	0	2
+Advance to the nearest unowned property	En yakın sahipsiz mülke ilerleyin	0	2
+Everybody receive 1 cards, Take 1 feathers	Herkes 1 kart çeker, 1 tüy alır	0	2
+Advance to start square	Kareye başlamak için ilerleyin	0	2
+19. Trampoline; Advance or go back 1 to 5 squares at random	19. Trambolin; Rastgele 1 ila 5 kare ilerleyin veya geri gidin	0	2
+Advance or go back 1 to 2 squares at random	Rastgele 1 ila 2 kare ilerleyin veya geri gidin.	0	2
+28. Sport room; Take part in our exclusive fitness program	28. Spor odası; Özel fitness programımıza katılın!	0	2
+has invited	davet etti	0	2
+A concealed character has been discarded	Gizlenmiş bir karakter atıldı	0	2
+How many laps around the board to play this game in	oyun bitişi için tahtanın etrafında kaç tur dönüleceğini seçin	0	2
+bonus of +1 during 4 turns	4 tur boyunca +1 bonus	0	2
+Choose the minimum number of points that one can bank	Birinin alabileceği minimum puan sayısını seçin	0	2
+has exchanged his hand with yours	elini seninkiyle değiştirdi	0	2
+exchanges his hand with you	elini seninle değiştirir	0	2
+exchanges their hand with yours	elini seninkiyle değiştirir	0	2
+exchanges his hand with	elini değiştiriyor	0	2
+You have a playable domino in your hand, you aren't allowed to draw	Elinizde oynanabilir bir taş var, taş çekmenize izin verilmiyor	0	2
+Wood is quit and trees are inspiring	Ahşap bitmiştir ve ağaçlar ilham verir	0	2
+It's time to take a run up	Koşmanın zamanı geldi	0	2
+feathers in category Cinema	Sinema kategorisindeki tüyler	0	2
+Culture room; A question in category random	Kültür odası; Rastgele kategoride bir soru.	0	2
+A question will be asked for	Bir soru sorulacak	0	2
+Sorry, but there are no bots in this game	Üzgünüm ama bu oyunda bot yok.	0	2
+are the winners of the whole game	Oyunun kazananı	0	2
+and is now out of the game	ve şimdi oyun dışı	0	2
+feathers in category Games and entertainment	Oyunlar ve eğlence kategorisindeki tüyler	0	2
+feathers in category Sport	Spor kategorisindeki tüyler	0	2
+feathers in category Television and media	Televizyon ve medya kategorisindeki tüyler	0	2
+feathers in category Nature and anatomy	Doğa ve anatomi kategorisindeki tüyler	0	2
+feathers in category Tradition and beliefs	tüy için gelenek ve inançlar kategorisinde	0	2
+No need of an umbrella under these tall plants	Bu uzun bitkilerin altında şemsiyeye gerek yok	0	2
+You junk an	Çöpe attın	0	2
+Your cards are now sorted by ascending suit	Kartlarınız artık artan gruba göre sıralanmıştır.	0	2
+Your cards are now sorted by descending suit	Kartlarınız artık azalan guruba göre sıralanmıştır	0	2
+Your cards are now sorted by ascending number	Kartlarınız artık artan numaraya göre sıralanmıştır	0	2
+Your cards are now sorted by descending number	Kartlarınız artık azalan numaraya göre sıralanmıştır	0	2
+Droppable card. status	Bırakıla bilir kart	0	2
+cards left	kartı kaldı	0	2
+New combination. Choose the cards you wish to include in it by selecting them and pressing enter. Finally, press F when you are ready to put the entire combination on the table	Yeni kombinasyon. Dahil etmek istediğiniz kartları seçip enter tuşuna basarak seçin. Son olarak, tüm kombinasyonu masaya koymaya hazır olduğunuzda F tuşuna basın	0	2
+You can't take cards from the discard pile before your first meld	İlk açmanızdan önce atılan desteden kart alamazsınız	0	2
+Your cards are now sorted by descending rank	Kartlarınız artık azalan sıraya göre sıralanmıştır	0	2
+Your cards are now sorted by ascending rank	Kartlarınız artık artan sıralamaya göre sıralanmıştır	0	2
+cards in discard pile	atılan destedeki kartlar	0	2
+You don't have enough feathers to play this card	Bu kartı oynamaya yetecek kadar tüyün yok.	0	2
+A few laptops, a couple of nice fluffies and many soft cushion spread across comfortable sofas create both a serious and relaxed work atmosphere, naturally open to discussions	Birkaç dizüstü bilgisayar, birkaç güzel kabarık ve rahat kanepelere yayılmış birçok yumuşak minder, hem ciddi hem de rahat bir çalışma ortamı yaratır, doğal olarak tartışmalara açıktır.	0	2
+Press D in cards menu to have detailed descriptions	Ayrıntılı açıklamalara sahip olmak için kartlar menüsünde D'ye basın	0	2
+Press enter to read the full contents of a post; Press Ctrl+R to reply, Ctrl+T to view the list of participants, or Ctrl+N to start a new discussion	Bir gönderinin tüm içeriğini okumak için enter tuşuna basın; Yanıtlamak için Ctrl+R'ye, katılımcı listesini görüntülemek için Ctrl+T'ye veya yeni bir tartışma başlatmak için Ctrl+N'ye basın.	0	2
+You are out of the game	Oyundan çıktınız!	0	2
+are out of the game	oyunun dışındalar	0	2
+You can only play one card per turn	Her turda sadece bir kart oynayabilirsiniz	0	2
+Suggestions and comments	Öneriler ve yorumlar	0	2
+cards in hand	kart var elinde	0	2
+Scopa can only be played with 2 to 6 players	Scopa sadece 2 ila 6 oyuncuyla oynanabilir	0	2
+people are in the home room	Oyuncu var ana girişte	0	2
+Droppable card. move	Bırakılabilir kart. hareket	0	2
+You can't resist taking a sleep in that so comfortable nest	O kadar rahat yuvada uyumaya dayanamazsın	0	2
+You are impatient to dive into that so nice water	O kadar güzel suya dalmaya sabırsızsın	0	2
+meet in guess number duel	sayı düellosunda buluşur	0	2
+meet in math duel	matematik düellosunda buluşuyor	0	2
+meet in element duel	element düellosunda buluşur	0	2
+meet in rock paper scissors duel	taş kağıt makas düellosunda buluşuyor	0	2
+Earth isn't feared by fire	Toprak ateşten korkmaz	0	2
+Water puts out fire	Su ateşi söndürür	0	2
+Metal gets rusty upon contact with water	Metal su ile temas ettiğinde paslanır	0	2
+Well done	Aferin	0	2
+Press T to see whose turn it is	Sıranın kimde olduğunu görmek için T'ye basın	0	2
+That's a gammon	Bu bir mars	0	2
+Review last roll	Atılan zara bak	0	2
+Well junk	iyi önemsiz	0	2
+The scissors fall into the well	Makas kuyuya düşer	0	2
+The rock breaks the scissors	Taş makası kırar	0	2
+The scissors cut the paper	Makas kağıdı keser	0	2
+Droppable card. manipulation	Bırakıla bilir kart	0	2
+feathers in category Arts and creations	Sanat ve kreasyonlar kategorisindeki tüyler	0	2
+Blured water	Mevsimlik su	0	2
+4. Left bank; Draw 1 cards	4. sol banka, 1 kart çek	0	2
+25. Right bank	25. Sağ banka	0	2
+die malus of -2 during 3 turns	3 tur boyunca -2 malus ölür	0	2
+Ball and chain	Top ve zincir	0	2
+Draw 1 cards of type dice	Bir kart çek	0	2
+Go back 7 squares and Give 5 feathers	7 kare geriye git ve 5 tüy öde.	0	2
+die malus of -1 during 4 turns	4 tur boyunca -1 malus ölür	0	2
+Play with a die malus of -2 during 2 turns	2 tur boyunca -2 zarla oynayın.	0	2
+die malus of -2 during 2 turns	2 tur boyunca -2 zarla.	0	2
+die 8 for 3 turns	3 tur boyunca zar 8 ile.	0	2
+of -2 during 2 turns	2 tur boyunca -2	0	2
+die malus	kötü ölmek	0	2
+Die roll	zar at	0	2
+What die is	hangi zarla	0	2
+is now playing with their second hand	 artık ikinci eliyle oynuyor.	0	2
+You don't have enough cash to split	Bölmek için yeterli paranız yok.	0	0
+playing with	oynuyor ?	0	2
+Plastic die	Plastik kalıp	0	2
+Silver die	gümüş kalıp	0	2
+Bronze die	bronz kalıp	0	2
+Steel die	Çelik kalıp	0	2
+Iron die	Demir kalıp	0	2
+Stone die	Taş kalıp	0	2
+Next round in 30 seconds	Bir sonraki tur 30 saniye sonra başlıycak.	0	2
+Big die	Büyük kalıp	0	2
+Play with a die 8 during 3 turns	3 turda bir kalıp 8 ile oynayın	0	2
+Play with a die 8 during 4 turns	4 turda bir kalıp 8 ile oynayın	0	2
+Draw 1 cards and Take 5 feathers	1 kart çek ve 5 tüy al	0	2
+5. Diving board; Take 1 feathers and Draw 1 cards	5. Dalış tahtası; 1 tüy alın ve 1 kart çekin	0	2
+A card has already been dropped on this square	Bu karede zaten bir kart var	0	2
+Advance or go back 1 to 7 squares at random	Rastgele 1 ila 7 kare ilerleyin veya geri gidin	0	2
+Advance or go back 1 to 10 squares at random	Rastgele 1 ila 10 kare ileri veya geri git	0	2
+Go back to	Geri dönmek	0	2
+Go back to the previous menu	Önceki menüye geri dön	0	2
+A question in category random	Rastgele kategoride bir soru	0	2
+You win the hand	bu turu kazandın	0	2
+wins the trick	hileyi kazanır	0	2
+wins the hand	bu turu kazanır	0	2
+and get the	ve kazandın bir	0	2
+Taste for risk	Riskin tadı	0	2
+of type food or drink and Take 3 feathers	türü yiyecek veya içecek ve 3 tüy alın	0	2
+7. Ducklings' nest	7. Ördek yavruları yuvası	0	2
+feathers in category Cooking and gastronomy	Aşçılık ve gastronomi kategorisindeki tüyler	0	2
+meet in farmer duel	çiftçi duellosunda buluşuyor	0	2
+10. In the pond; No special effect	10. Gölet içinde	0	2
+13. Warm water; Draw 1 cards	13. Ilık su; 1 kart çek	0	2
+This is your final lap	Bu senin son turun	0	2
+14. Cosy nest; Skip 2 turns and Take 2 feathers	14. Rahat yuva; 2 tur atlayın ve 2 tüy alın	0	2
+Press V to view the squares of the board	Tahtanın karelerini görmek için V tuşuna basın	0	2
+Advance or go back 1 to 8 squares at random	Rastgele 1 ila 8 kare ilerleyin veya geri gidin.	0	2
+16. Whirlpool; Advance or go back 1 to 8 squares at random	16. Girdap; Rastgele 1 ila 8 kare ileri veya geri git	0	2
+17. In the pond; No special effect	17. Gölet içinde	0	2
+20. Ducklings' nest; A question in category random	20. Ördek yavruları yuvası; Rastgele kategoride bir soru	0	2
+23. Paddling pool; Everybody receive 1 cards	23. Çocuk havuzu; Herkes 1 kart alır	0	2
+So close, and so far away	Çok yakın ve çok uzak	0	2
+Challenge another player with the die	Zarla başka bir oyuncuya meydan oku	0	2
+Playable against another player. move	Başka bir oyuncuya karşı oynanabilir. hareket	0	2
+Droppable card. feathers	Bırakıla bilir kart	0	2
+No discard	Yok yok	0	2
+proposes an auction for	açık artırmada önerdiği, 	0	2
+plays a counterflow card against you	oynadı sana karşı geri vites kartını	0	2
+You play an	Oynadın	0	2
+You play at	oynadın 	0	2
+Mandatory discard	Zorunlu atma	0	2
+Single discard	Tek atma	0	2
+Multi discard	Çoklu atma	0	2
+Draw 1 cards	1 kart çek	0	2
+You suddenly have issues swimming in this shady water	Birdenbire bu gölgeli suda yüzmede sorun yaşarsınız	0	2
+feathers in category Science and technology	Bilim ve teknoloji kategorisindeki tüyler	0	2
+How many seconds have to be given as thinking time	Düşünme süresi olarak kaç saniye verilsin?	0	2
+seconds thinking time	saniye düşünme süresi	0	2
+obtains a bonus of 3 points for finishing the round	turu bitirdiği için 3 puan bonus kazanıyor!	0	2
+You can't resist taking a sleep in that so comfortable	O kadar rahat uyumaya dayanamazsın	0	2
+You can't resist taking a nap in this comfortable nest	Bu konforlu yuvada şekerleme yapmadan duramazsınız.	0	2
+Cold is taking over your body	Soğuk vücudunuzu ele geçiriyor	0	2
+Play with a die 12 during 3 turns	3 turda bir kalıp 12 ile oynayın	0	2
+meet in speed duel	hız düellosunda buluşuyor	0	2
+Are you sure you want to stop the game currently in progress	Devam etmekte olan oyunu durdurmak istediğinizden emin misiniz?	0	2
+now plays with a die 6	şimdi bir kalıp 6 ile oynuyor	0	2
+You now play with a die 10 for 2 turns	2 tur boyunca 10 kalıp ile oynayın	0	2
+Skip 2 turns	2 tur atlayın	0	2
+feathers in category Languages and human sciences	Diller ve insan bilimleri kategorisindeki tüyler	0	2
+now plays with a die 3 for 2 turns	şimdi 3 turluk bir zarla oynuyor	0	2
+Play with a die 10 during 2 turns	2 turda bir kalıp 10 ile oynayın	0	2
+Play with a die 3 during 4 turns	4 tur boyunca bir kalıpla 3 oynayın.	0	2
+Play with a die 4 during 3 turns	3 tur boyunca bir kalıp 4 ile oynayın	0	2
+Play with a die 3 during 2 turns	2 turda bir kalıpla 3 oynayın	0	2
+Play with a die	Bir kalıpile oynayın	0	2
+You now	Şimdi sen	0	2
+Digging up dice on	Zar kazmak	0	2
+now plays with a die	şimdi bir zarla oynuyor	0	2
+Everybody receive 1 cards	Herkes 1 kart alır	0	2
+Everybody receive 3 cards	her oyuncuya 3 kart verilir	0	2
+meet in dice duel	zar düellosunda buluşuyor	0	2
+You've got the largest number of cards	en fazla karta sahipsin	0	2
+You haven't anymore pennies, you are out of the game	oyunun dışında kaldın	0	2
+points have been lost in this turn	puan kaybettin	0	2
+Playable against another player. dice	Başka bir oyuncuya karşı oynanabilir. zar	0	2
+Playable only on  yourself. dice	Sadece kendine oynana bilir zar	0	2
+Playable on yourself or against another player. dice	Kendinize veya başka bir oyuncuya karşı oynanabilir. zar	0	2
+Press D to repeat the dice results	Attığınız zarları görüntülemek için D'ye harfine basın	0	2
+Press B to see who has the crib	Crib'e kimin sahip olduğunu görmek için B'ye basın.	0	2
+Press C to find out how much the current total is, or what is the hand currently being counted	Mevcut toplamın ne kadar olduğunu öğrenmek veya şu anda sayılan eli görmek için C'ye basın.	0	2
+Press F to see what the top card is	Üst kartın ne olduğunu görmek için F'ye basın.	0	2
+Press V to see cards currently on the table	Şu anda masada bulunan kartları görmek için V'ye basın.	0	2
+Press enter to roll the dice	Zarı atmak için enter tuşuna basın.	0	2
+There is no winning combination in this roll, the	Atılan bu zarlardan bir sonuç alamadın	0	2
+accumulated in this turn are lost	kaybedildi	0	2
+your total score is now	şimdi toplam puanınız	0	2
+for this turn, for a total score of	toplam puanı	0	2
+points to bank	puan	0	2
+Choose the minimum number of points that one must bank the first time to enter the game	Oyuna ilk girişte biriktirilmesi gereken minimum puan sayısını seçin	0	2
+to enter the game	biriktirmelisin	0	2
+You bank	biriktirdin	0	2
+Nice place to take a photo of ducks	Ördeklerin fotoğrafını çekmek için güzel bir yer	0	2
+You own the 7 of diamonds and win a point	7 karoya sahipsin ve bir puan aldın	0	2
+owns the largest number of sevens	en fazla 7'ye sahip	0	2
+owns the 7 of diamonds and wins a point	7 karo onda ve, 1 puan kazanır	0	2
+and wins a point	ve bir puan kazanır	0	2
+Press C to view cards currently on the table	Şu anda masada bulunan kartları görüntülemek için C tuşuna basın.	0	2
+Press 1 to 9 to know the cards on the table one by one	Masadaki kartları tek tek bilmek için 1'den 9'a basın	0	2
+now plays with a die 8 for 4 turns	şimdi 4 tur için 8 zar ile oynuyor	0	2
+Each player gets 3 cards	her oyuncu 3 kart aldı	0	2
+Press Shift+C to sort your cards by color	Kartlarınızı renge göre sıralamak için Shift + C tuşlarına basın	0	2
+Press Shift+H to sort your cards by number	Kartlarınızı numaraya göre sıralamak için Shift + H tuşlarına basın	0	2
+Press Shift+D to disable sorting	Sıralamayı devre dışı bırakmak için Shift + D tuşlarına basın	0	2
+Press E to know how many cards each player has	Her oyuncunun kaç karta sahip olduğunu öğrenmek için E'ye basın	0	2
+Press space to draw cards	Kart çekmek için boşluk tuşuna basın	0	2
+you must draw 2 more cards	2 kart daha çekmelisin	0	2
+draws 4 cards	4 kart çeker	0	2
+Sort cards by number	Kartları numaraya göre sırala	0	2
+Sort cards by color	Kartları renge göre sıralayın	0	2
+begins his final lap	son turuna başlıyor	0	2
+draws 6 cards	6 kart çekti	0	2
+Your turn is skipped after drawing cards	kart çekildikten sonra sıra atlatmaya izin verildi	0	2
+You can't play alone	Yalnız oynayamazsınız	0	2
+You can't play that card	O kartı oynayamazsın	0	2
+You can't play that piece here	o taşı buraya oynayamazsın	0	2
+Droppable card	Brakılabilir kart	0	2
+You can't play	oynayamazsın	0	2
+You aren't allowed to draw more than 3 cards	3'den fazla kart çekemezsin	0	2
+Your cards are now sorted by ascending color	kartlar rengine göre küçükten, büyüğe doğru sıralandı	0	2
+Your cards are now sorted by descending color	kartlar renklerine göre büyükten, küçüğe doğrı sıralandı	0	2
+shuffles the cards and deals 7 to each player	kartları karıştırır ve her oyuncuya 7 tane dağıtır	0	2
+shuffles the cards and deals 6 to each player	kartları karıştırır ve her oyuncuya 6 tane dağıtır	0	2
+The dealer shuffles the cards and deals them	Dağıtıcı kartları karıştırır ve dağıtır.	0	0
+shuffles the cards and distributes them	 kartları karıştırır ve dağıtır.	0	2
+shuffles the cards	kartları karıştırır	0	2
+To move a checker, press enter on its starting point, and then press enter again on its destination point	Bir pulu hareket ettirmek için başlangıç noktasında enter tuşuna basın ve ardından hedef noktasında tekrar enter tuşuna basın.	0	2
+Buzzer cards are present	Buzzer kartlara izin verildi	0	2
+Press B to push on the buzzer if that extra rule is activated	Bu buzzer ekstra kural etkinleştirilirse, zile basmak için B'ye basın.	0	2
+Use buzzer cards	buzzer kartlara izin verilsinmi	0	2
+Skip turn after drawing cards	kart çekildikten sonra oynama sırasını atla	0	2
+plays a blue reverse	oynadı mavi ters döndür	0	2
+plays a wild draw four	oynadı joker çektir 4	0	2
+awild draw four	joker çektir 4	0	2
+plays a red draw two	oynadı kırmızı çektir 2	0	2
+ared draw two	Kırmızı çektir 2	0	2
+against you	sana karşı	0	2
+plays a Red light card against you	sana karşı kırmızı ışık kartını oynadı	0	2
+plays a Red light card against	Kırmızı ışık kartını oynadı	0	2
+Restore a table	kaydedilmiş masalar	0	2
+You have no saved tables	Kaydedilmiş masanız yok	0	2
+Information and announcements	Bilgi ve duyurular	0	2
+Press I to get information about your progress and status	İlerlemeniz ve durumunuz hakkında bilgi almak için ı harfine basın	0	2
+Players who reach the limit go out of the game	Sınıra ulaşan oyuncular oyundan çıkar	0	2
+press Shift+I to get the same information about all players	tüm oyuncular hakkında aynı bilgileri almak için Shift + I tuşlarına basın	0	2
+View general game information	Genel oyun bilgilerini görüntüleyin	0	2
+General options	Genel seçenekler	0	2
+View general game state	Genel oyun durumunu görüntüle	0	2
+Functions and more	Fonksiyonlar ve daha fazlası	0	2
+Leave the playroom	Oyun odasından çık	0	2
+Audio and text-to-speech	Ses ve metinden konuşmaya	0	0
+Audio and vocal synthesis	Ses ve ses sentezi	0	2
+Reading and appearance	Okuma ve görünüm	0	2
+Security	Güvenlik	0	2
+Privacy	Gizlilik	0	2
+Restore default configuration	Varsayılan ayarları geri yükle	0	2
+You go back	sen geri git	0	2
+Go back	Geri dön	0	2
+then confirm your final choice with enter	ardından bitirmek için enter tuşuna basın	0	2
+Choose a player to exchange your hand with	Elinizi takas edeceğiniz bir oyuncu seçin	0	2
+You exchange your hand with another player	Elini başka bir oyuncuyla değiştirirsin	0	0
+You exchange your hand with	sen elini değiştiriyorsun	0	2
+Customize: components font and colors	Özelleştirin: bileşenler yazı tipi ve renkleri	0	2
+Customize: Game messages	Özelleştir: Oyun mesajları	0	2
+You can't invite more than 4 players at once	Aynı anda 4 oyuncudan fazlasını davet edemezsiniz	0	2
+Accept an invitation	Daveti kabul et	0	2
+You are now friends with	artık arkadaşsın	0	2
+wishes to only receive invitations from their friends	sadece arkadaşlarından davet almak istiyor	0	2
+wishes to only receive private messages from their friends	sadece arkadaşlarından özel mesajlar almak istiyor	0	2
+Customize: Invitations	Özelleştir: Davetiyeler	0	2
+You have refused to add	eklemeyi reddettin	0	2
+has been removed from your friends list	arkadaş listenizden kaldırıldı.	0	2
+in your friend list	arkadaş listene	0	2
+it will be abandonned and you will no longer be able to join it	ve artık oyununuza erişemiyeceksiniz	0	2
+Customize: Table messages	Özelleştir: Masa mesajları	0	2
+Customize: Global messages	Özelleştir: Global mesajlar	0	2
+Customize: Notifications	Özelleştir: Bildirimler	0	2
+Customize: Administration	Özelleştir: Yönetim	0	2
+Add element...	Öğe ekle ...	0	2
+Press Ctrl+H to hide the table (private table)	Masayı gizlemek için Ctrl+H tuşlarına basın	0	2
+Press Ctrl+F1 to get detailed help about game rules and specific shortcut keys	oyun kuralları ve belirli kısa yol tuşları hakkında bilgi almak için Ctrl+F1 tuşlarına basın	0	2
+Customize: view General	Özelleştir: Genel'i görüntüle	0	2
+Customize: view Game	Özelleştir: Oyunu görüntüle	0	2
+Customize: view Discussions	Özelleştirin: ve Tartışmaları görüntüleyin	0	2
+Customize: view Private messages	Özelleştir: ve Özel mesajları görüntüle	0	2
+Customize: view Invitations	Özelleştirin: Davetleri görüntüleyin	0	2
+wish to have only their friends joining their tables	masasına sadece arkadaşlarının katılmasını istiyor	0	2
+You have refused to add brave in your friend list	arkadaş listenize eklemeyi reddettiniz	0	2
+Accept as a friend	arkadaşlık isteğini kabul et	0	2
+Customize: view Friends	Özelleştir: ve Arkadaşları görüntüle	0	2
+Customize: view Public chat	Özelleştirin: Genel sohbeti görüntüleyin	0	2
+Add view	Görünüm ekle	0	2
+Press Ctrl+F2 to open the forum in your web browser	Forumu web tarayıcınızda açmak için Ctrl+F2 tuşlarına basın	0	2
+Use predefined colors for light/white background	Açık/beyaz arka plan için önceden tanımlanmış renkleri kullanın	0	2
+Use predefined colors for dark/black background	Koyu / siyah arka plan için önceden tanımlanmış renkleri kullanın	0	2
+Send a history report	Bir geçmiş raporu gönder	0	2
+Don't display in history	Geçmişte gösterme	0	2
+History background color	Geçmiş arka plan rengi	0	2
+Menu list background color	Menü listesi arka plan rengi	0	2
+Grayed text color	Gri metin rengi	0	2
+Menu list text color	Menü listesi metin rengi	0	2
+pairs for	 Çift, 	0	2
+Color 1: black	Renk 1: siyah	0	2
+Color 2: violet	Renk 2: menekşe	0	2
+Color 3: magenta	Renk 3: eflatun	0	2
+Color 4: pink	Renk 4: pembe	0	2
+Color 5: red	Renk 5: kırmızı	0	2
+Color 6: brown	Renk 6: kahverengi	0	2
+Color 7: orange	Renk 7: turuncu	0	2
+Color 8: yellow	Renk 8: sarı	0	2
+Color 9: green 1	Renk 9: yeşil 1	0	2
+Color 10: green 2	Renk 10: yeşil 2	0	2
+now owns all properties of the azure group	artık tüm gök mavisi grubuna sahip	0	2
+Color 11: azur	Renk 11: gök mavisi	0	2
+Color 12: blue 1	Renk 12: mavi 1	0	2
+Color 13: blue 2	Renk 13: mavi 2	0	2
+You must put 2 cards in the crib	Yedek desteye 2 kart koymalısınız.	0	2
+Color 14: gray 1	Renk 14: gri 1	0	2
+Color 15: gray 2	Renk 15: gri 2	0	2
+Text color	Metin rengi	0	2
+Press C to see how many points you have so far for this turn	Bu tur için şu ana kadar kaç puanınız olduğunu görmek için (C)ye basın	0	2
+That's it! When one wants too much, one finally ends up being farkled	olacağı buydu! aza kanaat etmeyen çoğu bulamaz, bu sırada	0	2
+Do you really want to restore the default configuration	Varsayılan ayarları gerçekten geri yüklemek istiyor musunuz?	0	2
+Save histories in	Geçmişi şuraya kaydet	0	2
+Sound volume	Ses seviyesi	0	2
+Music/streams volume	Müzik/canlı yayınlar ses	0	2
+Ask a confirmation before exiting	Çıkışta onay iste	0	2
+Automatically save histories	Geçmişi otamatik olarak kaydet	0	2
+Disable audio output	Ses çıkışını devre dışı bırak	0	2
+Audio output	Ses çıkışı	0	2
+Disable audio streams	Ses akışlarını devre dışı bırakın	0	2
+Disable sound effects	Ses efektlerini devre dışı bırakın	0	2
+Screen reader	Ekran okuyucu	0	2
+Subsystem	Alt sistem	0	2
+Synthesis language	Sentez dili	0	2
+Voice volume	Ses seviyesi	0	2
+not supported	desteklenmiyor	0	2
+returns the first card of the pile and makes it visible on the table	ortadaki kartı	0	0
+Allow +2 and +4 responses	+2 ve +4 yanıtlarına izin ver	0	2
+Synthesis language	Sentez dili	0	2
+The new language has correctly been set	Yeni dil doğru şekilde ayarlandı	0	2
+Choose language	Dil seçiniz	0	2
+Language	Dil	0	2
+Voice rate	Ses oranı	0	2
+Voice pitch	Ses perdesi	0	2
+Voice	Ses	0	2
+Add element	Öğe ekle	0	2
+Font	Yazı tipi	0	2
+Disable colors in history	Geçmişteki renkleri devre dışı bırakın	0	2
+Disable colors in menus	Menülerdeki renkleri devre dışı bırakın	0	2
+Type in the new name of the view	Görünümün yeni adını yazın	0	2
+A pretty little house bearing the name of	Adını taşıyan şirin küçük bir ev	0	2
+Enter the new view name	Yeni görünüm adını girin:	0	2
+View name	Görünüm adı	0	2
+Female first name with	Bir kadın ismi, harf,	0	2
+Male first name with	erkek adı, harf,	0	2
+Name	İsim	0	2
+Type in your word for	Şu soru için cevabınızı girin:	0	2
+Speech reading	Konuşma ve okuma	0	2
+Interrupt reading of previous messages	Önceki mesajları okumaya ara ver	0	2
+Play sound	Ses çal	0	2
+Bold	Kalın	0	2
+Italic	İtalik	0	2
+Underline	Altı çizili	0	2
+Strikeout	Üstü çizili	0	2
+Game messages	Oyun mesajları	0	2
+Show Public chat	Genel sohbeti göster	0	2
+Show Private messages	Özel mesajları göster	0	2
+Show Invitations	Davetleri Göster	0	2
+Show Table messages	Tablo mesajlarını göster	0	2
+Choose 2 cards to put in the crib	Crib'e koymak için 2 kart seçin 	0	2
+Show Global messages	Global mesajları göster	0	2
+Show Notifications	Bildirimleri göster	0	2
+Show Friends	Arkadaşları Göster	0	2
+Show Administration	Yönetimi Göster	0	2
+Press Ctrl+Shift+F to open the forum directly in the client	Forumu doğrudan istemcide açmak için Ctrl+Shift+F tuşlarına basın	0	2
+Public chat	Genel sohbet	0	2
+Who can send me private messages	Bana kimler özel mesaj gönderebilir	0	2
+my friends only	sadece arkadaşlarım	0	2
+Who can send me invitations	Bana kim davetiye gönderebilir	0	2
+Who can join my public tables	Herkese açık masalarıma kimler katılabilir	0	2
+Who can send me permanent private messages	Kim bana kalıcı özel mesaj gönderebilir?	0	2
+Send a discussion report to signal chat messages or private messages	Sohbet mesajlarını veya özel mesajları işaret etmek için bir tartışma raporu gönderin	0	2
+wish to receive only private messages from their friends	Sadece arkadaşlarından özel mesaj kabul ediyor	0	2
+Private messages	Özel mesajlar	0	2
+Invitations	Davetiyeler	0	2
+Table messages	Tablo mesajları	0	2
+Global messages	Global mesajlar	0	2
+Notifications	Bildirimler	0	2
+Counting points. Press enter when you are ready to type in the number of points this hand is worth	Puanları sayılıyor. Bu elin değerini yazmaya hazır olduğunuzda Enter'a basın.	0	2
+Administration	Yönetim	0	2
+Show System messages	Sistem mesajlarını göster	0	2
+System messages	Sistem mesajları	0	2
+Remember passwords	Parolaları hatırla	0	2
+has been suddenly disconnected	aniden bağlantısı kesildi	0	2
+Allow automatic links	Otomatik bağlantılara izin ver	0	2
+Allow automatic downloads	Otomatik indirmelere izin ver	0	2
+everybody except blocked people	engellenen kişiler hariç herkes	0	2
+shuffles the dominos and deals 7 to each player	Taşları karıştırır ve her oyuncuya 7 tane dağıtır	0	2
+Customize	özelleştir	0	2
+Press Ctrl+Shift+M to open your inbox	Gelen kutunuzu açmak için Ctrl+Shift+M tuşlarına basın	0	2
+Do you really want to delete this discussion from your inbox	Bu tartışmayı gelen kutunuzdan gerçekten silmek istiyor musunuz?	0	2
+unread messages in your inbox. Press F9 to open it	okunmamış mesajınız. Gelen mesajlar kutunuzu Açmak için F9'a basın.	0	2
+Your inbox	gelen kutusu	0	2
+Delete from friends list	Arkadaş listesinden sil	0	2
+has been removed from your friend list	arkadaş listenizden çıkarıldı	0	2
+You have 1 requests to add to the friends list	Arkadaşlar listesine eklemek için 1 isteğin var	0	2
+Friends list	Arkadaş listesi	0	2
+Please check your username and password, then try again	Lütfen kullanıcı adınızı ve şifrenizi kontrol edip tekrar deneyin	0	2
+Blocked users list	Engellenen kullanıcılar listesi	0	2
+Change your status message	Durum mesajınızı değiştirin	0	2
+Open forum	Forumu aç	0	2
+Send history report	Yöneticiye bir rapor gönder	0	2
+Open website	Wep sitesini aç	0	2
+Save history in a file	Geçmişi bir dosyaya kaydedin	0	2
+Save current view in a file	Mevcut görünümü bir dosyaya kaydet	0	2
+Copy current view in clipboard	Mevcut görünümü panoya kopyala	0	2
+Start a new discussion	Yeni bir tartışma başlat	0	2
+Subscribe to this forum	Bu foruma abone ol	0	2
+Unsubscribe from this forum	Bu forumun aboneliğini iptal edin	0	2
+Open on the web	Wepte aç	0	2
+and press Ctrl+D to double it	ve 2'ye katlamak için ctrl+d tuşlarına basın	0	2
+marks 1 points	 aldı 1 puan.	0	0
+Press enter to type it in	Yazmak için enter tuşuna basın	0	2
+Enter the subject of your message	Mesajınızın konusunu girin:	0	2
+Enter the recipient of your message	Mesajınızın alıcısını girin	0	2
+Enter the text of your message	Mesajınızın metnini girin:	0	2
+Received requests	Alınan arkadaşlık istekleri	0	2
+Sent requests	Gönderilen arkadaşlık istekleri	0	2
+Add a friend	Bir arkadaş ekle	0	2
+Block a user	Bir kullanıcıyı engelleyin	0	2
+Enter your new status message	Yeni durum mesajınızı girin (en fazla 90 karakter)	0	2
+Type in your new status message	Yeni durum mesajınızı yazın	0	2
+Status message	Durum mesajı	0	2
+max	maksimum	0	2
+characters	karakter	0	2
+Hey, do you want to go on a slide	Hey, kaymak ister misin?	0	2
+What do you wish to send	Ne göndermek istiyorsun	0	2
+Error \#14075 ! Si le problème persiste, veuillez quitter cette table et en recréer une nouvelle / If the problem keeps happening, please leave this table and recreate a new one	Hata \# 14075! Sorun devam ederse, lütfen bu masadan ayrılın ve yeni bir tane oluşturun	0	2
+Fatal error  iletişim kutusu  A fatal error has occured and the application must be terminated	Ciddi hata kutusu iletişim Ciddi bir hata oluştu ve uygulamanın sonlandırılması gerekiyor	0	2
+Send a game report to signal a rule error or a game bug	Bir kural hatasını veya oyun hatasını bildirmek için bir oyun raporu gönderin	0	2
+Leave the discussion	tartışmayı bırak	0	2
+Open this discussion on the web	Bu tartışmayı web'de aç	0	2
+Discussion	Tartışma	0	2
+Choose a game variant	Bir oyun çeşidi seçin	0	2
+Choose a game	Bir oyun seçin	0	2
+Wait for players to join, then press enter to start the game	Oyuncuların katılmasını bekleyin, ardından oyuna başlamak için enter tuşuna basın	0	2
+Press B to add bots, press Shift+B to remove bots, and press Alt+O to set game options	Robot eklemek için B'ye, botları kaldırmak için Shift + B'ye basın ve oyun seçeneklerini ayarlamak için Alt + O tuşlarına basın.	0	2
+people are sitting at the table	Oyuncu var masada	0	2
+Welcome to the playroom	Oyun odasına hoş geldiniz, bu program, KADİR DAĞLI ve BÜNYEMİN AKOĞLU tarafından türkçeleştirilmiştir. Güncelleştirilmeye devam edilmektedir.	0	2
+has joined the table as a spectator	masaya seyirci olarak katıldı	0	2
+You have joined the table	Masaya katıldınız	0	2
+has joined the table	Masaya katıldı	0	2
+has left the table	masadan ayrıldı	0	2
+Do you wish to play with default options	Varsayılan seçeneklerle oynamak ister misiniz	0	2
+Reshuffle the junk card pile when the deck has run out of cards	Destede kart kalmadığında atılan kart destesini yeniden karıştır	0	2
+Are you sure you want to leave the table	Masadan ayrılmak istediğine emin misin	0	2
+Use extended non-standard cards	Standart olmayan genişletilmiş kartları kullanın	0	2
+Allow cumulation of problems	Sorunların birikmesine izin verilsinmi	0	2
+This gives you 300 penalty points	Bu size 300 ceza puanı verir.	0	2
+The draw pile has run out of cards. The discard pile is reshuffled to create a new draw pile	Çekiliş destesindeki kartlar bitti. Atılan yığın, yeni bir çekme yığını oluşturmak için yeniden karıştırılır.	0	2
+This gives 300 penalty points	Bu 300 ceza puanı verir	0	2
+This gives you	bu sana	0	2
+has failed an interception and takes 3 penalty points	araya girmeyi başaramadı ve 3 ceza puanı aldı	0	2
+Press C to see the current pile total	Yerdeki toplam sayıyı görmek için C'ye basın	0	2
+Press D to see the current stack, and press Ctrl+D to double it	Mevcut yığını görmek için D'ye ve ikiye katlamak için Ctrl + D'ye basın	0	2
+Set a score limit for a defeat	Yenilgi için bir skor belirlensinmi	0	2
+Choose the score to reach for a victory	Zafere ulaşmak için skoru seçin	0	2
+Set a score limit to reach for a victory	skor limiti belirlensinmi	0	2
+Press S to view scores	Skorları görmek için S'ye basın	0	2
+Press S to know scores	Skorları öğrenmek için S'ye basın	0	2
+Choose the number of pennies to start with	bitiş için başlangıç skorunu belirleyin	0	2
+Set a score limit for a victory	Zafer için bir bitiş puan sınırı belirleyin	0	2
+Press W to know who is at the table and who is its master	Masada kimin olduğunu ve masa sahibini öğrenmek için W tuşuna basın	0	2
+Press S to announce scores	puanları öğrenmek için S tuşuna basın	0	2
+Press S to know the scores	Skorları öğrenmek için S'ye basın	0	2
+Choose the score to be reached in order to win	bitiş için bir skor belirleyin	0	2
+Choose the score to be reached for a victory	Bitiş için bir  skor yazın	0	2
+The game is starting	Oyun başladı	0	2
+Individual game	Bireysel oyun	0	2
+Non-standard extended cards are used	Standart olmayan genişletilmiş kartlar kullanılır	0	2
+Discard pile is reshuffled	Atılan kartlar tekrar karıştırılır	0	2
+The victory is fixed to	Bitiş skoru	0	2
+Use two points ahead rule	2 fark kuralı uygulansınmı	0	2
+2 points ahead rule	2 puan fark kuralı	0	2
+points from	puan, kişi:	0	2
+points to	puan, kişi:	0	2
+gets a points	puan alır	0	2
+You scored 1 points	1 puan aldın.	0	2
+You scored 2 points	2 puan aldın.	0	2
+three of a kind for	 üçlü için 	0	2
+You scored 3 points	3 puan aldın.	0	2
+You scored 4 points	4 puan aldın.	0	2
+You scored 5 points	5 puan aldın.	0	2
+scored 1 points	1 puan aldı.	0	2
+scored 2 points	2 puan aldı.	0	2
+scored 3 points	3 puan aldı.	0	2
+scored 4 points	4 puan aldı.	0	2
+scored 5 points	5 puan aldı.	0	2
+Bonus of 300 points obtained for playing all 4 immunities	4 dokunulmazlığın tamamının oynanması karşılığında elde edilen 300 puanlık bonus.	0	2
+marks 2 points	 2 puan aldı.	0	2
+points	puan	0	2
+shuffles the cards and deals 6 to each player	kartları karıştırır ve herkese 6 tane dağıtır	0	2
+Allow stopping the round	Turun durdurulmasına izin verilsin mi?	0	0
+Round \#	RAUNT	0	2
+It's now at 2	Şimdi 2'de	0	2
+That's too much! the scale turns upside down, spilling its content to the floor before returning to its initial position	Bu çok fazla! terazi ters döner ve ilk konumuna dönmeden önce içindekileri yere döker.	0	2
+The scale swings dangerously and its contents threaten to tip over	Terazi tehlikeli bir şekilde sallanır ve içindekiler devrilme tehlikesiyle karşı karşıya kalır.	0	2
+When it's your turn, put a feather on the scale, but take care not to exceed what it can hold! Use 0 to 9 keys to see available feathers, and Ctrl+number to put it on the scale	Sıra size geldiğinde teraziye bir tüy koyun ama tutabileceğini aşmamaya özen gösterin! Kullanılabilir tüyleri görmek için 0 ila 9 tuşlarını, ve teraziye koymak için Ctrl+numarayı kullanın.	0	2
+It's not your turn	Senin sıran değil	0	2
+It's your turn	Senin sıran	0	2
+has just entered the playroom	Oyun odasına girdi	0	2
+has left the playroom	Oyun odasından çıktı	0	2
+Good draw	İyi çekiliş	0	2
+accuses you of bluffing... He is wrong and must draw 2 penalty cards	sizi blöf yapmakla suçluyor... Yanılıyor ve 2 kart daha fazla çekmesi gerekiyor	0	2
+Cursed draw	lanetli beraberlik	0	2
+You draw a community chest card	Bir Kamu Fonu kartı çektiniz.	0	2
+You draw a chance card	Bir şans kartı çekiyorsun	0	2
+You draw a card	Bir kart çektin	0	2
+You play a Speed limit card against	Hız sınırlama kartı oynadın 	0	2
+It's greater	Daha büyük	0	2
+It's less	Daha küçük	0	2
+It's a black jack	Bu bir black jack!	0	2
+It's	 	0	2
+Your turn is skipped	senin sıran atladı	0	2
+'s turn is skipped	sırası atlandı	0	2
+turn is skipped	sırası atlandı	0	2
+Who's turn it is	sıra kimde	0	2
+The noob	börü	0	2
+Albator	bozkurt	0	2
+'s turn	oynayacak	0	2
+draws a card	bir kart çekti	0	2
+plays a Speed limit card against you	sana karşı hız sınırlama kartı oynadı	0	2
+You play a End of speed limit card	Hız sınırlama kaldır kartını oynadın	0	2
+plays a End of speed limit card	hız sınırlama kaldır kartı oynadı	0	2
+You play a Accident card against	kaza kartı oynadın	0	2
+plays a Accident card against you	Size karşı kaza kartı oynuyor	0	2
+junks an	Attı	0	2
+junks a Accident card	Çöpe attı kaza kartını	0	2
+junks a Speed limit card	Çöpe attı hız sınırla kartını	0	2
+junks a Red light card	Çöpe attı kırmızı ışık kartını	0	2
+You junk a End of speed limit card	Çöpe attın hız sınırlamayı kaldır kartını	0	2
+You junk a Speed limit card	Çöpe attın hız sınırlama kartı	0	2
+junks a End of speed limit card	Çöpe attı hız sınırlamayı kaldır kartı	0	2
+End of speed limit	hız sınırlamayı kaldır	0	2
+Speed limit	hız sınırla	0	2
+You must draw a card first	Önce bir kart çekmelisiniz	0	2
+You play a Green light card	Yeşil ışık kartı oynadın	0	2
+You junk a Green light card	Çöpe attın yeşil ışık kartı	0	2
+plays a Green light card	Yeşil ışık kartı oynadı	0	2
+junks a Green light card	Çöpe attı yeşil ışık kartı	0	2
+Green light	Yeşil ışık	0	2
+Are you sure you want to junk that card	Bu kartı çöpe atmak istediğinden eminmisin	0	2
+You play a Out of gas card against	Gaz boşaltma kartını oynadın	0	2
+plays a Out of gas card against you	sana karşı gaz boşaltma kartı oynadı	0	2
+junks a Out of gas card	Çöpe attı gaz boşaltma kartını	0	2
+You junk a Out of gas card	Çöpe attın gaz boşaltma kartını	0	2
+out of gas	gaz boşaltma	0	2
+You play a Right of way card	Sen oynadın araç koruma kartı	0	2
+Right of way	Araç koruma	0	2
+junks a end of counterflow card	Çöpe attı Geri vitesi kaldır kartını	0	2
+plays a end of cons-sense card	geri vitesi kaldır kartını oynadı	0	2
+You play a cons-sense card against	oynadın geri vites kartı	0	2
+You play a end of cons-sense card	oynadın geri vitesi kaldır kartını	0	2
+You junk a end of cons-sense card	Sen çöpe attın geri vitesi kaldır kartını	0	2
+junks a end of cons-sense card	Çöpe attı geri vites kartını	0	2
+end of cons-sense	geri vitesi kaldır	0	2
+plays a Repairation card	oynuyor tamir kartı	0	2
+You play a Repairation card	oynadın tamir kartı	0	2
+You junk a Repairation card	çöpe attın tamir kartı	0	2
+miles card	mil kartını	0	2
+miles	mil	0	2
+plays a Gas card	gaz doldurma kartını oynadı	0	2
+junks a Gas card	çöpe attı gaz doldurma kartı	0	2
+The deck contains	Kalan	0	2
+plays a Flat card against you	sana karşı lastik patlatma kartını oynadı	0	2
+You play a Flat card against	oynadın lastik patlatma kartını	0	2
+You play a Puncture-proof card	Oynadın lastik koruma kartı	0	2
+junks a Flat card	Çöpe attı lastik patlatma	0	2
+junks a Repairation card	Çöpe attı tamir kartını	0	2
+plays a Spare-tyre card	lastik şişirme kartını oynadı	0	2
+You play a Spare-tyre card	oynadın lastik tamiri kartı	0	2
+junks a Spare-tyre card	Çöpe attı lastik tamiri kartını	0	2
+junks a cons-sense card	Çöpe attı geri vites kartını	0	2
+junks a	çöpe attı	0	2
+Choose the player to replace	Değiştirilecek oyuncuyu seçin	0	2
+Choose the player who will replace	Yerine geçecek oyuncuyu seç	0	2
+plays a Extra tank card	gaz koruma kartı oynadı	0	2
+You play a Extra tank card	Sen oynadın gaz koruma kartı	0	2
+extra tank	gaz koruma	0	2
+You play a Driving ace card	oynadın  kaza ve vites koruma kartı	0	2
+plays a Driving ace card	oynadı kaza ve vites koruma 	0	2
+has been replaced by	ile değiştirildi	0	2
+has kicked	attı	0	2
+out of the table	masa dışına	0	2
+You junk a Red light card	çöpe attın kırmızı ışık kartı	0	2
+You junk a Accident card	Çöpe attın kaza kartı	0	2
+You junk a Gas card	Çöpe attın gaz doldurma kartı	0	2
+You junk a cons-sense card	Çöpe attın gerivites kartı	0	2
+You junk a Spare-tyre card	Çöpe attın lastik tamiri kartı	0	2
+You junk a skip a turn card	Çöpe attın sıra atlama kartını	0	2
+You junk a Flat card	Çöpe attın lastik patlatma kartı	0	2
+You junk a	sen çöpe attın	0	2
+plays a Puncture-proof card	Oynadı lastik koruma kartını	0	2
+Repairation	tamir	0	2
+proposes to listen to the audio stream	bir ses akışı dinlemeyi önerdi	0	2
+You propose the audio stream	Ses akışını öneriyorsunuz	0	2
+propose to listen to the audio stream	Ses akışını dinlemeyi önerdi	0	2
+The audio stream has started	Ses akışı başladı	0	2
+Press Ctrl+P to stop it	Durdurmak için Ctrl + P tuşlarına basın	0	2
+History	geçmiş	0	2
+disabled	devre dışı	0	2
+enabled	etkinleştirildi	0	2
+Send private message	Özel mesaj gönder	0	2
+Send permanent message	Kalıcı mesaj gönder	0	2
+Press Ctrl+J to join	Katılmak için Ctrl + J tuşlarına basın.	0	2
+Press Ctrl+J to directly join a specific player	Belirli bir oyuncunun doğrudan masasına katılmak için Ctrl+J tuşlarına basın.	0	2
+Join a player	Bir oyuncunun masasına katıl	0	2
+Choose the person to join	Masasına katılacağınız kişiyi seçin	0	2
+Join	Masasına katıl	0	2
+View statistics	İstatistikleri görüntüleyin	0	2
+Block	engelle	0	2
+This table is no longer available.	bu masa artık mevcut değil.	0	0
+available	erişilebilir	0	2
+absent	uzakta	0	2
+busy	meşgul	0	2
+Some players are offline or currently unavailable	Masadaki arkadaşlarından birisi çevrim dışı	0	2
+Unknown or offline player	Bilinmeyen veya çevrimdışı oyuncu	0	0
+offline	çevrimdışı	0	2
+Add as a friend	Arkadaş olarak ekle	0	2
+You are now friend with	Şimdi arkadaşsın	0	2
+friend	arkadaş	0	2
+Chat	Sohbet	0	2
+my friends and friends of my friends	arkadaşlarım ve arkadaşlarımın, arkadaşları	0	2
+Friends	Arkadaşlar	0	2
+webTopicBtn	masa adı	0	2
+View active rules	Etkin kuralları görüntüleyin	0	2
+Start/stop an audio stream	Bir ses akışını başlatma / durdurma	0	2
+Who is at this table	Bu masada kim var	0	2
+Who is online	Kimler çevrimiçi	0	2
+Choose game mode	Oyun modunu seçin:	0	2
+Choose the scoring mode	Puanlama modunu seçin	0	2
+Spectator mode	Seyirci modu	0	2
+Free table	serbest masa	0	2
+Send a permanent message	kalıcı bir mesaj gönder	0	2
+Send a private message	özel mesaj gönder	0	2
+Call a moderator	Bir moderatör ile iletişime geçin	0	2
+List of banned users from the table	Masadan yasaklanan kullanıcıların listesi	0	2
+Leave this table	masadan ayrıl	0	2
+Nobody is banned from this table	Bu masadan kimse yasaklanmadı	0	2
+Alert! Take emergency boats	Uyarı! Acil durum teknelerini alın!	0	2
+Alert an administrator	Bir yöneticiyi uyarın	0	2
+Enter the message to send	Gönderilecek mesajı girin	0	2
+This message will be transmitted to the currently connected administrators	Bu mesaj şu anda bağlı olan yöneticilere iletilecek	0	2
+Message sent to	Mesaj gönderildi	0	2
+people are connected	oyuncu bağlı	0	2
+Resynchronisation	Yeniden senkronizasyon	0	2
+The request has been sent to	İstek gönderildi	0	2
+You have cancelled your request to add	Arkadaş ekleme isteğinizi iptal ettiniz	0	2
+Cancel friendship request	Arkadaşlık isteğini iptal et	0	2
+The list of blocked users is empty	Engellenen kullanıcılar listesi boş.	0	2
+has been blocked	engellendi	0	2
+Unblock	engeli kaldır	0	2
+is no longer blocked	Engelini kaldırdın	0	2
+Recipient	Alıcı	0	2
+Cumulation of problems is activated	Sorunların birikmesine izin verildi	0	2
+You play a Red light card against	oynadın kırmızı ışık kartı	0	2
+Red light	kırmızı ışık	0	2
+limited to 50	sınırlı 50	0	2
+Accident	kaza	0	2
+You play a Gas card	sen oynadın gaz doldurma kartı	0	2
+plays a cons-sense card against you	Oynadı sana karşı geri vites kartı	0	2
+plays a skip a turn card	oynadı sıra atlama kartını	0	2
+plays a Red light card against	kırmızı ışık kartını oynadı	0	2
+plays a domino	oynadı	0	2
+You play a domino	oynadın	0	2
+plays a	oynadı	0	2
+is now at	şuan	0	2
+You play a skip a turn card	sen oynadın sıra atlama kartı	0	2
+You play a	Sen oynadın	0	2
+You are now at	Sen şuanda	0	2
+cons-sense	geri vites	0	2
+skip a turn	sıra atlama	0	2
+Spare-tyre	lastik tamiri	0	2
+Flat	lastik patlat	0	2
+The deck has run out of cards	Destede kart kalmadı	0	2
+The junk pile is reshuffled to make a new fresh	Çöpe atılan kartlar yeniden kullanılması için tekrar karıştırıldı	0	2
+with the draw pile	beraberlik yığını ile	0	2
+Draw pile	çekile bilir	0	2
+Are you sure you wish to stop the game currently in progress	Şu anda devam eden oyunu kapatmak istediğinize eminmisiniz	0	2
+The table is now open for new players	Masa artık yeni oyunculara açık	0	2
+Choose the type of game	Oyun türünü seçin	0	2
+game with two teams	iki takımlı oyun	0	2
+Puncture-proof	lastik koruma	0	2
+The table has been saved	Masa kaydedildi	0	2
+connected at the moment	şu anda bağlı	0	2
+Press B to add bots	Bot eklemek için B'ye basın	0	2
+press Shift+B to remove bots	botları kaldırmak için Shift + B tuşlarına basın	0	2
+game with three teams	üç takımlı oyun	0	2
+Starting card is a	Başlangıç ​​kartı, 	0	2
+game with four teams	dört takımlı oyun	0	2
+accidented	kazalı	0	2
+flattened	patlak lastik	0	2
+There wasn't any combination in that hand	O elinde herhangi bir kombinasyon yoktu.	0	2
+has just reconnected	yeniden bağlandı	0	2
+just made a dirty trick	akıllı bir hile yaptı	0	2
+Dirty trick	Kötü bir hile	0	2
+is the winner of the whole game	oyunun galibi	0	2
+is the winner of the game	oyunun kazananı	0	2
+You are the winner of the game	tebrikler kazanan sensin, alkışlar senin için	0	2
+You are the winner of the whole game	kazanan sensin tebrikler	0	2
+You are the winner	kazanan sensin	0	2
+That's an excellent victory	mükemmel bir zafer	0	2
+View scores	Puanları görüntüleyin	0	2
+Rounding scores to 5 units	Puanları 5 birime yuvarlama	0	0
+Scores	skor	0	2
+Next round in 15 seconds	bir sonraki raunt 15 saniye içinde başlayacak	0	2
+Gas with	Bir gaz türü, harf,	0	2
+Gas	Gaz doldurma	0	2
+Pause	Oyun duraklatıldı	0	2
+Press Shift+P to start the next round	bir sonraki raunta başlamak için Shift+P tuşlarına basın	0	2
+is the winner	kazanan	0	2
+stopped	hareketsiz	0	2
+Set game options	Oyun seçeneklerini ayarlayın	0	2
+Reset to default options	Varsayılan seçeneklere sıfırla	0	2
+Options	Seçenekler	0	2
+has just created a new table of	yeni bir masa oluşturdu	0	2
+has joined	katıldı	0	2
+has left a table of	masadan ayrıldı	0	2
+at a table of	masasına	0	2
+Do you really want to quit the gameroom	Oyun odasından gerçekten çıkmak istiyor musun	0	2
+If a game is in progress	açık bir oyununuz varsa kapatılacak	0	2
+Press Ctrl+T to know the duration of the game in progress	Devam eden oyunun süresini öğrenmek için Ctrl + T tuşlarına basın.	0	2
+Duration of game in progress	Geçen oyun süresi	0	2
+in progress	Oynuyorlar	0	2
+Are you sure you want to definitely delete that table	Bu masayı silmek istediğinizden eminmisiniz	0	2
+The table couldn't be restored	masa geri açılamadı	0	2
+Refuse friendship request	arkadaşlık isteğini reddet	0	2
+This list is empty	bekleyen arkadaşlık isteyi yok	0	2
+Driving ace	kaza ve vites koruma	0	2
+Choose game ambiance	Oyun ambiyansını seçin	0	2
+Game over	Oyun bitti!	0	2
+Stop the game	oyunu kapat	0	2
+Press Ctrl+I to invite a player	Bir oyuncuyu davet etmek için Ctrl + I tuşlarına basın	0	2
+Press Ctrl+R to replace a player by another one	Bir oyuncuyu başka bir oyuncuyla değiştirmek için Ctrl + R tuşlarına basın	0	2
+Invite a player	Bir oyuncu davet edin	0	2
+Press Ctrl+K to kick a player from the table	Bir oyuncuyu masadan atmak için Ctrl + K tuşlarına basın	0	2
+Kick a player	masadan bir oyuncu at	0	2
+Choose a player to kick	masadan atmak için bir oyuncu seçin	0	2
+Press Ctrl+B to ban a player from the table	Bir oyuncuyu masadan yasaklamak için Ctrl + B tuşlarına basın	0	2
+Ban a player	masadan bir oyuncu yasakla	0	2
+Choose a player to ban from the table	masadan yasaklanacak bir oyuncu seçin	0	2
+Replace a player	Bir oyuncuyu değiştir	0	2
+Change table master	masa sahibini değiştir	0	2
+View detailed game rules	Ayrıntılı oyun kurallarını görüntüleyin	0	2
+The table master is now	şimdi masa sahibi	0	2
+Choose the new table master	yeni masa sahibini seçin	0	2
+The table master is	Masa sahibi 	0	2
+Make  the table public	masayı herkese aç	0	2
+Make  the table private	masayı gizle	0	2
+Press Ctrl+S to save the table	Masayı kaydetmek için Ctrl + S tuşlarına basın	0	2
+Save the table	masayı kaydedin	0	2
+The table is now private	masa gizlendi	0	2
+The table is now public	masa herkese açık	0	2
+Type the URL address of an audio stream to suggest to your table	dinletmek istediğiniz müziğin yada radyonun URL'sini buraya yapıştırın	0	2
+Enter the URL address of an audio stream to suggest to your table	Masanıza önermek için bir ses akışının URL adresini girin	0	2
+Audio stream	ses akışı	0	2
+Copy current view to clipboard	Geçerli görünümü panoya kopyala	0	2
+Congratulations, that's a backgammon	Tebrikler, bu bir süper mars	0	2
+Choose the person to invite	Davet edilecek kişiyi seçin	0	2
+says to	sana diyor ki	0	2
+says	diyorki	0	2
+Select the game to use	kullanılacak taş türünü seçin	0	2
+Double 6, 28 pieces	Çift 6, 28 taş	0	2
+max	maksimum	0	2
+4 players	4 oyuncu	0	2
+Double 9, 55 pieces	Çift 9, 55 taş	0	2
+6 players	6 oyuncu	0	2
+Double 12, 91 pieces	Çift 12, 91 taş	0	2
+9 players	9 oyuncu	0	2
+2x double 6, 56 pieces	2x çift 6, 56 taş	0	2
+2x double 9, 110 pieces	2x çift 9, 110 taş	0	2
+10 players	10 oyuncu	0	2
+2x double 12, 182 pieces	2x çift 12, 182 taş	0	2
+12 players	12 oyuncu	0	2
+4x double 6, 112 pieces	4x çift 6, 112 taş	0	2
+4x double 9, 220 pieces	4x çift 9, 220 taş	0	2
+Do not collect rent in jail	Hapisteyken kira toplama	0	2
+Lucky double one	Şanslı çift birler	0	2
+Supplementary chance and community chest cards	Ek Şans ve Kamu Fonu kartları	0	2
+Pay rents automatically	Kiraları otomatik öde	0	2
+14 players	14 oyuncu	0	2
+4x double 12, 364 pieces	4x çift 12, 364 taş	0	2
+16 players	16 oyuncu	0	2
+Allow drawing in the boneyard even if you have a playable piece	Elinde oynana bilir taş olsa bile yerden taş çekmene izin verilsinmi	0	2
+Allow drawing in the boneyard even when having a playable piece	Oynanabilir bir taş olsa bile yerden taş çekmesine izin verilsin mi?	0	2
+Allow drawing in the boneyard	yerden taş çekmeye izin verilsinmi	0	2
+Define a score limit to reach	Bitiş için bir skor limiti belirlensinmi	0	2
+Define the score limit to reach to be out of the game	Bitiş için bir skor belirle	0	2
+The defeat is fixed to	bitiş skoru	0	2
+0/10	ayaz/10	0	2
+0/1	ayaz/bir	0	2
+0/2	ayaz/iki	0	2
+The game starts	oyun başlıyor	0	2
+Round \#	RAUNT	0	2
+to the  left	Sola	0	2
+That's a draw	Berabere	0	2
+You draw a domino	taş çektin	0	2
+0/0	ayaz/ayaz	0	2
+0/3	ayaz/üç	0	2
+0/4	ayaz/dört	0	2
+0/5	ayaz/beş	0	2
+0/6	ayaz/altı	0	2
+You play first on the left	sola oyna	0	2
+You play first on the right	sağa oyna	0	2
+Chained	atılan taş sayısı	0	2
+View the pile total	toplam sayıyı görüntüle	0	2
+Press C to know the current pile total	ortadaki toplam sayıyı görmek için, C harfine basın	0	2
+The total is now	Şimdi toplam	0	2
+The total is	toplam	0	2
+for a total of	olmak üzere toplam	0	2
+Total	toplam	0	2
+to the  right	Sağa.	0	2
+to the left	Sola.	0	2
+draws a domino	bir taş çekti	0	2
+gets a point with	puan alır,	0	2
+gets a	 aldı, 	0	2
+gets their bet back	 bahislerini geri alır, 	0	2
+has decided to split their hand	 elini ayırmaya karar verdi.	0	2
+gets	aldı	0	2
+The game is completely blocked, the round is finished	oyun bağlandı ve RAUN sona erdi	0	2
+1/0	bir/ayaz	0	2
+2/0	iki/ayaz	0	2
+3/0	üç/ayaz	0	2
+4/0	dört/ayaz	0	2
+5/0	beş/ayaz	0	2
+6/0	altı/ayaz	0	2
+has only one piece left	taş tek	0	2
+has finished the round	turu bitirdi	0	2
+Here's the whole chain of dominos made till now	yere atılan taşların listesi burada	0	2
+to the right	Sağa	0	2
+selection of teams	takımların seçimi	0	2
+Press Shift+Up and Shift+Down to move players in the list, then confirm your final choice with enter	Listedeki oyuncuları taşımak için Shift + Yukarı ve Shift + Aşağı tuşlarına basın, ardından son seçiminizi enter ile onaylayın	0	2
+Press Shift+Up	Oyuncuları yukarı taşımak için Shift+Upve	0	2
+Shift+Down to move players in the list	aşağıya taşımak için Shift+Down tuşlarına basın	0	2
+You invite all players to a business dinner	Tüm oyuncuları bir iş yemeğine davet ediyorsunuz	0	2
+Invite	masaya Davet et	0	2
+Ban from the table	Masadan yasakla	0	2
+Press space to draw a domino from the boneyard	taş bahçesinden bir taş çekmek için boşluk tuşuna basın	0	2
+Press R or L before playing a domino to choose if you want to play on the right or on the left	Sağda mı yoksa solda mı oynamak istediğinizi seçmek için bir taş oynamadan önce R veya L'ye basın	0	2
+Press C to see what dominos are at the end of the chain	Yerde hangi taşın olduğunu görmek için C'ye basın	0	2
+Press V to view the whole dominos chain	Oynanan taşları görmek için V tuşuna basın	0	2
+Press E to see how many dominos other players have	Diğer oyuncuların kaç tane taşının olduğunu görmek için E'ye basın	0	2
+Press T to know who is playing	Kimin oynadığını öğrenmek için T'ye basın	0	2
+Press Shift+W to get the list of players at the table	Masadaki oyuncuların listesini görmek için Shift + W tuşlarına basın	0	2
+Press Q to quit the table	masadan ayrılmak için Q tuşuna basın	0	2
+Press Ctrl+U to get a list of all connected players	Bağlı oyuncuları görmek için ctrl+şift+u tuşlarına basın	0	2
+Press C to get information about yourself, S for information about all players	Kendiniz hakkında bilgi almak için C'ye, tüm oyuncular hakkında bilgi için S'ye basın	0	2
+Press F1 to get some short help	oyun hakkında bilgi almak için F1 tuşuna basın	0	2
+Press Ctrl+Shift+B to see the list of banned players from the table	Masadaki yasaklı oyuncuların listesini görmek için Ctrl + Shift + B tuşlarına basın.	0	2
+Press Ctrl+H to hide the table (private table).	Masayı gizlemek için ctrl+H tuşlarına basın	0	0
+Press R or L before playing a domino to choose if you want to play on the right or	Domino oynamadan önce R veya L tuşuna basarak sağda mı yoksa soldamı oynamak istediğinizi seçin	0	2
+Press spacebar to draw a card	Bir kart çekmek için boşluk tuşuna basın	0	2
+information on all players	tüm oyuncular hakkında bilgi	0	2
+Press J to junk a playable card	oynamadığınız bir kartı çöpe atmak için J tuşuna basın	0	2
+Press T to know whose turn it is	Sıranın kimde olduğunu bilmek için T'ye basın	0	2
+Choose the rules to apply	Uygulanacak kuralları seçin	0	2
+Allow straights	ardardalara izin verilsinmi	0	2
+Allow interceptions	yol kesmelere izin verilsinmi	0	2
+Allow super interceptions	süper yol kesmelere izin verilsinmi	0	2
+doesn't have any pennies, he's out of the game	 puanı bitti ve oyun dışında kaldı!	0	2
+Allow bluffs	Blöflere izin verilsin mi?	0	2
+How many thinking time to give for quiz questions	Test soruları için kaç saniye düşünme süresi verilecek	0	2
+Choose thinking time limit	Düşünme süresi sınırını seçin	0	2
+Set a score limit for victory	Zafer için bir puan sınırı belirleyin	0	2
+Set a score limit	skor limiti belirlensinmi	0	2
+responses are allowed	duyarlılığına izin verildi	0	2
+Super interceptions are allowed	süper yol kesmelere izin verildi	0	2
+Interceptions are allowed	yol kesmelere izin verildi	0	2
+Bluf is allowed	bilöflere izin verildi	0	2
+The score limit is fixed to	skor limiti	0	2
+It is a	açar, bu bir	0	2
+It is	açar, bu bir	0	2
+Unlimited	Sınırsız	0	2
+seconds left	saniye kaldı	0	2
+3 seconds	3 saniye	0	2
+4 seconds	4 saniye	0	2
+5 seconds	5 saniye	0	2
+6 seconds	6 saniye	0	2
+7 seconds	7 saniye	0	2
+8 seconds	8 saniye	0	2
+10 seconds	10 saniye	0	2
+12 seconds	12 saniye	0	2
+15 seconds	15 saniye	0	2
+20 seconds	20 saniye	0	2
+25 seconds	25 saniye	0	2
+30 seconds	30 saniye	0	2
+35 seconds	35 saniye	0	2
+40 seconds	40 saniye	0	2
+45 seconds	45 saniye	0	2
+Scientific war requires 2 to 8 players	Bilimsel savaş 2 ila 8 oyuncu gerektirir	0	2
+Rami is played with 2 to 8 players	Rami 2 ila 8 oyuncuyla oynanır	0	2
+Choose the score limit. Players who reach that limit go out of the game	Puan sınırını seçin. Bu limite ulaşan oyuncular oyun dışı kalır.	0	2
+yellow 1	sarı 1	0	2
+yellow 2	sarı 2	0	2
+yellow 3	sarı 3	0	2
+yellow 4	sarı 4	0	2
+yellow 5	sarı 5	0	2
+yellow 6	sarı 6	0	2
+yellow 7	sarı 7	0	2
+yellow 8	sarı 8	0	2
+yellow 9	sarı 9	0	2
+yellow 0	sarı 0	0	2
+ayellow reverse	Sarı ters döndür	0	2
+yellow reverse	sarı ters döndür	0	2
+blue 0	mavi 0	0	2
+blue 1	mavi 1	0	2
+blue 2	mavi 2	0	2
+blue 3	mavi 3	0	2
+blue 4	mavi 4	0	2
+blue 5	mavi 5	0	2
+blue 6	mavi 6	0	2
+blue 7	mavi 7	0	2
+blue 8	mavi 8	0	2
+blue 9	mavi 9	0	2
+green 0	yeşil 0	0	2
+green 1	yeşil 1	0	2
+green 2	yeşil 2	0	2
+green 3	yeşil 3	0	2
+green 4	yeşil 4	0	2
+green 5	yeşil 5	0	2
+green 6	yeşil 6	0	2
+green 7	yeşil 7	0	2
+green 8	yeşil 8	0	2
+green 9	yeşil 9	0	2
+agreen draw two	Yeşil çektir 2	0	2
+green draw two	yeşil çektir 2	0	2
+Nobody has uno	uno yapan yok	0	2
+red 0	kırmızı 0	0	2
+red 1	kırmızı 1	0	2
+red 2	kırmızı 2	0	2
+red 3	kırmızı 3	0	2
+red 4	kırmızı 4	0	2
+red 5	kırmızı 5	0	2
+red 6	kırmızı 6	0	2
+red 7	kırmızı 7	0	2
+red 8	kırmızı 8	0	2
+red 9	kırmızı 9	0	2
+red draw two	kırmızı çektir 2	0	2
+Small draw	Küçük çekiliş	0	2
+You draw a	sen çektin	0	2
+You draw	sen çektin	0	2
+wild buzzer	buzzer	0	2
+wild draw four	joker çektir 4	0	2
+Press V to check color after a wild or +4	Jokerden  veya +4'ten sonra rengi kontrol etmek için V tuşuna basın	0	2
+awild	joker	0	2
+wild	joker	0	2
+interception	müdahale	0	2
+Too late	Çok geç	0	2
+can't play	oynayamaz	0	2
+You want green	sen istiyorsun yeşil	0	2
+Choose a color	Bir renk seç	0	2
+wants red	istiyor kırmızı	0	2
+red reverse	kırmızı ters döndür	0	2
+Take the best ones and leave the worst ones for your opponents	En iyilerini alın ve en kötüleri rakiplerinize bırakın!	0	2
+wants blue	istiyor mavi	0	2
+Press 1, 2 or 3 to take that number of balls, or backspace to look at the tube again	1, 2 veya 3 tuşuna basarak o kadar top alın ya da tüpü tekrar görmek için backspace tuşuna basın.	0	2
+You say: you're bluffing	Blöf yapıyorsun diyorsun	0	2
+is a bluffer	blöfçü	0	2
+Each player gives their hand to their right-side neighbour	Her oyuncu elini sağ taraftaki komşusuna verir.	0	2
+hasn't said uno	uno demedi	0	2
+ablue draw two	Mavi çektir 2	0	2
+blue draw two	mavi çektir 2	0	2
+green skip	yeşil sıra atlama	0	2
+The game has been paused	Oyun durduruldu	0	2
+Your turn is skipped	Sıranız atlandı.	0	2
+blue skip	mavi sıra atlama	0	2
+red skip	kırmızı sıra atlama	0	2
+yellow skip	sarı sıra atlama	0	2
+Deck	deste	0	2
+Press C to see the card on the top of the pile	yerdeki kartı görmek için C'ye basın	0	2
+from the discard pile	atılan kartlardan	0	2
+The discard pile is empty	Atılan yığın boş	0	2
+View the discard pile	Atılan yığını görüntüle	0	2
+The discard pile	Atılan kartlar	0	2
+takes their new pile in hand	Yeni kartlarını eline aldı	0	2
+Reshuffle discard pile	Atılan kartlar yeniden karıştırılır.	0	2
+View discard pile	Atılan kartı görüntüle	0	2
+Draw a card from stock pile	yığından bir kart çekin	0	2
+Pile	istiflenen	0	2
+blue reverse	mavi ters döndür	0	2
+yellow reverse	sarı ters döndür	0	2
+green reverse	yeşil ters döndür	0	2
+blue draw two	mavi çektir 2	0	2
+ayellow draw two	sarı çektir 2	0	2
+yellow draw two	sarı çektir 2	0	2
+Disable card sorting	Kart sıralamayı devre dışı bırakın	0	2
+draws a	çeker, 	0	2
+draws	çeker	0	2
+red	kırmızı	0	2
+blue	mavi	0	2
+yellow	sarı	0	2
+green	yeşil	0	2
+Game duration	Oyun süresi	0	2
+overall game	genel oyun	0	0
+Each player gives their hand to their left-side neighbour	Her oyuncu elini sol taraftaki komşusuna verir.	0	2
+Do you want to play in teams	Takım halinde oynamak ister misin	0	2
+You want	istiyorsun	0	2
+wants	istiyor	0	2
+is not bluffing	blöf yapmıyor	0	2
+I don't want to exchange my hand	Elimi değiştirmek istemiyorum	0	0
+You haven't said uno	Uno demedin	0	2
+you must draw	sen çektin	0	2
+Select a train to view its entire contents	tüm içeriğini görüntülemek için bir tren seçin	0	2
+in public train to terminate the double	Halka açık trene	0	2
+in public train	halka açık trene	0	2
+public train	halka açık tren	0	2
+0/8	ayaz/sekiz	0	2
+0/9	ayaz/dokuz	0	2
+0/10	ayaz/on	0	2
+0/11	ayaz/onbir	0	2
+0/12	ayaz/oniki	0	2
+0/7 rule	0/7 kuralı.	0	2
+0/7	ayaz/yedi	0	2
+View stack of other players	Diğer oyuncuların kasasını görüntüle	0	2
+players are	oyuncular	0	2
+Players	oyuncular	0	2
+Spectators	Seyirciler	0	2
+in his train	kendi trenine	0	2
+7/0	yedi/ayaz	0	2
+8/0	sekiz/ayaz	0	2
+9/0	dokuz/ayaz	0	2
+10/0	on/ayaz	0	2
+11/0	onbir/ayaz	0	2
+12/0	oniki/ayaz	0	2
+'s train is now closed	treni artık kapalı	0	2
+in your train	kendi trenine	0	2
+You must play a	Oynamalısın çifti bitirmek için	0	2
+is no longer in your favorites	artık favorilerinizde değil.	0	2
+is now in your favorites	artık favorilerinizde.	0	2
+'s train to terminate the double	trenine	0	2
+Choose where to play this piece	bu taşı nereye oynayacağınızı seçin	0	2
+meet in counting duel	sayma düellosunda buluşur.	0	2
+meet in ordering duel	düello için buluşurlar.	0	2
+meet in simon	simon'da buluşuyor.	0	2
+All bets are in! The croupier throws the ball and the roulette wheel starts spinning	Tüm bahisler içeride! Krupiye topu atar ve rulet çarkı dönmeye başlar.	0	2
+You have no winning bet	Kazanan bahsiniz yok!	0	2
+Drawing in the boneyard is allowed	Yerden taş çekilmesine izin verildi.	0	2
+Drawing in the boneyard is only allowed when not having a playable piece	Yerden taş çekilmesine yalnızca oynanabilir bir taş olmadığında izin verildi.	0	2
+Play in teams	Takımlar halinde oynayın	0	2
+Forbid drawing in the boneyard	oynana bilir bir taş varsa yerden taş çekilmesini engelle.	0	2
+meet in unit conversion	 Birim dönüştürmede buluşur.	0	2
+meet in anagram	Anagram'da buluşur.	0	2
+is returned	 döndürüldü.	0	2
+are returned	 döndürüldü.	0	2
+meet in numbered balls	 Numaralı toplarda buluşur.	0	2
+The following balls are visible in the tube	Aşağıdaki toplar tüpte görülebilir 	0	2
+Find an anagram of the following word	Aşağıdaki kelimenin bir anagramını bulun 	0	2
+Allow drawing even when having a playable piece	Oynanabilir bir taş olsa bile yerden taş çekmeye izin ver.	0	2
+Drawing in the boneyard is forbidden	Yerden taş çekmek yasak.	0	2
+Press A to bet all your chips (all in)	Tüm paranızı bahse koymak için A harfine basın.	0	0
+ in your stack	para var.	0	2
+ in exchange	karşılığında, 	0	2
+in	 	0	2
+'s train is now open	treni şimdi açık	0	2
+'s train	trenine	0	2
+ha entrado en la sala de juegos	oyun odasına girdi	0	2
+Connection	bağlantı	0	2
+Username	Kullanıcı adı	0	2
+Remember my password	Şifremi Hatırla	0	2
+Connect	bağlan	0	2
+Lost password	şifremi unuttum	0	2
+Password	parola	0	2
+If you don't have an account yet, you must first create one using the	Henüz bir hesabınız yoksa, önce şunu kullanarak bir tane oluşturmalısınız	0	2
+Create account	Hesap oluştur	0	2
+IF you have created your account recently, please check that it has been correctly valided before retrying	Hesabınızı yakın zamanda oluşturduysanız, lütfen yeniden denemeden önce doğru şekilde geçerli olup olmadığını kontrol edin	0	2
+Press Shift+R to remind you about activated rules	Etkinleştirilen kuralları hatırlamak için Shift+R tuşlarına basın.	0	2
+About	hakkında	0	2
+Server	Sunucu	0	2
+version	versiyon	0	2
+Press U to say uno or to catch somebody who didn't say it	Uno demek veya söylemeyen birini yakalamak için U tuşuna basın	0	2
+Press F to declare a bluff	Blöf ilan etmek için F'ye basın	0	2
+Press T to know the player currently playing	Oynayan oyuncuyu öğrenmek için T'ye basın	0	2
+Press R to repeat active rules	Etkin kuralları tekrarlamak için R tuşuna basın	0	2
+salió de la sala de juegos	oyun odasından çıktı	0	2
+if that extra rule is activated	bu ekstra kural etkinleştirilirse	0	2
+Escoba	Skopa	0	2
+and win a point	ve bir puan kazandın	0	2
+Allow manual selection of tricks	Kartların el ile seçilmesine izin ver	0	2
+On the table are: a	masada	0	2
+There is no card here	Burada kart yok.	0	2
+owns the largest number of diamonds	en fazla karoya sahip	0	2
+You own the largest number of diamonds	en fazla karoya sahipsin	0	2
+of clubs	sinek	0	0
+clubs	sinek	0	2
+of spades	maça	0	2
+spades	maça	0	2
+of diamonds	karo	0	2
+diamonds	karo	0	2
+of hearts	kupa	0	2
+hearts	kupa	0	2
+puts a feather of	tüy koyar	0	2
+The dealer puts a	dağıtıcı masaya, 	0	2
+The dealer puts an	dağıtıcı masaya, 	0	2
+puts a	attı	0	2
+Boom You get in	Boom İçeri gir	0	2
+You put an	sen attın	0	2
+You take the	Sen aldın	0	2
+You collect a	sen aldın	0	2
+and a	ve	0	2
+and an	ve	0	2
+even and pass	eşit ve geç!	0	2
+odd and miss	tek ve özledim.	0	2
+even and miss	eşit ve özledim!	0	2
+per house and	ev başına ve, 	0	2
+and	ve	0	2
+collects a	aldı	0	2
+You collect an	sen aldın	0	2
+Measuring unit with	bir ölçü birimi, harf,	0	2
+TV or radio presenter with	Televizyon veya radyo sunucusu, harf, 	0	2
+Computer software with	Bir bilgisayar yazılımı, harf,	0	2
+Celestial object with	gök yüzünde bir cisim, harf,	0	2
+Game for kids with	çocuklar için bir oyun, harf,	0	2
+Mineral with	Bir mineral ismi, harf,	0	2
+African city with	Bir afrika şehri ismi, harf,	0	2
+Capital with	Bir ülke başkenti ismi, harf, 	0	2
+European city with	Bir Avrupa şehri, harf,	0	2
+Nobility title with	Bir kraliyet ünvanı, harf,	0	2
+Online game with	Online bir oyun ismi, harf,	0	2
+Weapon with	Bir silah ismi, harf,	0	2
+lake, sea, or ocean with	göl, deniz veya okyanus ismi, harf,	0	2
+Historical person with	Tarihi kişi ismi, harf,	0	2
+Disease with	Bir hastalık ismi, harf,	0	2
+Character of a short or infant story with	Bir bebeklik öyküsü karakteri, harf,	0	2
+singer with	Bir şarkıcı ismi, harf,	0	2
+Vehicle with	Bir araç, harf,	0	2
+TV series or cartoon with	TV dizisi veya çizgi film, harf,	0	2
+Tool with	Bir Alet, harf,	0	2
+Writer of the 15th to the 19th century with	15. ila 19. yüzyıl yazarı, harf,	0	2
+Money with	Bir para birimi, harf,	0	2
+Department, state, region with	Bir devlet departmanı, harf,	0	2
+Liquid with	sıvı, harf,	0	2
+Computer component or device with	bilgisayar bileşeni veya aygıtı, harf,	0	2
+TV game with	televizyon oyunu, harf,	0	2
+TV or radio show with	televizyon veya radyo programı, harf,	0	2
+Color with	Bir renk, harf,	0	2
+Fish with	Bir balık türü, harf,	0	2
+Contemporary writer with	Bir günümüz yazarı, harf,	0	2
+Volcano with	Bir volkan ismi, harf,	0	2
+Thinker, scientiffic, philosopher with	Bilim insanı yada filozof, harf,	0	2
+Antiquity to middle-age writer with	Antik yada orta çağlardan yazar, harf,	0	2
+Writer with	Bir yazar ismi, harf,	0	2
+Car brand with	Araba markası, harf,	0	2
+Video game character with	video oyunu karakteri, harf,	0	2
+Video game with	video oyunu, harf,	0	2
+Metal with	Bir metal türü, harf,	0	2
+Religious person with	dindar kişi, harf,	0	2
+Kitchen utensil with	mutfak gereci, harf,	0	2
+Furniture with	mobilya, harf,	0	2
+Alcohol with	Alkol, harf,	0	2
+Martial art with	Bir dövüş sanatı, harf,	0	2
+Recepiant, container, storage element with	Bir depolama alıcısı, harf,	0	2
+Chemical substance with	kimyasal madde, harf,	0	2
+Monument, historical building with	anıt, tarihi bina, harf,	0	2
+Leisure with	eğlence, harf,	0	2
+House room with	Ev odası, harf,	0	2
+Sports person with	Bir sporcu ismi, harf,	0	2
+Society game with	toplum oyunu, harf,	0	2
+Movie character with	film karakteri, harf,	0	2
+Art with	Sanat, harf,	0	2
+Music instrument with	Müzik aleti, harf,	0	2
+Diety with	Diyet listesinde bir şey, harf,	0	2
+Bird with	Kuş ismi, harf,	0	2
+Means of communication with	iletişim araçları, harf,	0	2
+Decoration object with	dekorasyon nesnesi, harf,	0	2
+Cartoon character with	Çizgi filim karakteri, harf,	0	2
+Fruit or vegetable with	Meyve veya sebze, harf,	0	2
+Science with	Bir bilim türü, harf,	0	2
+Plant or flower with	bitki veya çiçek, harf,	0	2
+classical music composer with	klasik müzik bestecisi, harf,	0	2
+International sports or cultural manifestation with	uluslararası spor veya kültürel spor, harf,	0	2
+Country of the world with	Dünya ülkesi, harf,	0	2
+Player of the playroom with	Bir playroom oyuncusu, harf,	0	2
+Food with	yiyecek, harf,	0	2
+Audio/video material with	ses veya video malzemesi, harf,	0	2
+Humourist with	mizahçı, harf,	0	2
+Drink with	İçecek, harf,	0	2
+music band with	müzik grubu, harf,	0	2
+Humanoid, race, animal, fantastic monster with	İnsansı, ırk, hayvan, fantastik canavar, harf,	0	2
+Profession with	Bir meslek, harf,	0	2
+Island with	ada ismi, harf,	0	2
+Political person with	Siyasi kişi, harf,	0	2
+Drain comic character with	Komik çizgi filim karakteri harf,	0	2
+Mammal with	memeli hayvan, harf,	0	2
+Actor or actress with	aktör veya artis, harf,	0	2
+Sport with	Bir spor, harf,	0	2
+Domestic machine with	Ev eşyası, harf,	0	2
+Oceania city with	okyanus şehri, harf,	0	2
+Organ or bone of the body with	Vücudun organ veya kemiği, harf,	0	2
+for singer with	Şarkıcı ismi, harf,	0	2
+Inventer, explorer with	Mucit, kaşif, harf,	0	2
+with a	ile	0	2
+Outfit with	kıyafet ismi, harf,	0	2
+Tree or shrub with	ağaç veya çalı ismi, harf,	0	2
+Asian city with	Asya şehri, harf,	0	2
+American city with	Amerikan şehir ismi, harf,	0	2
+City with	Şehir ismi, harf,	0	2
+Insect with	böcek ismi, harf,	0	2
+State of the U.S.A with	ABD'nin bir eyaleti, harf,	0	2
+Engine component with	motor parçası, harf,	0	2
+Novel character with	Roman karakteri, harf,	0	2
+Mobile phone brand with	Bir Cep telefonu markası, harf,	0	2
+Mountain with	Bir dağ ismi, harf,	0	2
+Brand of a PC or computer component with	bir PC veya bilgisayar bileşeninin markası, harf,	0	2
+Geometrical shape with	geometrik şekil, harf,	0	2
+Domestic animal with	Evcil hayvan, harf,	0	2
+ISP or phone operator with	Telefon operatörü, harf,	0	2
+river with	nehir ismi, harf,	0	2
+American city with	Bir Amerikan şehri, harf,	0	2
+Part of the body with	vücudun bir parçası, harf,	0	2
+with an	ile	0	2
+with the	ile	0	2
+with	ile	0	2
+You put a feather of	Tüy koyarsın	0	2
+You put a	attın	0	0
+ace	1	0	2
+On the table are: an	masada	0	0
+a 10	10	0	2
+a 1	1	0	2
+a 2	2	0	2
+a 3	3	0	2
+a 4	4	0	2
+a 5	5	0	2
+a 6	6	0	2
+a 8	8	0	2
+a 9	9	0	2
+On the table are:	masada	0	2
+plays an 	oynadı	0	2
+an	 	0	2
+puts	attı	0	2
+collects	aldı	0	2
+The round is over	RAUNT sona erdi	0	2
+On the table are	masada	0	2
+a 7	7	0	2
+You own the largest number of sevens	En fazla yediye sahipsin	0	2
+Last deal	son bölüm	0	2
+Each player is dealt	başlangıç sayısı	0	0
+Number of starting pennies	Başlangıç sayısı 	0	2
+pennies	puan	0	2
+Black Jack room	siyah Jack odası	0	2
+a jack	vale	0	2
+jack	vale	0	2
+loses a penny	bir sayı kaybetti	0	2
+moves the white queen from	beyaz vezir'i hareket ettirir	0	2
+moves the black queen from	Siyah vezir'i hareket ettirir	0	2
+You move the white queen from	Beyaz vezir'i hareket ettiriyorsun	0	2
+white queen at	Beyaz vezir	0	2
+white queen	Beyaz vezir	0	2
+black queen at	Siyah vezir	0	2
+black queen	Siyah vezir	0	2
+a queen	kız	0	2
+queen	kız	0	2
+You lose the hand	kaybettin	0	2
+The strong currents make you lose control of your movements	Güçlü akım, hareketlerinizin kontrolünü kaybetmenize neden olur	0	2
+loses the round	raundu kaybeder	0	2
+You lose the round	raundu kaybedersin	0	2
+You lose a penny	sen kaybedersin bir sayı	0	2
+loses their bet	 kaybettiği bahis miktarı, 	0	2
+You lose your bet	Kaybettiğiniz bahis miktarı, 	0	2
+You lose	sen kaybedersin	0	2
+You move the black king from	Siyah şahı hareket ettiriyorsun.	0	2
+You move the white king from	Beyaz şahı hareket ettiriyorsun	0	2
+Possible moves for the	Bu taş için olası hamleler,	0	2
+white king at	Beyaz şah	0	2
+white king	Beyaz şah	0	2
+black king at	Siyah şah	0	2
+black king	Siyah şah	0	2
+The king	kral	0	2
+a king	 kral 	0	2
+king	kral	0	2
+loses the hand	kaybetti	0	2
+loses	kaybeder	0	2
+Start the game	Oyunu başlat	0	2
+Exit game	Oyundan çıkış	0	2
+View game information	Oyun bilgilerini görüntüleyin	0	2
+Add a bot	Bot ekle	0	2
+Remove a bot	Bir botu gönder	0	2
+Press space to draw a card	Bir kart çekmek için boşluk tuşuna basın	0	2
+Here's the whole chain of dominos made so far	İşte şu ana kadar atılan domino taşlarının  tamamı.	0	2
+Dominos	domino	0	2
+Spades	batak	0	2
+Scientific war	Bilimsel savaş	0	2
+Define a score limit	bitiş için bir skor girin	0	2
+Choose the score limit for a victory	zafer için bir skor yazın	0	2
+Backgammon	tavla	0	2
+empty	boş	0	2
+To make a checker re-enter the board from the bar, press enter on its starting point	Bir pulun tahtaya tekrar girmesini sağlamak için başlangıç noktasında enter tuşuna basın.	0	2
+checkers on the bar	kırık PULU var.	0	2
+'s checkers	PUL.	0	2
+'s checker	PUL.	0	2
+You must first choose at least one winning combination before rerolling the dice	zar atmadan önce bir birleşim seçmelisin	0	2
+You roll the dice	zar attın	0	2
+Roll the dice	zar at	0	2
+Victory is fixed to	bitiş skoru	0	1
+You move a checker from point 	PULU aldın kare	0	1
+This move is impossible	buraya oynayamazsın	0	2
+to point 	,oynandığı kare	0	2
+rolls the dice	zar  attı	0	2
+moves a checker from point	PULU aldı	0	2
+One point only	Bir puan ver	0	2
+All moves must capture at least one piece	Tüm hamleler en az bir taşı almak zorunda.	0	2
+let's go to the next one	bir sonrakine geçelim!	0	2
+one	1	0	2
+A checker is captured	1 PUL kırıldı	0	2
+You make a checker enter the board at point	sen oynadın kırık PULU kare	0	2
+is unable to play	oynayamaz	0	2
+makes a checker enter the board at point	kırık pulu oynadı	0	2
+You take a checker out of the board from point	PUL elde	0	2
+has only	sadece	0	2
+You are not allowed to speak at this table	Bu masada konuşmanıza izin verilmiyor.	0	2
+has decided to double their bet	 bahislerini ikiye katlamaya karar verdi!	0	2
+You have decided to double your bet	Bahsinizi ikiye katlayıp, çektiğiniz kartla birlikte olduğunuz sayıda durmaya karar verdiniz!	0	2
+has no winning bets	kazanan bahsi yok!	0	2
+The dealer has busted	dağıtıcı kaybetti!	0	2
+The dealer has a	Dağıtıcının, 	0	2
+The dealer has	dağıtıcının, 	0	2
+Press V to see the dealer's card	Dağıtıcının kartını görmek için V tuşuna basın.	0	2
+Press S to see your cash	Nakit paranızı görmek için S tuşuna basın.	0	2
+Press Shift+S to see the cash of other players	Diğer oyuncuların parasını görmek için Shift+S tuşlarına basın.	0	2
+has banned	Yasakladı	0	2
+has built	inşa etti	0	2
+has been discarded	atıldı	0	2
+has been refused	reddedildi.	0	2
+has removed	kaldırdı	0	2
+has unbanned	yasağı kaldırdı	0	2
+has added	ekledi	0	2
+has busted	yakalandı!	0	2
+has made	kaybetti	0	2
+has a	tahtada	0	2
+has	tahtada	0	2
+checkers on the board	PULU var	0	2
+takes a checker out of the board from point	PUL aldı	0	2
+You finish the round	RAUNTU bitirdin	0	2
+You are unable to play	Oynayamazsınız.	0	2
+You can't add a new element	yeni bir öğe ekleyemezsiniz	0	2
+Press enter to roll dice	Zar atmak için enter tuşuna basın	0	2
+The tube of the machine is transparent, so you can see the next balls coming out	Makinenin tüpü şeffaftır, böylece çıkacak sonraki topları görebilirsiniz.	0	2
+on its destination square	koymak istediğiniz karenin üzerinde, tekrar enter tuşuna basın	0	2
+To take a checker out of the board, press enter twice on its starting point	Tahtadan bir PUL çıkarmak için, başlangıç karesinde iki kez enter tuşuna basın	0	2
+Press C to review the last roll	Attığınız zarları incelemek için, C tuşuna basın	0	2
+Skipping turns isn't allowed if there are possibilities to play	Oynanabilir hamle varsa, sıra geçilemez.	0	2
+Press I to obtain general game information	Genel oyun bilgilerini almak için I tuşuna basın.	0	2
+You aren't allowed to double the stack now	artık yığını ikiye katlama izniniz yok	0	2
+finishes the round	turu bitirdi	0	2
+Well done ! That's a gammon	aferim bu bir mars	0	2
+Choose the minimum number of points that one can bank	Birinin alabileceği minimum puan sayısını seçin	0	2
+Choose the score limit to reach for a victory	Zafere ulaşmak için puan sınırını seçin	0	2
+You must have at least	öncelikle açılışta biriktirmek için gereken sayı 	0	2
+You roll the die	Sen zar atarsın 	0	0
+Roll the die	Zar at	0	2
+Roll	at	0	2
+Dice room	zar odası	0	2
+dice	zar	0	2
+Right bank	Sağ banka	0	2
+Left bank	Sol banka	0	2
+North bank	Kuzey bankası	0	2
+South bank	Güney göleti	0	2
+Bank; Take 5 feathers	Banka; 5 tüy al	0	2
+Square \#3: Bank	Kare 3: banka	0	2
+Minimal bank score	Tek elde biriktirilmesi gereken en düşük sayı 	0	2
+Bank	birikim	0	2
+for this turn	bu sırada	0	2
+Single	Tek	0	2
+Threats for the	tehditler	0	2
+The judge will be randomly chosen for each answer proposed	Hakem önerilen her cevap için rastgele seçilecektir.	0	2
+for stopping the round incorrectly	turu yanlış durdurduğu için.	0	2
+For the second hand of	İkinci el için, 	0	2
+Crib is for	Crib kart sırası 	0	2
+fifteens for	 onbeşlik için 	0	2
+the suit for	 4 için 	0	2
+suit for	 4 için 	0	2
+for	için	0	2
+You take a	Aldın	0	2
+You take	aldın	0	2
+You have accumulated	 	0	2
+on this turn	bu sırada	0	2
+Three	3	0	2
+takes the	alır	0	2
+takes a	aldı	0	2
+takes	aldı	0	2
+That's a farkle	Bu bir farkle	0	2
+No chance	Şansın yok	0	2
+fly away	duman oldu uçtu	0	2
+Small straight	küçük ardışık	0	2
+banks	biriktirdi	0	2
+Four	4	0	0
+pairs	çift	0	2
+Five	5	0	2
+Large straight	büyük ardışık	0	2
+Press R to repeat activated rules	Etkinleştirilen kuralları görmek için R tuşuna basın	0	2
+Full house	Büyük seri	0	2
+Select the board to use	Kullanılacak tahtayı seçin	0	2
+Peaceful pond	Huzurlu gölet	0	2
+Ducks' anniversary	Ördek festivali	0	2
+3 laps	3 tur	0	2
+4 laps	4 tur	0	2
+5 laps	5 tur	0	2
+6 laps	6 tur	0	2
+7 laps	7 tur	0	2
+8 laps	8 tur	0	2
+9 laps	9 tur	0	2
+10 laps	10 tur	0	2
+Lucky challenge	Şanslı bir meydan okuma	0	2
+Enable speed-based challenges	Hıza dayalı meydan okumaları etkinleştirmek istiyormusunuz	0	2
+You throw the die	sen zar attın	0	2
+throws the die	zar attı	0	2
+Playable against another player. move, feathers	başka bir oyuncuya oynana bilir kart	0	2
+1. On the line; Take 1 feathers	1. 1 tüy al	0	2
+The fresh air of the forest gives you wings	Ormanın temiz havası seni kanatlandırır	0	2
+2. Forest edge; Take 3 feathers	2. orman kenarı, 3 tüy al	0	2
+8. Shady water; Pay 1 feathers	8. Gölgeli su; 1 tüy öde	0	2
+19. Vegetal shelter; Take 1 feathers	19. Bitkisel barınak; 1 tüy al	0	2
+30. Finish line; Take 1 feathers	30. Bitiş çizgisi; 1 tüy al	0	2
+You fly over square Forest edge: Take 1 feathers	Orman meydanının kenarından uçarsınız: 1 tüy aldınız	0	2
+How many feathers does	Kaç tüyü var	0	2
+feathers from	tane tüy	0	2
+bets 1 feathers on miss	ıskalama üzerine 1 tüy bahse girer.	0	2
+bets 2 feathers on miss	ıskalama üzerine 2 tüy bahse girer.	0	2
+bets 3 feathers on miss	ıskalama üzerine 3 tüy bahse girer.	0	2
+bets 4 feathers on miss	ıskalama üzerine 4 tüy bahse girer.	0	2
+bets 5 feathers on miss	ıskalama üzerine 5 tüy bahse girer.	0	2
+bets 6 feathers on miss	ıskalama üzerine 6 tüy bahse girer.	0	2
+bets 7 feathers on miss	ıskalama üzerine 7 tüy bahse girer.	0	2
+bets 8 feathers on miss	ıskalama üzerine 8 tüy bahse girer.	0	2
+bets 9 feathers on miss	ıskalama üzerine 9 tüy bahse girer.	0	2
+grams of feathers on the scale, which can hold up to	gram terazide en fazla olabilecek tüy gramı	0	2
+feathers to	tüy	0	2
+feathers	tüy	0	2
+advances by	ilerler 	0	2
+You advance by	Sen ilerliyorsun 	0	2
+You advance	sen ilerledin	0	2
+advances by squares	kare ilerler	0	2
+advances	ilerler	0	2
+squares	kare	0	2
+Advance	ilerle	0	2
+Cost	Maliyet	0	2
+Playable on yourself or against another player. move	Kendinize veya başka bir oyuncuya karşı oynanabilir. kart	0	2
+Everyone  passes their hand to their neighbor	Herkes elini komşusuyla değiştirir	0	2
+Playable only on  yourself. manipulation	Sadece kendi başına oynanabilir. kart	0	2
+Steal a character	karakter çalmak	0	2
+steals gold from	Altın çaldı	0	2
+Hand mix	eldeki kartları rakiple değiştir	0	2
+You steal gold from	altın çalıyorsun	0	2
+You steal	Çaldın	0	2
+Steal	çal	0	2
+Tiny help	Küçük yardım	0	2
+Throw the die	zar at	0	2
+Impulsion	Dürtü	0	2
+3. Front pond; No special effect	3. gölün önü	0	2
+9. Reed path; No special effect	9. Kamış yolu	0	2
+11. Water lilies; Skip 1 turns	11. Nilüferler; 1 tur atla	0	2
+18. Deep water; Skip 2 turns	18. Derin su; 2 tur atla	0	2
+probable at	olasılıkla	0	2
+Guest's entrance	misafir girişi	0	2
+Casino entrance	Kumarhane girişi:	0	2
+Skip 1 turns	1 tur atla	0	2
+21. Water lilies	21. Nilüferler	0	2
+27. Sandbox	27. Kum havuzu	0	2
+29. Puddle of water	29. Su birikintisi	0	2
+Main room	ana giriş	0	2
+Tar stain	Katran lekesi	0	2
+Die normalizing	Normal kalıp	0	2
+You use a card Opportunistic die on	Fırsatçı bir kart kullanıyorsun	0	2
+Opportunistic die	Fırsatçı kalıp	0	2
+It isn't your turn	Senin sıran değil	0	2
+Playable only on  yourself. move	Sadece kendi başına oynanabilir. kart	0	2
+Playable only on  yourself	Sadece kendine oynana bilir kart	0	2
+Curiosity	Merak	0	2
+Droppable card. move	Bırakıla bilir kart	0	2
+You can't drop a card here	Buraya kart bırakamazsınız	0	2
+Select the target player	Hedef oyuncuyu seçin	0	2
+You get 2 gold coins	2 altın alıyorsunuz	0	2
+You get a gold coin	bir altın para alırsın	0	2
+You get by mistake	yanlışlıkla alırsın	0	2
+You get a	sen alırsın, 	0	2
+You get your bet back	Bahsinizi geri alırsınız, 	0	2
+You get	Sen alırsın	0	2
+Weighted water	Ağırlıklı su	0	2
+You drop a card	Bıraktın bir kart	0	2
+drops a card	Bir kart bıraktı	0	2
+on square	kare	0	2
+Square \#	kare	0	2
+Reed path	Kamış yolu	0	2
+Deep water	Derin su	0	2
+Skip 3 turns	3 tur atlayın	0	2
+Skip	atladı	0	2
+turns	tur	0	2
+On the water	suda	0	2
+Forest edge	Orman kenarı;	0	2
+Front pond	Gölün önü	0	2
+Diving board	Dalış tahtası	0	2
+Ducklings' nest	Ördek yavruları yuvası	0	2
+Shady water	Gölgeli su	0	2
+the pond	Gölet içinde	0	2
+Water lilies	nilüferler	0	2
+On the water	su üzerinde	0	2
+Warm water	Ilık su	0	2
+Cosy nest	Rahat yuva	0	2
+Whirlpool	Girdap	0	2
+the pond	Gölet içinde	0	2
+Deep water	derin su	0	2
+Vegetal shelter	Bitkisel barınak	0	2
+Paddling pool	Çocuk havuzu	0	2
+Resupplying area	İkmal bölgesi	0	2
+Sandbox	Kum havuzu	0	2
+Wooden zone	Ahşap bölge	0	2
+Puddle of water	Su birikintisi	0	2
+Finish line	Bitiş çizgisi	0	2
+On the line	Çizgide	0	2
+Make your choice	Seçimini yap	0	0
+chose	Seçti	0	2
+Cabbage	Lahana.	0	2
+The wolf eats the goat	Kurt keçiyi yer	0	2
+The wolf	Kurt	0	2
+doesn't like	sevmez	0	2
+Wolf	Kurt	0	2
+You are frozen	Sen donmuşsun	0	2
+You give 1 cards to	1 kart veriyorsun	0	2
+gives 1 cards to	1 kart verir	0	2
+gives you 1 cards	sana 1 kart verir	0	2
+is inviting you to a table of Spades. Press Ctrl+J to join	sizi maça masasına davet ediyor. Katılmak için Ctrl+J tuşlarına basın	0	2
+Press V to see the quarters you have built	İnşa ettiğiniz mahalleleri görmek için V'ye basın	0	2
+You haven't built any quarters	Herhangi bir mahalle inşa etmedin	0	2
+You have gold and built quarters for a total of points	Toplam puan için altın ve yerleşik mahalleleriniz var	0	2
+What do you wish to do	Ne yapmak istiyorsun	0	2
+You have a	sende var, 	0	2
+You have busted	Yakalandın!	0	2
+You have	var	0	2
+You can't attack the bishop	Piskopos'a saldıramazsınız	0	2
+You build the	sen inşa ettin	0	2
+Do you wish to buy it	Satın almak istiyor musunuz	0	2
+You buy	sen satın aldın	0	2
+You go directly to jail	direk hapse girersin	0	2
+proposes a deal to you	size bir anlaşma önerir	0	2
+You give to	sen verirsin	0	2
+You offer yourself a trip to	Kendine bir gezi teklif ediyorsun	0	2
+Hey mama, houses, Is that a village or not	Hey anne evler köy mü orası değil mi	0	2
+You can't build houses on this property	Bu mülkte evler inşa edemezsiniz	0	2
+beautiful houses are here	güzel evler burada	0	2
+Over there, you can see a construction made of bricks	Orada tuğladan yapılmış bir yapı görebilirsiniz	0	2
+You must own a complete group to be able to build	İnşa edebilmek için eksiksiz bir gruba sahip olmalısınız	0	2
+You don't have enough cash to buy that property	O mülkü satın almak için yeterli paranız yok	0	2
+Who could have built the 3 houses you can see over there	Şurada gördüğün 3 evi kim yapmış olabilir	0	2
+you are not dreaming	rüya görmüyorsun	0	2
+You must build uniformly	Tek tip inşa etmelisin	0	2
+You propose a deal to	bir anlaşma teklif ediyorsun	0	2
+gives you	sana verecek, 	0	2
+you can see over there	orada görebilirsin	0	2
+you give	sen vereceksin	0	2
+You can't stay more than	daha fazla kalamazsın	0	2
+if you own the complete group	tüm gruba sahipseniz	0	2
+steals you	senden aldı	0	2
+You inherited	miras aldın	0	2
+You invite all players to a business dinner	Tüm oyuncuları bir iş yemeğine davet ediyorsunuz	0	2
+You can't build on a mortgaged property	İpotekli bir mülkün üzerine bina yapamazsınız	0	2
+Tax authorities give you back	Vergi makamları size geri veriyor	0	2
+You use a get out of jail free card	Hapisten ücretsiz çıkış kartı kullanıyorsun	0	2
+you can see its sheet	onun sayfasını görebilirsiniz	0	2
+If you choose a property	Bir mülk seçerseniz	0	2
+IF you own	EĞER sahipsen	0	2
+The more stations you own, the more rent you can claim	Ne kadar çok istasyona sahipseniz o kadar çok kira talep edebilirsiniz	0	2
+You are out of the game	oyundan çıktın	0	2
+You must sell uniformly	Tek tip satmalısın	0	2
+You lift the mortgage from	ipoteği kaldırırsınız	0	2
+You can't build more than a hotel	Bir otelden fazlasını inşa edemezsin	0	2
+A hotel full of tourists	Turist dolu bir otel	0	2
+You win the crossword puzzle grand prize	Bulmaca büyük ödülünü kazandınız	0	2
+something tells you that a night must be very expensive around there	bir şey sana orada bir gecenin çok pahalı olduğunu söylüyor	0	2
+The ground is a little sticky	Zemin biraz yapışkan	0	2
+Some supplies, that feels good	Seni iyi yapan bazı kartlar	0	2
+Gain	Kazanç	0	2
+Sandwich	Sandviç	0	2
+Cartboard glue	Karton yapıştırıcısı	0	2
+Why not play a little	Neden biraz oynamıyorsun	0	2
+You use a card	Bir kart kullanıyorsun	0	2
+Forbid buying properties on first boardround	İlk turda mülk satın almayı yasakla	0	2
+is on this square	tarafından	0	2
+The ball stops on number	Topun durduğu numara,	0	2
+on the scale	teraziye.	0	2
+on first quarter	ilk çeyrekte.	0	2
+on third quarter	üçüncü çeyrekte.	0	2
+on number	numara	0	2
+on odd	tek sayıya.	0	2
+on	 	0	2
+Draw a piece	Bir taş çek	0	2
+Draw a card	kart çek	0	2
+You must first draw 4 cards	İlk önce 4 kart çekmelisiniz!	0	2
+Draw responses are	Tehlikeli kartların sonrasına, tehlikeli kart oynamayı izinver.	0	2
+Draw responses	Tehlikeli kartların sonrasına, tehlikeli kart oynamayı izinver. 	0	2
+Draw	çektin	0	2
+Playable against another player. manipulation	Başka bir oyuncuya karşı oynanabilir. kart	0	2
+Hand switch	El değiştirme	0	2
+Planified deal	Planlanmış anlaşma	0	2
+Card rub	Kart ovma	0	2
+selected out of	 seçildi 	0	0
+Lap	Tur	0	2
+out of	toplam tur	0	2
+Interested help	İlgilenen yardım	0	2
+You fly over square	sen meydanda uçuyorsun	0	2
+flies over square 	karenin üzerinden uçar	0	2
+Take insurance	sigorta al.	0	2
+Take	aldı	0	2
+A card	Bir kart	0	2
+dropped by	bırakıldı	0	2
+Removal	Uzaklaştırma	0	2
+uses	kullanır	0	2
+gave the wrong answer	yanlış cevap verdi	0	2
+Wrong answer	Yanlış cevap	0	2
+square	kare	0	2
+lap	tur	0	2
+Something seems to be lurking around underneath	Aşağıda tehlikeli bir şeyler dolaşıyor gibi görünüyor	0	2
+Challenge another player	Başka bir oyuncuya meydan oku	0	2
+Playable against another player	Başka bir oyuncuya karşı oynanabilir	0	2
+Super challenge	Süper meydan okuma	0	2
+Challenge	Meydan okuma	0	2
+Scotch	İskoç	0	2
+Goat	Keçi	0	2
+Thick die	Kalın kalıp	0	2
+Small die	Küçük kalıp	0	2
+Super glue	Süper yapıştırıcı	0	2
+White glue	Beyaz tutkal	0	2
+Cardboard glue	karton yapıştırıcı	0	2
+Glue	Tutkal	0	2
+Yellowbelly die	sarı göbek kalıbı	0	2
+Smells are incredibly fascinating	Kokular inanılmaz derecede büyüleyici	0	2
+gave the right answer	doğru cevabı verdi	0	2
+Right answer	Doğru cevap	0	2
+Buried die	Gömülü kalıp	0	2
+Small ducklings express their happyness	Küçük ördek yavruları mutluluklarını ifade eder.	0	2
+General deal	Genel anlaşma	0	2
+Ink stain	Mürekkep lekesi	0	2
+Guided missile	güdümlü füze	0	2
+Oil stain	Yağ lekesi	0	2
+Booster	Yükseltici	0	2
+Earth feeds wood	Toprak odunu besler	0	2
+Water feeds wood	Su odunu besler	0	2
+A little sleep that makes you feel well	Kendinizi iyi hissettiren biraz uyku!	0	2
+The paper covers the well	Kağıt kuyuyu kaplıyor.	0	2
+Fire makes metal melt	Ateş metali eritir	0	2
+Metal cuts wood	Metal odunu keser	0	2
+Metal poisons earth	Metal toprağı zehirler	0	2
+Earth absorbs water	Toprak suyu emer	0	2
+Fire burns wood	Ateş odunu yakar	0	2
+Fire makes metal to melt	Ateş metalin erimesini sağlar	0	2
+Wood	Odun	0	2
+Earth	toprak	0	2
+Water	Su	0	2
+Fire	Ateş	0	2
+Tiny recoil	Küçük geri tepme	0	2
+goes back	geri gider	0	2
+The paper wraps the rock	Kağıt taşı sarar	0	2
+The rock falls into the well	Taş kuyuya düşüyor	0	2
+The scissors cut the fuse	Makas sigortayı kesti	0	2
+The bomb burns the paper	Bomba kağıdı yakar	0	2
+Paper	Kağıt	0	2
+Home made bomb	Ev yapımı bomba	0	2
+The rock resists to the bomb	taş bonbaya direnir	0	2
+The bomb explodes the well	Bomba kuyuyu patlatır	0	2
+Bomb	Bomba	0	2
+Scissors	Makas	0	2
+Rock	Taş	0	2
+Well	Kuyu	0	2
+Saving is currently unsupported	Kaydetme şu anda desteklenmiyor	0	2
+skips	atlar	0	2
+turns	tur	0	2
+Counter-current	Karşı akım	0	2
+Altruism	Fedakarlık	0	2
+Place your	Yerleştirin	0	2
+place	YER	0	2
+Fight your opponent by throwing the die	Rakibinizle zar atarak savaşın	0	2
+wins the round	raundu kazanır!	0	2
+You win the round	Turu sen kazandın!	0	2
+You win your bet	Bahsinizi kazandınız, 	0	2
+You win	Sen kazandın	0	2
+Repairing rest	Dinlenme onarımı	0	2
+Helix	Sarmal	0	2
+The correct answer was	Doğru cevap şuydu:	0	2
+wins their bet	 kazandığı bahis, 	0	2
+wins	kazanır	0	2
+How many is	Kaç yapar	0	2
+plus	artı	0	2
+Strong flipper	Güçlü kanatçık	0	2
+You paddle happily	Mutlu bir şekilde kürek çekiyorsun	0	2
+Use digits to reproduce the notes you are hearing	Duyduğunuz notaları tekrarlamak için rakamları kullanın.	0	2
+Find my number between	Tuttuğum sayıyı, şu rakamlar arasında bul	0	2
+Hitch	aksama	0	2
+Die of the fear	Korkudan öl	0	2
+What a wonderful bath	Ne harika bir banyo	0	2
+Ejectable seat	Çıkarılabilir koltuk	0	2
+Long absence	uzun süreli yokluk	0	2
+Absence	Yokluk	0	2
+Blured water	Mevsimlik su	0	2
+Winning die	Kazanan kalıp	0	2
+The ranking after the race is the following	Yarıştan sonraki sıralama şu şekildedir	0	2
+Investment	Yatırım	0	2
+Soporific pill	Süngerimsi hap	0	2
+Shortness of breath	Nefes darlığı	0	2
+Suicide	İntihar	0	2
+'s body	vücudnu ele geçiriyor	0	2
+is frozen	donmuş	0	2
+frozen	Donmuş	0	2
+You are completely naked	Tamamen çıplaksın	0	2
+You are completely plucked	Tamamen çıplaksın!	0	2
+Detour	Dolambaçlı yoldan	0	2
+is not at a table or the latter is private	Bir masada değil, yada masası gizli	0	2
+always	her zaman	0	2
+never	asla	0	2
+if active	aktif	0	2
+straights of	 sıralama 	0	2
+Straights are	Ardışık rakamlı kartları oynamaya izin ver.	0	2
+Straights	Ardışık rakamlı kartları oynamaya izin ver.	0	2
+active	aktif	0	2
+if inactive	aktif değilse	0	2
+General	Genel	0	2
+Who will be the judge of the game	Oyunun hakemi kim olacak?	0	2
+Game	Oyun	0	2
+Discussions	Tartışmalar	0	2
+Recipient	Alıcı	0	2
+Subject	Konu	0	2
+Message	İleti	0	2
+Send	Gönder	0	2
+Cancel	İptal	0	2
+2. Entrance hall; No special effect	2. Giriş holü	0	2
+Helpers' living room	Yardımcıların oturma odası;	0	2
+7. Living room; No special effect	7. Oturma odası	0	2
+9. Dinner room; No special effect	9. Yemek odası	0	2
+13. Translators' office; No special effect	13. Çevirmenler ofisi	0	2
+21. Administrators' tower; No special effect	21. Yönetici kulesi	0	2
+27. Machine room; No special effect	27. Makine dairesi	0	2
+No hell	hayatta olmaz	0	2
+No wizard will be present this turn	Bu tur hiçbir sihirbaz olmayacak	0	2
+No thief will be present this turn	Bu turda hırsız olmayacak	0	2
+No thief is present	Hırsız yok	0	2
+No architect is present	Mimar yok	0	2
+No bishop will be present this turn	Bu tur hiçbir piskapoz bulunmayacak	0	2
+No architect will be present this turn	Bu turda hiçbir mimar bulunmayacak	0	2
+No bishop is present	Piskopos yok	0	2
+No warlord is present	savaş lordu yok	0	2
+No warlord will be present this turn	Bu tur hiçbir savaş lordu olmayacak	0	2
+No merchant will be present this turn	Bu tur hiçbir tüccar bulunmayacak	0	2
+No merchant is present	Tüccar yok	0	2
+No murderer is present	Katil yok	0	2
+There is really somebody here, no doubt	Burada gerçekten biri var, şüphesiz	0	2
+No threats	Tehditlere hayır	0	2
+Corridor; No special effect	Koridor; Özel efekt yok	0	2
+No special effect	Özel efekt yok;	0	2
+yes	evet	0	2
+no	hayır	0	2
+ok	tamam	0	2
+You have invited	Davet ettin	0	2
+is inviting you to a table of	sizi masasına davet ediyor	0	2
+Write the number	Numarayı yaz	0	2
+as fast as possible	Olabildiğince hızlı ol	0	2
+Replace	Değiştir	0	2
+Kick from the table	Masadan çıkar	0	2
+Set as table master	Masa yöneticisi olarak ayarla	0	2
+minus	eksi	0	2
+times	çarpı	0	2
+Paid service	Ücretli servis	0	2
+Withdrawal	Para çekme	0	2
+Reckless die	Pervasız kalıp	0	2
+Mine or treasure	Maden veya hazine	0	2
+Mine	mayın	0	2
+Paint the die	Zarı boya 	0	2
+rolls the die	 Zar atar 	0	2
+die	kalıp	0	2
+feathers in category Sport	Spor kategorisindeki tüyler	0	2
+divided BY	bölü	0	2
+is completely naked	tamamen çıplak	0	2
+Cold is taking over	Soğuk 	0	2
+This card cannot target anyone at the moment	Bu kart şu anda kimseyi hedefleyemez	0	2
+Lunch	Öğle yemeği	0	2
+Press Ctrl+P to play it	Oynatmak için Ctrl+P basın	0	2
+steals	çaldı	0	2
+closed	kapalı	0	2
+Latest participations	Son katılımlar	0	2
+Recent topics	Son konular	0	2
+Bug reports	Hata raporları	0	2
+Tea room	Çay odası	0	2
+Tournaments	Turnuvalar	0	2
+Error	Hata	0	2
+Your credencials are incorrect	Kimlik bilgileriniz yanlış	0	2
+open	açık	0	2
+You have finished the round	Turu bitirdin	0	2
+Choose the discard rule to use	Kullanılacak silme kuralını seçin	0	2
+Choose the required score to make the first meld	İlk birleştirmeyi yapmak için gerekli puanı seçin	0	2
+Allow combination manipulations	Kombinasyon işlemlerine izin ver	0	2
+Allow identity combination type	Kimlik kombinasyon türüne izin ver	0	2
+You need	İlk perinizi yapmak için	0	2
+deals 14 to each player	her oyuncuya 14 tane dağıtır	0	2
+You meld a new combination	Yeni bir kombinasyon yaptın	0	2
+meld a new combination	yeni bir kombinasyon birleştirdi	0	2
+Invalid combination	Geçersiz kombinasyon	0	2
+extends the combination	Kombinasyona fazladan kart ekledi	0	2
+Choose where to play this card	Bu kartın nereye koyulacağını seçin	0	2
+You can't put that card here	O kartı buraya koyamazsınız	0	2
+You extend the combination	Kombinasyonu uzattın	0	2
+Junk that card	Bu kartı çöpe at	0	2
+You can't extend existing combinations before your first meld	İlk birleştirmenizden önce mevcut kombinasyonları genişletemezsiniz	0	2
+junks	attı	0	2
+Combination cancelled	Kombinasyon iptal edildi	0	2
+You aren't allowed to junk this card	Bu kartı çöpe atma izniniz yok	0	2
+Identity combination type is allowed	Kimlik kombinasyonu türüne izin verilir	0	2
+away from combination	kombinasyondan uzak	0	2
+melds a new combination	yeni bir kombinasyon oluşturur	0	2
+Combination manipulations	Kombinasyon manipülasyonları	0	2
+combination	kombine	0	2
+Choose the tiles to knock down	Yıkılacak çinileri seçin	0	2
+knocks	vurdu ve	0	2
+Press 1 to 9 to see the status (up or down) of each tile separately	Her bir döşemenin durumunu (yukarı veya aşağı) ayrı ayrı görmek için 1 ila 9'a basın	0	2
+The ball is slowing down a little	Top biraz yavaşlıyor...	0	2
+down	devrildi	0	2
+You knock	Vurdun ve	0	2
+lose a penny	Kaybetti 1 sayı	0	2
+lose	kaybetti	0	2
+Traditional	Geleneksel	0	2
+Card order is reversed	Kart siparişi tersine çevrildi	0	2
+changes their card piles	kart yığınlarını değiştirir	0	2
+War	Savaş	0	2
+You play	Oynadın	0	2
+The list of blocked users is empty	Engellenen kullanıcıların listesi boş	0	2
+the teams are	Takımlar	0	2
+Teams are	takımlar	0	2
+are now at	şimdi	0	2
+card against	kartını karşı	0	2
+against	karşısında	0	2
+Activate whole team chip out	Tüm takım çipini etkinleştirin	0	2
+View pieces at the edges of the chain	Yerdeki taşı görüntüleyin	0	2
+Play this piece	Bu taşı oyna	0	2
+Rounds to play	Oynanacak tur sayısı	0	2
+Play	Oyna	0	2
+View pieces of the whole chain	Atılan taşları görüntüleyin	0	2
+Whose turn is it	Sıra kimde	0	2
+get	aldı	0	2
+have reached the score limit of	puan sınırına ulaştı	0	2
+View all combinations	Tüm kombinasyonları görüntüleyin	0	2
+Disable sorting	Sıralamayı devre dışı bırak	0	2
+You junk	sen attın	0	2
+Please update	Lütfen güncelle	0	2
+This gives	Bu verir	0	2
+Rami is played with 2 to 8 players	Rami 2 ila 8 oyuncuyla oynanır	0	2
+None of your opponents made their first meld	Rakiplerinizden hiçbiri ilk açmayı yapamadı	0	2
+Nobody made their first meld	Kimse ilk perini yapamadı	0	2
+manipulation is allowed	işlemine izin verilir	0	2
+has made an excellent rummy, and without laying off	mükemmel bir el yaptı ve hiç ara vermeden !	0	2
+By using a	kullanarak	0	2
+List of banned users	Engellenen kullanıcıların listesi	0	2
+Press D to see the current stake	Mevcut bahisi görmek için D'ye basın	0	2
+Restore default settings	Ayarları varsayılana getir	0	2
+You aren't allowed to double the stake now	Şimdi bahsi ikiye katlamanıza izin verilmiyor	0	2
+You double the stake	Bahsi 2'ye katladın	0	2
+The second card of the dealer is	Dağıtıcının ikinci kartı, 	0	2
+The second card of the dealer is a	Dağıtıcının ikinci kartı, 	0	2
+Starting card is	Başlangıç kartı, 	0	0
+card	kart	0	2
+end of counterflow	Geri vitesi kaldır	0	2
+counterflow	Geri vites	0	2
+plays at	Oynar 	0	2
+plays	oynar	0	2
+ared reverse	Kırmızı ters döndür	0	2
+ayellow	sarı	0	2
+ablue reverse	Mavi ters döndür	0	2
+ablue	mavi	0	2
+agreen reverse	Yeşil ters döndür	0	2
+agreen	yeşil	0	2
+ared	kırmızı	0	2
+You are already present at the table	Zaten masada bulunuyorsunuz.	0	2
+You aren't allowed to join the table of	Şu kişinin masasına katılmanıza izin verilmiyor,	0	2
+You're bluffing	Blöf yapıyorsun	0	2
+You don't have any gold	Altınınız yok	0	2
+You exchange	Sen değiş tokuş yaparsın	0	2
+You are	sen	0	2
+You destroyed	yok ettin	0	2
+You move the black pawn from	Siyah piyonu hareket ettirirsiniz.	0	2
+moves the black pawn from	siyah piyonu hareket ettirir	0	2
+You move the black knight from	Siyah atı hareket ettirirsiniz.	0	2
+You move the black bishop from	Siyah fili hareket ettirirsiniz.	0	2
+moves the black bishop from	siyah fili hareket ettirir	0	2
+You move the black rook from	Siyah kaleyi hareket ettiriyorsun	0	2
+moves the black rook from	siyah kaleyi hareket ettirir	0	2
+moves the black knight from	Siyah atı hareket ettirir.	0	2
+You capture the	Sen ele geçirdin	0	2
+You move the white pawn from	Beyaz piyonu hareket ettiriyorsun.	0	2
+You move the white knight from	Beyaz atı hareket ettiriyorsun.	0	2
+You move the white bishop from	Beyaz fili hareket ettiriyorsun.	0	2
+You move the white rook from	Beyaz kaleyi hareket ettiriyorsun	0	2
+Do you accept the word	Cevabı kabul ediyor musun?	0	2
+You stop the round	Turu durdurun!	0	2
+You stop at	Sen durursun	0	2
+You pick token	Sen jeton seçersin	0	2
+You press button	düğmeye basıyorsun	0	2
+You bet	sen bahis yaparsın	0	2
+You dig	sen kazdın	0	2
+You declined	Reddettin	0	2
+You put	Sen koydun 	0	2
+You stand at	Senin durduğun sayı, 	0	2
+You fold	çekiliyorsun.	0	2
+You mark	Sen aldın 	0	2
+you	senden	0	2
+minutes	dakika	0	2
+Repeat activated rules	Etkinleştirilmiş kuralları tekrarla	0	2
+Automatic ticket machine	Otomatik bilet makinesi	0	2
+Automatic	Otomatik	0	2
+Inflexion	bükülme	0	2
+Unban from the table	Masa yasağını kaldır	0	2
+from the table	masadan	0	2
+rob	soymak	0	2
+cards from	kart	0	2
+Use supplementary cards	Sıtandart olmayan genişletilmiş kartlar kullanılıyor.	0	2
+cards at your turn	kart çekebilirsiniz.	0	2
+cards	kart	0	2
+You have obtained a bonus of 300 points since you haven't used any 200 miles	200 mil kartını kullanmadığınız için 300 puan bonus kazandınız	0	2
+The topic of the table is now	Şimdi masanın konusu	0	2
+category	kategori	0	2
+Literature	Edebiyat	0	2
+Select a train to see all of its content	Tüm içeriğini görmek için bir tren seçin	0	2
+Press V to view the entire chain	Tüm atılan taşları görüntülemek için V'ye basın	0	2
+Press escape to close this menu	Bu menüyü kapatmak için ESC'ye basın	0	2
+Choose a score limit	Bir puan sınırı seçin	0	2
+Chewing-gum	Sakız	0	2
+Discard mode	Atma modu 	0	2
+Discard 	Bırakıla bilir	0	2
+Wooden	Ahşap	0	2
+Drink time	içki zamanı	0	2
+Kitchen	Mutfak	0	2
+Waterslide	Su kaydırağı	0	2
+Pay	öde, 	0	2
+8. Clown	8. Palyaço	0	2
+10. Big table	10. Büyük masa	0	2
+11. Little table	11. Küçük masa	0	2
+12. Enchanter	12. Büyücü	0	2
+14. Knowledge room	14. Bilgi odası	0	2
+15. Stairs	15. Merdivenler	0	2
+16. Sleeping room	16. Uyku odası	0	2
+17. Hypnotist	17. Hipnozcu	0	2
+18. Entertainment room	18. Eğlence odası	0	2
+22. Happy dancer	22. Mutlu dansçı	0	2
+23. Swimming pool	23. Yüzme havuzu	0	2
+24. Jacuzzi	24. Jakuzi	0	2
+25. Garden	25. Bahçe	0	2
+26. Stairs	26. Merdivenler	0	2
+Entrance hall	Giriş salonu	0	2
+Drink time	içki zamanı	0	2
+Kitchen	Mutfak	0	2
+Living room	Oturma odası	0	2
+Dinner room	Yemek odası	0	2
+Big table	Büyük masa	0	2
+Little table	Küçük masa	0	2
+Enchanter	büyücü	0	2
+Translators' office	Çevirmenler ofisi	0	2
+Knowledge room	bilgi odası	0	2
+Stairs	Merdivenler	0	2
+Sleeping room	Uyuma odası	0	2
+Hypnotist	hipnozcu	0	2
+Entertainment room	Eğlence odası	0	2
+Trampoline	Trambolin	0	2
+Administrators' tower	yönetici kulesi	0	2
+Happy dancer	mutlu dansçı	0	2
+Swimming pool	Yüzme havuzu	0	2
+Jacuzzi	Jakuzi	0	2
+Garden	Bahçe	0	2
+Stairs	Merdivenler	0	2
+Machine room	Makine dairesi	0	2
+Sport room	Spor odası	0	2
+A little sleep isn't too much around all this restlessness	Tüm bu huzursuzluğun etrafında biraz uyku çok fazla değil	0	2
+Clown	Palyaço	0	2
+Chocolate biscuit	çikolatalı bisküvi	0	2
+status, food or drink	durum, yiyecek veya içecek	0	2
+Bouncing trap	zıplayan tuzak	0	2
+Speed reducer	Hız düşürücü	0	2
+Arsenic powding	arsenik tozu	0	2
+Energetic candy	enerjik şeker	0	2
+Shampoing puddle	Şampuanlama birikintisi	0	2
+Lemon cake	Limonlu Kek	0	2
+Spice cake	Baharatlı kek	0	2
+Grapefruit juice	Greyfurt Suyu	0	2
+Little snooze	küçük erteleme	0	2
+Orange juice	Portakal suyu	0	2
+Banana skin	Muz kabuğu	0	2
+Hallucinating cocktail	Halüsinasyon kokteyli	0	2
+Laxative pill	müsil hapı	0	2
+Apple pie	Elmalı turta	0	2
+Snooze	Ertele	0	2
+Calming pill	sakinleştirici hap	0	2
+of type food or drink	türü yiyecek veya içecek	0	2
+Carrot cake	Havuçlu kek	0	2
+Lather puddle	köpük birikintisi	0	2
+Depressing cocktail	İç karartıcı kokteyl	0	2
+Wet paint	Islak boya	0	2
+Poisoned biscuit	zehirli bisküvi	0	2
+Rabbit dropping	tavşan düşüyor	0	2
+Irresistible obligation	karşı konulmaz zorunluluk	0	2
+Sirup puddle	şurup birikintisi	0	2
+Forcing	zorlamak	0	2
+status	durum	0	2
+Apple juice	elma suyu	0	2
+Poisoned gift	Zehirli hediye	0	2
+Icy puddle	buzlu su birikintisi	0	2
+Explosive candy	Patlayıcı şeker	0	2
+View your information	Bilgilerinizi görüntüleyin	0	2
+Who's turn it is	sıra kimde	0	2
+View classement	oyuncu durumlarını görüntüle	0	2
+View board	tahtayı görüntüle	0	2
+own the largest number	en fazla sayıda	0	2
+own the	sahip	0	2
+of sevens	yedili	0	2
+Uptime	çalışma süresi	0	2
+Quicksand	Bataklık	0	2
+Your bet is currently	Bahsiniz şu anda 	0	2
+Haven't yet bet	Henüz bahis oynamadı 	0	2
+Have already bet	Zaten bahis oynadı 	0	2
+bet	bahis	0	2
+Trick	hile	0	2
+thinks taking	Almayı düşündüğü el sayısı	0	2
+tricks this round	bu tur için	0	2
+tricks contract met	Hile sözleşmesini tamamladı ve	0	2
+sandbags dropped	kum torbaları düştü	0	2
+tricks contract failed	hileler sözleşmesi başarısız oldu	0	2
+Press F to see the current suit	Mevcut takımı görmek için F tuşuna basın	0	2
+Press V to see which tiles are still up	Hangi karoların hala açık olduğunu görmek için V'ye basın	0	2
+Press S to see your own statistics	Kendi istatistiklerinizi görmek için S tuşuna basın	0	2
+from his military quarters	askeri karargahından	0	2
+quarters	mahalle	0	2
+chooses a character	bir karakter seçer	0	2
+Choose a character	Bir karakter seçin	0	2
+The warlord	savaş ağası	0	0
+Pick 2 gold coins	2 altın seç	0	2
+Build a quarter	Mahalle inşa et	0	2
+Finish turn	Bitiş dönüşü	0	2
+Destroy a quarter	Mahalle yok et	0	2
+a gold coin	altın sikke	0	2
+gold from	altın	0	2
+gold	altın	0	2
+No king is present	hiçbir kral mevcut değil	0	0
+The graveyard	mezarlık	0	2
+builds the graveyard for gold	altın için mezarlık kurar	0	2
+made a long castle	uzun bir kale yaptı	0	2
+made a short castle	kısa bir kale yaptı.	0	2
+A castle	kale	0	2
+builds a castle for gold	altın için bir kale inşa eder	0	2
+collects gold from his religious quarters	dini mahallelerinden altın toplar	0	2
+collects gold from his commercial quarters	ticari mahallelerinden altın toplar	0	2
+The following characters are excluded from this turn: The thief and The wizard	Aşağıdaki karakterler bu turdan hariç tutulur: Hırsız ve Sihirbaz	0	2
+owns the crown	taç sahibidir	0	2
+Choose a quarter to build	inşa etmek için bir mahalle seçin	0	0
+The bishop	piskopos	0	2
+The merchant	tüccar	0	2
+The school of magic	büyü okulu	0	2
+School of magic	büyü okulu	0	2
+prestige	prestij	0	2
+A market	pazar	0	2
+Market	Pazar	0	2
+commercial	reklam	0	2
+Palace	Saray	0	2
+nobility	asalet	0	2
+builds the docks	rıhtım inşa eder	0	2
+The wizard	büyücü	0	2
+The thief	hırsız	0	2
+The architect	Mimar	0	2
+crown	taç	0	2
+builds a	İnşa eder	0	2
+A prison	hapishane	0	2
+prison	hapishane	0	2
+A monastery	manastır	0	2
+monastery	manastır	0	2
+A watch tower	gözetleme kulesi	0	2
+watch tower	gözetleme kulesi	0	2
+A temple	tapınak	0	2
+Temple	tapınak	0	2
+religious	din	0	2
+The highwall	yüksek duvar	0	2
+Highwall	yüksek duvar	0	2
+The observatory	gözlem evi	0	2
+Observatory	gözlem evi	0	2
+builds the manufacture	imalatı kurar	0	2
+A fortress	kale	0	2
+fortress	kale	0	2
+A trading post	Ticaret postası	0	2
+Trading post	Ticaret postası	0	2
+military	askeri	0	2
+The barracks	kışla	0	2
+Barracks	kışla	0	2
+View your constructions	İnşaatlarınızı görüntüleyin	0	2
+View other's constructions	Diğerlerinin yapılarını görüntüleyin	0	2
+View your stats	İstatistiklerinizi görüntüleyin	0	2
+View other's stats	Diğerlerinin istatistiklerini görüntüleyin	0	2
+The docks	Rıhtımlar	0	2
+Docks	rıhtımlar	0	2
+The manufacture	imalat	0	2
+Manufacture	imalat	0	2
+Victory is at	zafer	0	2
+Percept income of	Algı geliri	0	2
+coins from your	madeni paralar	0	2
+A tavern	meyhane	0	2
+tavern	meyhane	0	2
+The imperial treasure	imparatorluk hazinesi	0	2
+Imperial treasure	imparatorluk hazinesi	0	2
+The laboratory	laboratuvar	0	2
+Laboratory	laboratuvar	0	2
+builds the	inşa eder	0	2
+The miracle court	mucize mahkeme	0	2
+miracle court	mucize mahkemesi	0	2
+A church	kilise	0	2
+church	kilise	0	2
+castle	kale	0	2
+destroys the	yok eder	0	2
+noble	Soylu	0	2
+A cathedral	katedral	0	2
+cathedral	katedral	0	2
+A manor	malikane	0	2
+manor	malikane	0	2
+Graveyard	mezarlık	0	2
+Town hall	Belediye binası	0	2
+A workshop	atölye	0	2
+workshop	atölye	0	2
+The university	Üniversite	0	2
+University	Üniversite	0	2
+The fountain of wishes	dilek çeşmesi	0	2
+fountain of wishes	dilek çeşmesi	0	2
+exchanges	değiş tokuş	0	2
+Citadels	kaleler	0	2
+kills	öldürür	0	2
+The murderer	katil	0	2
+Kill a character	karakter öldürmek	0	2
+destroys	yok eder	0	2
+The dracoport	dracaport	0	2
+The library	kütüphane	0	2
+Done	Tamamlandı	0	2
+A quarry	taş ocağı	0	2
+Quarry	Taş Ocağı	0	2
+Map room	Harita odası	0	2
+your city	senin şehirin	0	2
+A town hall	Belediye binası	0	2
+builds	İnşa eder	0	2
+Library	Kütüphane	0	2
+architect.	Mimar	0	2
+A dungeon	zindan	0	2
+Dungeon	Zindan	0	2
+warlord	savaş ağası	0	2
+Select the size of the grid	Izgara boyutunu seçin	0	2
+Press H or V to choose the direction, then select the upper-left point by pressing enter	Yönü seçmek için H veya V tuşlarına basın, ardından enter tuşuna basarak sol üst noktayı seçin	0	2
+Aircraft port sunk One more	Uçak limanı battı Bir tane daha	0	2
+Aircraft port	Uçak limanı	0	2
+Goodbye, my little Destroyer	Elveda küçük yok edicim...	0	2
+Destroyer	Yok Edici	0	2
+Submarine	denizaltı	0	2
+Goodbye, my little Cruiser	Elveda küçük kruvazörüm...	0	2
+Cruiser	Kruvazör	0	2
+Let's destroy the enemy's ships	Düşman gemilerini yok edelim	0	2
+launches a torpedo at	bir torpido fırlattı	0	2
+Touched	Dokundum	0	2
+Much smoke darkens the sky	Çok duman gökyüzünü karartıyor	0	2
+View ship state information	Gemi durumu bilgilerini görüntüle	0	2
+Information	Bilgi	0	2
+Good bye, my little Patrol boat	Hoşçakal, benim küçük devriye botum	0	2
+Patrol boat	devriye botu	0	2
+sunk	battı	0	2
+Sharks are getting impatient	Köpekbalıkları sabırsızlanıyor	0	2
+This is precisely how the army wasted lots of money	Ordu tam olarak bu şekilde çok para harcadı	0	2
+emergency 	acil Durum	0	2
+Alert	Uyarı	0	2
+Everyone receives	herkes alır	0	2
+punctured	patlak lastik	0	2
+music/streams	müzik/akışlar	0	2
+sounds	sesler	0	2
+Arcade games	Atari oyunları	0	2
+Magic Blocks	Sihirli Bloklar	0	2
+Classic games	Klasik oyunlar	0	2
+Elapsed time	Geçen zaman	0	2
+Score attack	Skor saldırı	0	2
+Time attack	Zaman saldırısı	0	2
+View highscores	En yüksek puanları görüntüle	0	2
+Main menu	Ana menü	0	2
+Musical duel	müzikal düello	0	2
+Musical	müzikal	0	2
+Choose starting level	Başlangıç ​​seviyesini seçin	0	2
+Easy	Kolay	0	2
+Medium	Orta	0	2
+Hard	Zor	0	2
+Insane	İnanılmaz	0	2
+Changer obtained	değiştirici alındı	0	2
+Your final score is	Son puanınız	0	2
+seconds	saniye	0	2
+New record! Your previous record was	Yeni Rekor! Önceki rekorunuz	0	2
+Minimize to taskbar	Görev çubuğuna küçült	0	2
+Auto login at startup	Başlangıçta otomatik oturum açma	0	2
+Channels	Kanallar..	0	2
+Views	Görüntüleme	0	2
+Colours	Renkler	0	2
+Enable tooltips	Araç ipuçlarını etkinleştir	0	2
+Tooltip pop-up delay	Araç ipucu açılır gecikmesi	0	2
+Use embedded web view	Gömülü web görünümünü kullan	0	2
+Use only secure connections	Yalnızca güvenli bağlantıları kullan	0	2
+volume	Ses	0	2
+Use DirectSound instead of WASAPI	WASAPI yerine DirectSound kullanın	0	2
+may need a restart of the gameroom	oyun odasının yeniden başlatılması gerekebilir	0	2
+Speech	Konuşma	0	2
+Sound type	ses türü	0	2
+Sound	Ses	0	2
+textcolor	metin rengi	0	2
+notification	bildirim	0	2
+Background color	Arka plan rengi	0	2
+of selected element	seçilen öğenin	0	2
+Color	Renk	0	2
+everyone except blocked people	engellenen kişiler hariç herkes	0	2
+View or change table topic	Tablo konusunu görüntüleyin veya değiştirin	0	2
+View the entire chain	Tüm zinciri görüntüle	0	2
+Vertical	Dikey	0	2
+Horizontal	Yatay	0	2
+Double the stake	Bahsi ikiye katlayın	0	2
+View pieces at the ends of the chain	Yerdeki taşı görüntüle	0	2
+french board	fransa tahtası	0	2
+Swiss board	İsviçre tahtası	0	2
+American board	Amerika tahtası	0	2
+Atlantic city	Atlantik şehri	0	2
+english board	ingiltere tahtası	0	2
+London	Londra	0	2
+European board	Avrupa tahtası	0	2
+Italian board	İtalya tahtası	0	2
+Turkish board	türkiye tahtası	0	2
+Latin America board	Latin Amerika tahtası	0	2
+super board of twelve nations	on iki büyük ülke tahtası	0	2
+Choose the optional rules to apply	Uygulanacak isteğe bağlı kuralları seçin	0	2
+Enable free parking jackpot	Ücretsiz park etme ikramiyesini etkinleştir	0	2
+Choose the auction duration	Açık artırma süresini seçin	0	2
+Disallow buying properties during the first boardround	İlk toplantı sırasında mülk satın almaya izin verme	0	2
+azure	gök mavisi	0	2
+Lift mortgage	ipoteği kaldırmak	0	2
+Press K to mortgage a property	Bir mülkü ipotek etmek için K'ye basın	0	2
+Press Shift+K to lift the mortgage from a property	Bir mülkten ipoteği kaldırmak için Shift+K tuşlarına basın	0	2
+Press V to display the list of owned properties	Sahip olunan mülklerin listesini görüntülemek için V'ye basın	0	2
+Press Shift+V to display the list of properties owned by another player	Başka bir oyuncunun sahip olduğu mülklerin listesini görüntülemek için Shift+V tuşlarına basın	0	2
+Press D to display the list of unowned properties	Sahipsiz mülklerin listesini görüntülemek için D'ye basın	0	2
+Press A to accept a trade from another player	Başka bir oyuncunun takasını kabul etmek için A'ya basın	0	2
+Press R to refuse a trade from another player	Başka bir oyuncunun takasını reddetmek için R'ye basın	0	2
+buys	satın alır	0	2
+That property is owned by	Bu mülkün sahibi	0	2
+by	ile	0	2
+station	istasyon	0	2
+already owns that property	zaten o mülkün sahibi	0	2
+purple	Mor	0	2
+orange	turuncu	0	2
+Press A to accept, or R to refuse	Kabul etmek için A'ya veya reddetmek için R'ye basın	0	2
+Deal concluded	Anlaşma sonuçlandı	0	2
+pays	öder	0	2
+goes directly to jail	doğrudan hapse girer	0	2
+pink	pembe	0	2
+jackpot	ikramiye	0	2
+now owns all properties of the public service group	artık tüm kamu hizmeti grubuna sahip	0	2
+public service	kamu hizmeti	0	2
+That terrain is certainly already occupied	Bu arazi kesinlikle zaten işgal edilmiş durumda	0	2
+Choose a property to see its sheet	Sayfasını görmek için bir mülk seçin	0	2
+houses, house price	evler, ev fiyatı	0	2
+per house	ev başına	0	2
+per hotel	otel başına	0	2
+hotels	oteller	0	2
+houses	evler	0	2
+Choose a player to see their properties	Özelliklerini görmek için bir oyuncu seçin	0	2
+Rents will be automatically paid	Kiralar otomatik ödenecek	0	2
+Properties received: None	Alınan mülkler: Yok	0	2
+Properties sent: None	Gönderilen mülkler: Yok	0	2
+Cash received	alınan para	0	2
+Cash sent	gönderilen para	0	2
+Propose this deal to	Bu anlaşmayı öner	0	2
+Choose the property to mortgage	İpotek için mülkü seçin	0	2
+Choose a property to lift its mortgage	İpoteğini kaldırmak için bir mülk seçin	0	2
+Here is the list of currently unowned properties	Şu anda sahip olunmayan mülklerin listesi	0	2
+There are now	şimdi var	0	2
+This location seems to be inhabited, even if there isn't any concrete	Bu yer, herhangi bir somut olmasa da, yerleşim yeri gibi görünüyor.	0	2
+house	ev	0	2
+Go directly to jail	Direkt hapse git	0	2
+mortgages	ipotek	0	2
+lifts the mortgage from	ipoteği kaldırır	0	2
+Make a charity  to the poor	Yoksullara sadaka verin	0	2
+is located on this land	bu arazi üzerinde yer almaktadır.	0	2
+A sign "Sold	"Satıldı" işareti!	0	2
+A hotel	bir otel	0	2
+The board is reversed	tahta tersine döner	0	2
+mortgaged	ipotekli	0	2
+each player	her bir oyuncu	0	2
+which seems to be so idyllic	bu çok doğal görünüyor	0	2
+View cash	para görüntüle	0	2
+Mortgage	İpotek	0	2
+Start a trade	ticarete başla	0	2
+Accept a trade	Bir ticareti kabul et	0	2
+Refuse a trade	Bir ticareti reddetmek	0	2
+View your properties	Mülklerinizi görüntüleyin	0	2
+View unowned properties	Sahipsiz mülkleri görüntüle	0	2
+View all properties	Tüm mülkleri görüntüle	0	2
+That property is	Bu mülk	0	2
+There isn't any rent	hiç kira yok	0	2
+Generous investers offer	Cömert yatırımcılar teklif	0	2
+Properties received	Alınan mülkler	0	2
+Properties sent	Gönderilen mülkler	0	2
+Enter the cash amount to receive from	Alınacak para tutarını girin	0	2
+Enter the cash amount to send to	Gönderilecek para tutarını girin	0	2
+mistake	hata	0	2
+The next player is skipped	Bir sonraki oyuncu atlanır	0	2
+you get	alırsın	0	2
+Hey mama	Hey anne	0	2
+Is that a village or not	Orası köy mü değil mi	0	2
+This land is inhabited	Bu topraklarda yerleşim var	0	2
+There are currently	şu anda var	0	2
+There are 75 known categories	Bilinen 75 kategori var.	0	0
+There are	Var	0	2
+Quel magnifique endroit	Ne güzel bir yer	0	2
+Who could have built the	kim inşa etmiş olabilir	0	2
+doubt that the owner is extremely rich	sahibinin son derece zengin olduğundan şüphe	0	2
+necessary transformations	gerekli dönüşümler	0	2
+A wonderful hotel stands here, showing how wealthy its owner is	Sahibinin ne kadar zengin olduğunu gösteren harika bir otel burada duruyor	0	2
+All properties have been sold	Tüm mülkler satıldı	0	2
+carefully built	özenle inşa edilmiş	0	2
+This property is already	Bu mülk zaten	0	2
+Initial price	İlk fiyat	0	2
+Remark	Açıklama	0	2
+value	değeri	0	2
+two	2	0	2
+stations	istasyonlar:	0	2
+Property	Mülk	0	2
+twice	iki kere	0	2
+buys	satın alır	0	2
+Close	Kapat	0	2
+Enter the amount of your auction	Açık artırmanızın tutarını girin	0	2
+once	1 kere	0	2
+Christmas bonus	Noel bonusu	0	2
+collect	topla	0	2
+Next player is skipped	Sonraki oyuncu atlandı	0	2
+is bankrupt	iflas etti	0	2
+Your score is	skorunuz	0	2
+Prigione	Hapishane	0	2
+Probabilità	Şans	0	2
+Imprevisti	beklenmedik	0	2
+Tassa patrimoniale	emlak vergisi	0	2
+Posteggio gratuito	Ücretsiz park	0	2
+Tassa di lusso	Lüks taksi	0	2
+transito	ziyaret	0	2
+Tourists disturb me	Turistler beni rahatsız ediyor	0	2
+Caisse de communauté	topluluk fonu	0	0
+simple visite	basit ziyaret	0	2
+Parc gratuit	ücretsiz park	0	2
+Taxe de luxe	Lüks taksi	0	2
+utilitys	yardımcı programlar	0	2
+Chance	Şans	0	2
+Départ	Kalkış	0	2
+Allez directement en	doğrudan git	0	2
+Impôts sur le revenu	Gelir vergisi	0	2
+Sorry, you can't go out of jail	Üzgünüm hapisten çıkamazsın	0	2
+Sorry	Üzgünüm	0	2
+Restore	Eski haline getir	0	2
+Delete	Sil	0	2
+Sans	şans	0	2
+The hotel stock is exhausted	Otel stoku tükendi	0	0
+Bruxelles	Brüksel	0	2
+Lisbonna	Lizbon	0	2
+Varsovie	Varşova	0	2
+Vienna	Viyana	0	2
+Schiphol airport	Schiphol havaalanı	0	0
+Free parking	Ücretsiz park	0	2
+European justice	Avrupa mahkemesi	0	2
+Community chest	Satranç Topluluğu	0	2
+airport	hava alanı	0	2
+Bucarest	Bükreş	0	2
+European parlament	Avrupa parlamentosu	0	2
+Luxury tax	Lüks taksi	0	2
+Luxembourg	Lüksemburg	0	2
+Athena	Atina	0	2
+Jail, simple visit	Hapishane, basit ziyaret	0	2
+Start	Başlangıç	0	2
+Go to jail	Hapse git	0	2
+Income tax	Gelir vergisi	0	2
+Copenhague	Kopenhag	0	2
+Budapest	Budapeşte	0	2
+Bologna	Bolonya	0	2
+Oil company	Petrol şirketi	0	2
+works	İşleri	0	2
+Public toilet	Umumi tuvalet	0	2
+Geneva	Cenevre	0	2
+brown	kahverengi	0	2
+Barcelona	Barselona	0	2
+Valencia	Valensiya	0	2
+Zürich	Zürih	0	2
+moves the white pawn from	beyaz piyonu hareket ettirir	0	2
+white rook	beyaz kale	0	2
+moves the white knight from	beyaz atı hareket ettirir	0	2
+white knight at	Beyaz at	0	2
+white knight	Beyaz at	0	2
+moves the white bishop from	beyaz fili hareket ettirir	0	2
+white bishop at	Beyaz fil	0	2
+white bishop	Beyaz fil	0	2
+white pawn at	beyaz piyon	0	2
+white pawn	beyaz piyon	0	2
+white	Beyaz	0	2
+gray	gri	0	2
+Electric company	Elektrik Şirketi	0	2
+Münich	Münih	0	2
+Marseille	Marsilya	0	2
+Telecom company	Telekom şirketi	0	2
+Chicago	şikago	0	2
+magenta	eflatun	0	2
+Zone without cars	Arabasız bölge	0	2
+Union de chemins des fer privés	Özel Demiryolları Birliği	0	2
+Usines électriques	Elektrik santralleri	0	2
+Thoune	Thun	0	2
+francs	frank	0	2
+Chancellerie	Başbakanlık	0	2
+Genève	Cenevre	0	2
+Bienne	Biel	0	2
+Montreux	Montrö	0	2
+Tramways interurbains	Şehirlerarası tramvaylar	0	2
+Lucerne	Luzern	0	2
+Bellinzone	Bellinzon	0	2
+Usines hydrauliques	Hidrolik tesisler	0	2
+Bâle	Basel	0	2
+Berne	Bern	0	2
+Association des téléphériques	Teleferik Derneği	0	2
+Lausanne	Lozan	0	2
+Funiculaires réunis	kombine füniküler	0	2
+Impôts supplémentaires	Ek vergiler	0	2
+Bienne	Biel	0	2
+The stake is at	Bahis	0	2
+Pennsylvania railroad	Pensilvanya demiryolu	0	2
+Mediterranean avenue	Akdeniz caddesi	0	2
+Baltic avenue	Baltık caddesi	0	2
+Reading railroad	oklama demiryolu	0	2
+Oriental avenue	doğu caddesi	0	2
+Vermont avenue	Vermont caddesi	0	2
+Connecticut avenue	Connecticut caddesi	0	2
+States avenue	Devletler caddesi	0	2
+Virginia avenue	Virginia caddesi	0	2
+Tennessee avenue	Tennessee caddesi	0	2
+New york avenue	New york caddesi	0	2
+Kentucky avenue	Kentucky caddesi	0	2
+Indiana avenue	Indiana caddesi	0	2
+Illinois avenue	Illinois caddesi	0	2
+B&O railroad	B&O demiryolu	0	2
+Atlantic avenue	Atlantik caddesi	0	2
+Ventnor avenue	Ventnor caddesi	0	2
+Pacific avenue	Pasifik caddesi	0	2
+North Carolina avenue	Kuzey Karolina caddesi	0	2
+Pennsylvania avenue	Pensilvanya caddesi	0	2
+Short line railroad	Kısa hat demiryolu	0	2
+Boardwalk	tahta kaldırım	0	2
+Old Kent Road	Eski Kent Yolu	0	2
+Whitechapel Road	Whitechapel Yolu	0	2
+The Angel Islington	Melek Islington	0	2
+Euston Road	Euston Yolu	0	2
+Pentonville Road	Pentonville Yolu	0	2
+Whitehall	Beyaz Saray	0	2
+Northumberland  Avenue	Northumberland Caddesi	0	2
+Bow Street	Yay Sokak	0	2
+Marlborough Street	Marlborough Caddesi	0	2
+Fleet street	filo caddesi	0	2
+Fenchurch street	Fenchurch sokak	0	2
+Coventry street	Coventry caddesi	0	2
+Regent street	Regent Sokağı	0	2
+street	sokak	0	2
+Park Lane	Park şeridi	0	2
+Jail, just visiting	Hapishane, sadece ziyaret	0	2
+Super tax	süper vergi	0	2
+Downloading	indiriliyor	0	2
+Install automatically	Otomatik olarak yükle	0	2
+recommanded	önerilen	0	2
+Install manually	Manuel olarak kur	0	2
+Install later	Daha sonra yükle	0	2
+Guess the number	sayıyı tahmin et	0	2
+Writing numbers	Sayı yazma	0	2
+Mental math	zihinsel matematik	0	2
+Speed question	hız sorusu	0	2
+Writing braille	braille yazma	0	2
+Counting ducks	ördek sayma	0	2
+Validate	Doğrula	0	2
+The woods are quiet, the trees are inspiring	Orman sessiz, ağaçlar ilham verici.	0	2
+Subscriptions	abonelikler	0	2
+Rhythmic duel	ritmik düello	0	2
+Secret code	Gizli kod	0	2
+What is the atomic number of	atom numarası nedir,	0	2
+What is	Nedir	0	2
+correct	haklısın.	0	2
+Geography	corafya	0	2
+politics	siyaset.	0	2
+digits	haneli ?	0	2
+operators	operatörler	0	2
+wrongcard	yanlış kart	0	2
+is completely plucked	tamamen soyuldu!	0	2
+Bluff is allowed	Blöf'lere izin verildi.	0	2
+More	Daha fazla...	0	2
+Next page	Sonraki Sayfa	0	0
+Previous page	Önceki sayfa	0	2
+would like to add you to their friends list	sizi arkadaş listesine eklemek istiyor.	0	2
+timed out	zaman aşımına uğradı	0	2
+blocked	engellendi	0	2
+Pay	öde	0	2
+is already present at the table	zaten masada.	0	2
+Chess	Satranç	0	2
+Do you want to download it now	Şimdi indirmek ister misin?	0	2
+Select computer strength	robot gücünü seçin:	0	2
+Your current level	Şu anki seviyeniz:	0	2
+Beginner	Acemi	0	2
+Apprentice	Çırak	0	2
+Moderate	orta	0	2
+Advanced	Gelişmiş	0	2
+Expert	Uzman	0	2
+Candidate master	Aday usta	0	2
+Great master	Büyük usta	0	2
+Master	Usta	0	2
+black pawn at	siyah piyon	0	2
+black pawn	siyah piyon	0	2
+black bishop at	Siyah fil	0	2
+black bishop	Siyah fil	0	2
+black knight at	Siyah at	0	2
+black knight	Siyah at	0	2
+black rook at	siyah kale	0	2
+black rook	siyah kale	0	2
+a1 to	a1 den	0	2
+a2 to	a2 den	0	2
+a3 to	a3 den	0	2
+a4 to	a4 den	0	2
+a5 to	a5 den	0	2
+a6 to	a6 den	0	2
+a7 to	a7 den	0	2
+a8 to	a8 den	0	2
+b1 to	b1 den	0	2
+b2 to	b2 den	0	2
+b3 to	b3 den	0	2
+b4 to	b4 den	0	2
+b5 to	b5 den	0	2
+b6 to	b6 den	0	2
+b7 to	b7 den	0	2
+b8 to	b8 den	0	2
+c1 to	c1 den	0	2
+c2 to	c2 den	0	2
+c3 to	c3 den	0	2
+c4 to	c4 den	0	2
+c5 to	c5 den	0	2
+c6 to	c6 den	0	2
+c7 to	c7 den	0	2
+c8 to	c8 den	0	2
+d1 to	d1 den	0	2
+d2 to	d2 den	0	2
+d3 to	d3 den	0	2
+d4 to	d4 den	0	2
+d5 to	d5 den	0	2
+d6 to	d6 den	0	2
+d7 to	d7 den	0	2
+d8 to	d8 den	0	2
+e1 to	e1 den	0	2
+e2 to	e2 den	0	2
+e3 to	e3 den	0	2
+e4 to	e4 den	0	2
+e5 to	e5 den	0	2
+e6 to	e6 den	0	2
+e7 to	e7 den	0	2
+e8 to	e8 den	0	2
+f1 to	f1 den	0	2
+f2 to	f2 den	0	2
+f3 to	f3 den	0	2
+f4 to	f4 den	0	2
+f5 to	f5 den	0	2
+f6 to	f6 den	0	2
+f7 to	f7 den	0	2
+f8 to	f8 den	0	2
+g1 to	g1 den	0	2
+g2 to	g2 den	0	2
+g3 to	g3 den	0	2
+g4 to	g4 den	0	2
+g5 to	g5 den	0	2
+g6 to	g6 den	0	2
+g7 to	g7 den	0	2
+g8 to	g8 den	0	2
+h1 to	h1 den	0	2
+h2 to	h2 den	0	2
+h3 to	h3 den	0	2
+h4 to	h4 den	0	2
+h5 to	h5 den	0	2
+h6 to	h6 den	0	2
+h7 to	h7 den	0	2
+h8 to	h8 den	0	2
+That move is incorrect or illegal	Bu hareket yanlış veya yasaktır.	0	2
+black	siyah	0	2
+captures the	ele geçirir	0	2
+Check mate	Şah Mat!	0	2
+Press X to reopen the table	oyunu yeniden açmak için X tuşuna basın.	0	2
+Press C to look at clocks	Sürelere bakmak için C'ye basın.	0	2
+Press V to see where that piece can move	Üzerinde bulunduğun taşın nereye hareket edebileceğini öğrenmek için, v harfine basın.	0	2
+Clocks	Süreler:	0	2
+Reply	Cevap ver	0	2
+Participants list	katılımcı listesi	0	2
+Subscribe to this topic	Bu konuya abone ol	0	2
+Choose the difficulty level	Zorluk seviyesini seçin:	0	2
+The judge will change at each round	Hakem her turda değişecektir.	0	2
+The judge is	Hakem	0	2
+Let's go	Hadi gidelim !	0	2
+The thinking time is over! The judge will now examine your proposals	Düşünme süresi bitti! Hakem şimdi cevaplarınızı inceleyecek.	0	2
+End of the round	Turun sonu.	0	2
+people proposed that word	kişi bu kelimeyi önerdi	0	2
+stops the round	turu durdurdu!	0	2
+The little exam	küçük sınav	0	2
+How much time left	Ne kadar süre kaldı?	0	2
+Who is the judge	Hakem kim?	0	2
+The word	Kelime	0	2
+The judge	Hakem	0	2
+Colored buttons	renkli düğmeler	0	2
+Quick sort	Hızlı sıralama	0	2
+Reactiveness	tepkisellik	0	2
+First to fifteen	İlk ila on beş	0	2
+Heavyweight	ağır sıklet	0	2
+Featherweight	tüy siklet	0	2
+Jingle memory	Jingle hafızası	0	2
+Roulette room	Rulet odası	0	2
+Roulette	Rulet	0	2
+Atomic number	Atomik numara	0	2
+The longest word	en uzun kelime	0	2
+Anagrams	Anagramlar	0	2
+Numbered balls	Numaralı toplar	0	2
+Ducks at the casino	Kumarhanedeki ördekler	0	2
+Culture room	Kültür odası	0	2
+Corridor	koridor	0	2
+Rest room	Tuvalet	0	2
+Bouncing treasure	Zıplayan hazine	0	2
+Slot machine	Kumar makinesi	0	2
+Communal room	ortak oda	0	2
+Charity salon	hayır salonu	0	2
+stops at	durur	0	2
+picks token	jeton seçer	0	2
+Meeting room	Toplantı odası	0	2
+presses button	düğmeye basar	0	2
+Room of sharing	paylaşım odası	0	2
+Cabinets	dolaplar	0	2
+Pleasure room	zevk odası	0	2
+Dining room	Yemek odası	0	2
+Investers' salon	yatırımcıların salonu	0	2
+Hotel room	Otel odası	0	2
+Press space to enter your answer, or backspace to listen to the letters again	Cevabınızı girmek için boşluk tuşuna veya harfleri tekrar dinlemek için geri tuşuna basın.	0	2
+found	kurdu	0	2
+letters	harfli.	0	2
+Finish bets	Bahisleri bitir	0	2
+bets	bahis	0	2
+backwards	tersten.	0	2
+grams	gram	0	2
+The scale stays stable	Ölçek sabit kalır.	0	2
+The scale swings a little, but quickly becomes stable again	Ölçek biraz sallanır, ancak hızla tekrar kararlı hale gelir.	0	2
+The scale swings, but eventually stabilizes after a short while	Ölçek sallanır, ancak kısa bir süre sonra sonunda dengelenir.	0	2
+The treasure is at	hazine şurada	0	2
+meters	metre	0	2
+digs	kazdı	0	2
+Golden sleep	altın uyku	0	2
+Enter your answer	Cevabınızı girin	0	2
+Duel	Düello	0	2
+Elimination is fixed to	Bitiş skoru 	0	2
+There is currently	Şu anda kasanızda 	0	2
+Mugging is activated	Gasp etkinleştirildi.	0	2
+'s hand is	 eli, 	0	2
+is	 	0	2
+are the winners	kazananlar!	0	2
+nobody	hiç kimse	0	2
+my favorites only	sadece favorilerim	0	2
+Add to favorites	Favorilere ekle	0	2
+Remove from favorites	Favorilerden çıkar	0	2
+favorite	favori	0	2
+or Ctrl+D to decline	veya reddetmek için Ctrl+D tuşuna basın.	0	2
+declined the invitation	daveti reddetti.	0	2
+'s invitation	masa davetini.	0	2
+due to their confidentiality settings	,gizlilik ayarları nedeniyle.	0	2
+Notify connections	Bağlantılar bildirilsin mi?	0	2
+Notify table creations	Masa oluşturmaları bildirilsin mi?	0	2
+Aircraft carrier	Uçak gemisi	0	2
+Round	Raunt	0	2
+Six	Altı	0	2
+0/double 0	ayaz/çift ayaz	0	2
+double 0	çift ayaz	0	2
+0/double	ayaz/çift	0	2
+double	çift	0	2
+Press V to see your board	Panonuzu görmek için V tuşuna basın.	0	2
+Press Shift+V to look at boards of other players	Diğer oyuncuların panolarına bakmak için Shift+V tuşlarına basın.	0	2
+Fives and threes	Beşler ve üçler	0	2
+1 point only	1 puan ver.	0	0
+Give to someone else	Başkasına ver	0	0
+Cumulation of problems	Sorunların birikmesine izin verildi.	0	2
+Interceptions are	Müdahaleler 	0	2
+Super-interceptions	Süper müdahaleler	0	2
+Interceptions	Müdahaleler	0	2
+Bluff	Blöf	0	2
+Thinking time	Düşünme zamanı	0	2
+Score limit	Skor limiti	0	2
+Press enter to confirm, or space to change it	Onaylamak için enter tuşuna, değiştirmek için ise boşluk tuşuna basın.	0	2
+Confirm	onayla	0	2
+Domino set to use	domino taş seti	0	2
+Whole team chip out	Bir oyuncu elindeki taşlarını bitirse bile, diğer oyuncuların elinde taş varsa oyun devam etsin.	0	2
+Elimination mode	Elimination modu	0	2
+Identities	Kimlik	0	2
+First meld score	İlk birleşme puanı	0	2
+~~scorerule3~~	puan kuralı3.	0	0
+View your stack	Kasanızı görüntüleyin.	0	2
+Stand	bu sayıda dur	0	2
+Hit	bahis yap	0	2
+Split	Böl	0	2
+at the center of the table	 para masanın ortasına.	0	2
+which gives	toplam 	0	2
+front of him	koydu.	0	2
+The dealer stands at	Dağıtıcının durduğu sayı, 	0	2
+stands at	 durduğu sayı, 	0	2
+The dealer	dağıtıcı 	0	2
+Fold	çekil	0	2
+Manual selection of tricks	Kartları elle seç.	0	2
+Laps	Tur 	0	2
+Monopoly board of South-east Asia	Güneydoğu Asya Monopoly tahtası	0	2
+Monopoly board of Indonesia	Endonezya Monopoly tahtası	0	2
+Balkanic monopoly board	Balkan Monopoly tahtası	0	2
+Ukrainian monopoly board	Ukrayna Monopoly tahtası	0	2
+Russian monopoly board	rusya Monopoly tahtası	0	2
+Czech monopoly board	çekya Monopoly tahtası	0	2
+Serbian monopoly board	sırp Monopoly tahtası	0	0
+Romanian monopoly board	Romanya Monopoly tahtası	0	2
+Slovak monopoly board	Slovakya Monopoly tahtası	0	2
+Board to use	Kullanılacak tahta	0	2
+Board	Pano 	0	2
+Challenges	Zorluklar 	0	2
+Responsiveness	Duyarlılık 	0	2
+Shoot the ducks	Ördekleri vur 	0	2
+Unit conversion	Birim dönüştürme 	0	2
+Base conversion	Temel dönüşüm 	0	2
+Pattern reproduction	Desen çoğaltma 	0	2
+Braille cells	Braille noktaları 	0	2
+Digital display	Dijital ekran 	0	2
+Natural shelter	Doğal barınak	0	0
+balls	  Top 	0	2
+Mugging	Gasp 	0	2
+Haven't yet discarded	Henüz kart atmamış olanlar 	0	2
+Have already discarded	Kart atanlar 	0	2
+This hand was worth	bu el değeri, 	0	2
+not 16	16 değil.	0	2
+not 15	15 değil.	0	2
+not 14	14 değil.	0	2
+not 13	13 değil.	0	2
+not 12	12 değil.	0	2
+not 11	11 değil.	0	2
+not 10	10 değil.	0	2
+not 0	0 değil.	0	2
+not 1	1 değil.	0	2
+not 2	2 değil.	0	2
+not 3	3 değil.	0	2
+not 4	4 değil.	0	2
+not 5	5 değil.	0	2
+not 6	6 değil.	0	2
+not 7	7 değil.	0	2
+not 8	8 değil.	0	2
+not 9	9 değil.	0	2
+marks	aldı 	0	2
+makes	 toplamda 	0	2
+Crib contains	Crib'de bulunan kartlar, 	0	2
+Bot difficulty level	Zorluk seviyesi 	0	2
+difficult	zor 	0	2
+very slow	Çok yavaş 	0	2
+very fast	Çok hızlı 	0	2
+slow	yavaş 	0	2
+fast	hızlı 	0	2
+Allow passing	Hamleyi pas geçmeye izin ver 	0	2
+Mandatory capture	Zorunlu taş koyma 	0	2
+Moves that don't capture any pieces are allowed	Taş almayan hamlelere izin verilir.	0	2
+Tokens at	jeton 	0	2
+Token at	Jeton 	0	2
+Minimal entrance score	Öncelikle açılışta biriktirmek için gereken sayı 	0	2
+Replay after a successful shot	Başarılı atış olursa tekrar oynamaya izin ver 	0	2
+Grid size	tahta boyutu 	0	2
+Select the target	Hedefi seçin:	0	2
+gray	 gri 	0	2
+Kutahya	Kütahya 	0	2
+Tedas	Tedaş 	0	2
+mus	muş 	0	2
+Sabiha Gokcen Hava alani	Sabiha gökçen hava alanı 	0	2
+Nevsehir	nevşehir 	0	2
+Mugla	muğla 	0	2
+Esenboga Hava alani	esenboğa hava alanı 	0	2
+Aydin	aydın 	0	2
+Diyarbakirr	diyarbakır 	0	2
+Elazig	Elazığ 	0	2
+Adnan Menderes Hava alani	Adnan menderes hava alanı 	0	2
+isparta	ısparta 	0	2
+Devlet su isleri	devlet su işleri 	0	2
+Balikesir	balıkesir 	0	2
+Ataturk Hava alani	Atatürk hava alanı 	0	2
+Your auction must at least be	Açık artırmanız en az olması gereken, 	0	2
+Ucretsiz park	ücretsiz park	0	2
+Baslangic	başlangıç	0	2
+Auction duration	Açık artırma süresi 	0	2
+Make a donation  to the poor	Yoksullara Bağış Yapın 	0	2
+have just made a deal	 yeni bir anlaşma yaptı!	0	2
+gave to	 verdi 	0	2
+gave	 verdi 	0	2
