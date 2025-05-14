@@ -1,0 +1,63 @@
+﻿Identify teamTalk admins and channel operators as bot admin	TeamTalk yöneticilerini ve kanal operatörlerini bot yöneticisi olarak tanımlayın	0	0
+Admins can control the bot from other channels	Yöneticiler botu diğer kanallardan kontrol edebilir	0	0
+Detect team talk admins as bot admin	Ekip konuşması yöneticilerini bot yöneticisi olarak algıla	0	0
+Channel Operator Password (optional)	Kanal Operatör Şifresi (isteğe bağlı) 	0	0
+Channel password (Optional	Kanal şifresi (Opsiyonel	0	2
+Encrypted server	Şifreli sunucu	0	2
+Channel ID	Kanal Kimliği	0	2
+Nickname	Takma isim	0	2
+Verification password	Doğrulama şifresi 	0	0
+Password	Şifre	0	2
+Username	Kullanıcı adı	0	2
+You are trying to connect	sunucu adı ve port adresi	0	2
+OK	tamam	0	2
+Cancel	iptal	0	2
+Informations	bilgiler	0	2
+Select an Audio output device	Bir Ses çıkış cihazı seçin	0	2
+DeviceSelection	Cihaz Seçimi	0	2
+Select an input device	Bir giriş cihazı seçin	0	2
+Softdev team developers	yazılım ekip geliştiricileri	0	2
+User messages	kullanıcı mesajları	0	2
+Logs	Günlük	0	2
+connected to server	sunucuya bağlı	0	2
+login successfull	giriş başarılı	0	2
+successfully set output device to	çıkış cihazı olarak ayarlanan: 	0	0
+successfully set output device	çıkış cihazını başarıyla ayarla	0	2
+successfully set input device to	giriş cihazını başarıyla ayarla	0	2
+Joined channel root	Katılan kanal kökü	0	2
+left channel root	sol kanal kökü	0	2
+Joined channel	Kanala katıldı	0	2
+clear log	günlüğü temizle	0	2
+Main	Ana	0	2
+Options	Seçenekler	0	2
+Audio Input device	Ses Giriş cihazı:	0	2
+Audio output device	Ses çıkış cihazı	0	2
+Language (used for text messages	Dil (metin mesajları için kullanılır)	0	2
+Limit for channel	Kanal limiti	0	2
+Log messages	Log mesajları	0	2
+Default volume on starting playback	Oynatmayı başlatırken varsayılan ses düzeyi	0	2
+Lock the program (no command processing	Programı kilitle (komut işleme yok	0	2
+reset connection	bağlantıyı sıfırla	0	2
+Admins can restart the application	Yöneticiler uygulamayı yeniden başlatabilir	0	2
+Users who can change program settings in TeamTalk	TeamTalk'ta program ayarlarını değiştirebilen kullanıcılar	0	2
+Separate users with comma	Kullanıcıları virgülle ayırın):	0	2
+Close this tab	Bu sekmeyi kapat	0	2
+Change	değiştir	0	2
+Channels	kanallar 	0	0
+Input device	Giriş aygıtı 	0	0
+Output device	Çıkış aygıtı 	0	0
+Gender	Cinsiyet 	0	0
+Join to last channel when logging in	Giriş yaptıktan sonra en sonki kanala katılın 	0	0
+Female	kadın 	0	0
+Male	Erkek 	0	0
+Neutral	karışık 	0	0
+Enable sending channel messages	Kanal mesajlarının gönderilmesini etkinleştir 	0	0
+stop playback after (minutes) (0 to disable)	(dakika) sonra oynatmayı durdur (devre dışı bırakmak için 0)	0	0
+remove file after (minutes) (0 to disable)	(dakika) sonra dosyayı sil (devre dışı bırakmak için 0)	0	0
+Exception users	İstisna kullanıcılar 	0	0
+Server Address:	Sunucu adresi: 	0	0
+Client Setup	İstemci Kurulumu	0	0
+Set	ayarla	0	0
+default status	varsayılan durum	0	0
+enable ever present feature	Mevcut özelliği etkinleştirin	0	0
+Update instances	Örnekleri Güncelle	0	0
