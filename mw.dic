@@ -1,5 +1,4 @@
-﻿清明小苍兰	Qingming frezyası 	0	0
-张无忌	Zhang Wuji 	0	0
+﻿张无忌	Zhang Wuji 	0	0
 赵敏	Zhao Min 	0	0
 逐梦之影	Rüya Kovalamanın Gölgesi 	0	0
 锋利的射手	Keskin nişancı 	0	0
@@ -7,6 +6,7 @@
 冰凝疏影	Donuk gölge 	0	0
 千幻	Bin Fantezi 	0	0
 可爱小玲儿	Sevimli küçük 	0	0
+晨曦微录	Şafak notları 	0	0
 疯狂小唐	Çılgın tank 	0	0
 草莓沐雨烟	Çilekli duman 	0	0
 黄蓉	Huang Rong 	0	0
@@ -130,6 +130,9 @@
 珍贵的定情信物，相爱的人可以在满30级时，各自提供一颗鸳鸯石，或由男方独自提供两颗鸳鸯石，到巨岩城圣光大教堂米修牧师处申请结婚，得到白金婚戒，并举办贵族婚礼	Bu, aşkın değerli bir simgesidir. Aşıklar 30. seviyeye ulaştıklarında, her biri bir mandalina ördeği taşı sağlayabilir veya adam tek başına iki mandalina ördeği taşı sağlayabilir ve Big Rock City'deki Kutsal Işık Katedrali'nden Papaz Michu'ya evlilik başvurusunda bulunabilir. ve platin bir alyans alın ve aristokrat düğünler yapın.	0	0
 珍贵的定情信物，相爱的人可以在满30级时，各自提供一颗海枯石，或由男方独自提供两颗海枯石，到巨岩城圣光大教堂米修牧师处申请结婚，得到钻石婚戒，并举办王室婚礼	Bu, aşkın değerli bir simgesidir. Aşıklar 30. seviyeye ulaştıklarında, her biri birer deniz kurusu taş sağlayabilir veya adam tek başına iki deniz kurusu taş sağlayabilir ve Dev Kutsal Işık Katedrali'ndeki Papaz Michu'ya evlilik için başvurabilir. Rock City'de elmaslar alın, alyanslar alın ve kraliyet düğünleri yapın.	0	0
 用玄铁之晶提炼出的能量神水，可以修复60级和60级以下的已爆毁装备，非损坏装备	Kara Demir Kristalden çıkarılan enerji ilahi suyu, seviye 60 ve altındaki patlamış ve hasar görmemiş ekipmanları onarabilir.	0	0
+强制离婚需交纳5000金币的手续费，离婚后您和您的伴侣将恢复单身状态，婚戒将被收回。您确定要强制离婚吗？	Zorunlu boşanma için 5000 altın ücret ödemeniz gerekmektedir. Boşanmanın ardından siz ve eşiniz yeniden bekar duruma döneceksiniz, evlilik yüzüğü geri alınacaktır. Zorunlu boşanmayı gerçekten istiyor musunuz?	0	0
+协商离婚需要您的伴侣也在现场，并同意您的离婚申请方可离婚成功。离婚后双方的婚戒将被收回。您确定要协商离婚吗？	Anlaşmalı boşanma için eşinizin de orada bulunması ve boşanma talebinizi kabul etmesi gerekmektedir. Boşanmanın ardından her iki tarafın evlilik yüzüğü geri alınacaktır. Anlaşmalı boşanmak istediğinizden emin misiniz?	0	0
+您的伴侣不在现场，无法协商离婚	Eşiniz şu anda çevrimdışı (ya da burada değil), bu nedenle anlaşmalı boşanma yapılamaz.	0	0
 用玄铁之晶提炼出的能量神水，可以修复80级和80级以下的已爆毁装备，非损坏装备	Kara Demir Kristalden çıkarılan enerji ilahi suyu, seviye 80 ve altındaki patlamış ve hasar görmemiş ekipmanları onarabilir.	0	0
 用玄铁之晶提炼出的能量神水，可以修复所有等级的已爆毁装备，非损坏装备	Kara Demir Kristalden çıkarılan enerji ilahi suyu, her seviyedeki patlamış ve hasar görmemiş ekipmanı onarabilir.	0	0
 可创建私有频道分组(期限30天)，或使所在私有频道分组延长30天期限	Özel kanal grubu oluşturabilir (30 günlük süre) veya özel kanal grubunu 30 gün uzatabilirsiniz.	0	0
@@ -224,6 +227,7 @@
 第一名帮派帮主还可获得:魅影飞龙	Birinci olan çeteye ayrıca, çete liderine Hayalet Ejderha verilecektir.	0	0
 石壁上的机关，机关上有一根铁杆	Taş duvardaki mekanizmanın üzerinde demir bir çubuk bulunmaktadır.	0	0
 宠物技能晶石，提高18点魔法暴击。	Evcil hayvan beceri kristali, sihirli kritik vuruşu 18 puan artırır.	0	0
+婚姻需要经营，请不要轻易放弃。但若您离婚决心已定，就请在以下的离婚方式中选一种吧	Evlilik emek ister, lütfen kolayca vazgeçmeyin. Ancak boşanma kararınız kesinleştiyse, lütfen aşağıdaki boşanma yöntemlerinden birini seçin.	0	0
 小伙子，看来你在我们这玩儿的很开心啊，欢迎你下次再来。	Genç adam, bizimle harika vakit geçirmişsin gibi görünüyor, bir dahaki sefere tekrar gelebilirsin.	0	0
 宠物技能晶石，提高11点物理暴击,提高20点韧性。	Evcil hayvan beceri kristali, fiziksel kritik vuruşu 11 puan ve dayanıklılığı 20 puan artırır.	0	0
 宠物技能晶石，提高34点魔法破防和70点魔法破伤，提高4点闪避。	Evcil hayvan beceri kristalleri, büyü savunmasını kırmayı 34 puan, büyü hasarını 70 puan ve atlatmayı 4 puan artırır.	0	0
@@ -2830,7 +2834,7 @@ diamond	elmas.	0	0
 炎爆术吟唱中	korkutucu şarkı.	0	0
 野生山猪魂石	yaban domuzu ruh taşı.	0	0
 上等青蛙魂石	yüksek kaliteli kurbağa ruh taşı.	0	0
-打开蓝色地藏宝箱得到	mavi maden hazine sandığını açtı ve, aldığı	0	0
+打开蓝色地藏宝箱得到	 mavi maden hazine sandığını açtı ve, aldığı	0	0
 蓝色地藏宝箱	mavi maden hazine sandığı.	0	0
 兑换中秋奖品	güz ortası festival ödüllerini kullan.	0	0
 打开蓝色药王宝箱得到	mavi tıp hazine sandığını açtı ve aldığı, 	0	0
@@ -5201,6 +5205,7 @@ _角斗白章	gladyatör beyaz rozeti.	0	0
 奥术射击	gizemli atış.	0	0
 没有药品	ilaç yok.	0	0
 点卡充值	puan kartı satın alın.	0	0
+的婚姻关系已解除	 ile olan evlilik ilişkisi sona erdi.	0	0
 设置完成	kaldırıldı.	0	0
 游戏攻略	oyun stratejisi.	0	0
 购买点卡	oyun kartı satın alın.	0	0
@@ -5399,6 +5404,7 @@ null	boş.	0	0
 取出钻石	elmasları çıkarın	0	0
 存入钻石	elmasları yatırın	0	0
 水晶狼牙	kristal diş	0	0
+装备仓库已满	Ekipman Deposu Dolu	0	0
 存入物品	Öğe depola	0	0
 存入装备	Ekipman depola	0	0
 物品仓库	Öğe al	0	0
@@ -6686,6 +6692,7 @@ null	boş.	0	0
 墓室	mezar odası.	0	0
 院子	avlu.	0	0
 牢房	hücre.	0	0
+，想更换成更好的婚戒吗？	 Daha iyi bir alyans ile değiştirmek ister misiniz?	0	0
 灼烧	ateş ile yakmak.	0	0
 点燃	tutuşturmak.	0	0
 毁灭之锤	Kıyamet çekici 	0	0
@@ -8072,6 +8079,7 @@ null	boş.	0	0
 趁鱼还新鲜，赶快送去吧。	Balıkları mümkün olduğu kadar tazeyken götürün.	0	0
 嗯……这是哪儿？	Imm... burası neresi?	0	0
 口好渴，喉咙像是冒火一样。	Ağzım çok kurudu ve boğazım yanıyor.	0	0
+您现在的是	Şu anki 	0	0
 是	evet.	0	0
 不是	HAYIR	0	0
 否	hayır.	0	0
@@ -8824,6 +8832,7 @@ null	boş.	0	0
 已断绝与您的关系	Sizinle ilişkisini kopardı.	0	0
 您已成功断绝与徒递	ilişik kestiğiniz çırak, 	0	0
 心与听竹	Kalp ve Tingzhu 	0	0
+您与	Sen ve 	0	0
 与	 ve 	0	0
 腐尸	 leşi 	0	0
 小心肝呀	 Dikkatli ol 	0	0
@@ -9846,3 +9855,11 @@ C４炸药	C4 patlayıcı 	0	0
 黑暗卫士	Karanlık muhafız 	0	0
 当我遇上你	Seninle tanıştığımda 	0	0
 荷花	Lotus 	0	0
+丑陋的	Çirkin 	0	0
+头巾	atkı 	0	0
+怪角色	Garip karakter 	0	0
+协商离婚;免费	Anlaşmalı boşanma 	0	0
+消耗	 maliyet 	0	0
+强制离婚	Zorunlu Boşanma 	0	0
+您没有伴侣	Bir partnerin yok	0	0
+喵喵小妖	Küçük şeytan 	0	0
