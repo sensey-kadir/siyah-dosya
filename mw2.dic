@@ -6,7 +6,9 @@
 冰凝疏影	Donuk gölge 	0	0
 千幻	Bin Fantezi 	0	0
 可爱小玲儿	Sevimli küçük 	0	0
-晨曦微录	Şafak notları 	0	0
+暖阳威风	Sıcak güneş 	0	0
+各自安好	Herkes iyi 	0	0
+扑荔浦丽酱	Lipunun güzel sosu 	0	0
 疯狂小唐	Çılgın tank 	0	0
 草莓沐雨烟	Çilekli duman 	0	0
 黄蓉	Huang Rong 	0	0
@@ -130,6 +132,9 @@
 珍贵的定情信物，相爱的人可以在满30级时，各自提供一颗鸳鸯石，或由男方独自提供两颗鸳鸯石，到巨岩城圣光大教堂米修牧师处申请结婚，得到白金婚戒，并举办贵族婚礼	Bu, aşkın değerli bir simgesidir. Aşıklar 30. seviyeye ulaştıklarında, her biri bir mandalina ördeği taşı sağlayabilir veya adam tek başına iki mandalina ördeği taşı sağlayabilir ve Big Rock City'deki Kutsal Işık Katedrali'nden Papaz Michu'ya evlilik başvurusunda bulunabilir. ve platin bir alyans alın ve aristokrat düğünler yapın.	0	0
 珍贵的定情信物，相爱的人可以在满30级时，各自提供一颗海枯石，或由男方独自提供两颗海枯石，到巨岩城圣光大教堂米修牧师处申请结婚，得到钻石婚戒，并举办王室婚礼	Bu, aşkın değerli bir simgesidir. Aşıklar 30. seviyeye ulaştıklarında, her biri birer deniz kurusu taş sağlayabilir veya adam tek başına iki deniz kurusu taş sağlayabilir ve Dev Kutsal Işık Katedrali'ndeki Papaz Michu'ya evlilik için başvurabilir. Rock City'de elmaslar alın, alyanslar alın ve kraliyet düğünleri yapın.	0	0
 用玄铁之晶提炼出的能量神水，可以修复60级和60级以下的已爆毁装备，非损坏装备	Kara Demir Kristalden çıkarılan enerji ilahi suyu, seviye 60 ve altındaki patlamış ve hasar görmemiş ekipmanları onarabilir.	0	0
+冰雪女王炼化了两件法宝，在法宝的作用下，冰雪女王的魔力大大加强，请勇士们去毁掉冰雪女王的法宝并消灭她。副本要求3到5人。提示：帮派副本可无限制地图复活。	Kar ve Buz Kraliçesi iki sihirli eşya arıttı. Bu eşyaların etkisiyle büyü gücü büyük ölçüde arttı. Lütfen cesur savaşçılar gidip bu sihirli eşyaları yok edin ve Kar ve Buz Kraliçesi’ni ortadan kaldırın. Kopya için 3 ila 5 kişi gereklidir. İpucu: Lonca kopyasında haritada sınırsız dirilme mümkündür.	0	0
+近期玛瑞恩海域常有海盗出没，劫掠往来商船，请勇士们前去铲除这群暴徒。	Son zamanlarda Marien Denizi'nde sık sık korsanlar ortaya çıkmakta ve gelip geçen ticaret gemilerine saldırmaktadır. Lütfen cesur savaşçılar gidip bu haydutları ortadan kaldırsın.	0	0
+珀森湿地下面错综复杂的地下洞窟中出现了一只处在生产期的变形史莱姆，趁它还没有生产出大量的史莱姆，请勇士们前去消灭它。副本要求2到3人。提示：帮派成员在每周第一次通过帮派日刷新副本时，可以得到番倍的副本奖励。帮派副本可无限制地图复活。	Polson Bataklığı'nın altındaki karmaşık yer altı mağaralarında, üreme döneminde olan bir Değişim balçık ortaya çıktı. Henüz çok sayıda balçık üretmeden önce, cesur savaşçılar onu yok etmeye gitsin. Bu görev (zindan) 2 ila 3 kişilik bir ekip gerektirir. İpucu: çete üyeleri, her hafta lonca gününde kopyayı ilk kez tamamladıklarında katlanmış ödüller alabilirler. çete görevinde harita içinde sınırsız dirilme mümkündür.	0	0
 强制离婚需交纳5000金币的手续费，离婚后您和您的伴侣将恢复单身状态，婚戒将被收回。您确定要强制离婚吗？	Zorunlu boşanma için 5000 altın ücret ödemeniz gerekmektedir. Boşanmanın ardından siz ve eşiniz yeniden bekar duruma döneceksiniz, evlilik yüzüğü geri alınacaktır. Zorunlu boşanmayı gerçekten istiyor musunuz?	0	0
 协商离婚需要您的伴侣也在现场，并同意您的离婚申请方可离婚成功。离婚后双方的婚戒将被收回。您确定要协商离婚吗？	Anlaşmalı boşanma için eşinizin de orada bulunması ve boşanma talebinizi kabul etmesi gerekmektedir. Boşanmanın ardından her iki tarafın evlilik yüzüğü geri alınacaktır. Anlaşmalı boşanmak istediğinizden emin misiniz?	0	0
 您的伴侣不在现场，无法协商离婚	Eşiniz şu anda çevrimdışı (ya da burada değil), bu nedenle anlaşmalı boşanma yapılamaz.	0	0
@@ -148,10 +153,15 @@
 漂亮的扭蛋，扭开后能散落出各种礼物。一定要及时拾取掉落在地上的礼物。	Açıldıktan sonra çeşitli hediyeler dağıtabilen güzel bir gashapon. Zamanında yere düşen hediyeleri mutlaka toplayın.	0	0
 一只精致的八音盒，会伴着音乐爆出礼物。请在开阔处使用，一定要及时拾取掉落在地上的礼物。	Zarif bir müzik kutusu, müzikle birlikte hediyeleri de patlatacak. Lütfen açık alanda kullanın ve yere düşen hediyeleri zamanında almayı unutmayın.	0	0
 幸运的冒险者打开了布鲁特山谷中的宝箱。	Şanslı maceracı Brut Vadisi'ndeki hazine sandığını açtı.	0	0
+直接断绝关系只有在师父连续七天未上线时可以生效，生效后师父将得到累积师徒值的50%。您确定要直接断绝与师父	Doğrudan ilişki kesme yalnızca ustanın art arda yedi gün çevrimdışı olması durumunda geçerli olabilir. Geçerli olduktan sonra usta, biriken usta-öğrenci puanlarının yüzde 50’sini alacaktır. Usta ile doğrudan ilişkiyi kesmek istediğinizden emin misiniz? İlişki kesilicek usta, 	0	0
+申请断绝关系会在徒弟同意后立即生效，或四天以后自动生效，关系断绝后您无法得到徒弟累积的师徒值。	İlişkiyi kesme başvurusu, çırağın onaylamasından hemen sonra ya da dört gün sonra otomatik olarak geçerli olacaktır. İlişki kesildikten sonra çırakdan biriken usta-öğrenci puanlarını alamazsınız.	0	0
+确定要同意断绝关系吗？	İlişki kesmeyi kabul etmek istediğinizden emin misiniz?	0	0
 已成为您的徒弟，努力带他升级吧！徒弟出师后您可获得徒弟的师徒值和对应的出师奖励	 sizin çırağınız oldu, onu geliştirmek için çok çalışın! Öğrenci olduktan sonra çırağın mentorluk değerini ve buna karşılık gelen çıraklık ödülünü alabilirsiniz.	0	0
+任务开启的同时将扣减今天要消耗的帮派资源，确定开启吗？	Görev başlatıldığında, bugün harcanacak olan çete kaynakları kesilecektir. Başlatmak istediğinizden emin misiniz?	0	0
 向指定玩家赠送50000紫草、10000金币、2颗复活水晶和1张2倍经验加速卡。	Satın alan oyunculara 50.000 kara kafes, 10.000 altın para, 2 diriliş kristali ve 1 2 x  deneyim hızlandırma kartı verilecek.	0	0
 向团队所有在线玩家各送出50000紫草、10000金币、2颗复活水晶和1张2倍经验加速卡。	Takımdaki tüm çevrimiçi oyunculara 50.000 kara kafes, 10.000 altın para, 2 diriliş kristali ve 1 2x deneyim hızlandırıcı kartı verilecek.	0	0
 ，每个充值礼包里包含两种不同的奖励，可在1套强化道具或10个宝石碎片包中选择一种。一套强化道具,包括一张武器强化加强符,一张武器强化保护符,十张装备强化加强符,十张装备强化保护符。碎片包每次开出一种宝石碎片,数量100到120。	Her yeniden yükleme hediye paketi iki farklı ödül içerir; bir dizi güçlendirmeden birini veya 10 mücevher parçasından oluşan bir paketten birini seçebilirsiniz. Bir silah güçlendirme şans artırıcı bir silah güçlendirme koruyucu on ekipman güçlendirme şans artırıcı ve on ekipman güçlendirme koruyucu dahil olmak üzere bir dizi güçlendirici aksesuar. Parça paketi, her seferinde 100 ile 120 arası miktarda bir tür mücevher parçası açar.	0	0
+您不是开发长老	Gelişim yöneticisi değilsin	0	0
 每个帐号只能有一个角色领取奖励,您确定由当前角色领奖吗?	Her hesapta yalnızca bir karakter ödül alabilir. Mevcut karakterin ödülü alacağından emin misiniz?	0	0
 向帮派所有在线玩家各送出50000紫草、10000金币、2颗复活水晶和1张2倍经验加速卡。	Çetedeki tüm çevrimiçi oyunculara 50.000 karakafes, 10.000 altın para, 2 diriliş kristali ve 1 2 x deneyim hızlandırma kartı gönderin.	0	0
 向全服所有在线玩家各送出20000紫草、5000金币、两颗复活水晶和1张2倍经验加速卡。	Sunucudaki tüm çevrimiçi oyunculara 20.000 karakafes, 5.000 altın para, iki diriliş kristali ve 1 2x deneyim hızlandırıcı kartı verilecek.	0	0
@@ -174,6 +184,7 @@
 镶嵌深红孔，增加生命上限100点	Koyu kırmızı deliklerle kaplanmış, üst yaşam sınırını 100 puan artırır	0	0
 镶嵌深红孔，增加生命上限320点	Koyu kırmızı deliklerle kaplanmış, yaşamın üst sınırını 320 puan artırır	0	0
 镶嵌深红孔，增加生命上限880点	Koyu kırmızı deliklerle kaplanmış, üst yaşam sınırını 880 puan artırır	0	0
+该徒弟七天内上过线，您不能直接断绝关系	Bu çırak yedi gün içinde oyuna giriş yaptı, ilişkiyi doğrudan kesemezsiniz	0	0
 镶嵌深蓝孔，增加法力上限100点	Koyu mavi deliklerle süslenmiştir, mana sınırını 100 puan artırır	0	0
 镶嵌深蓝孔，增加法力上限320点	Koyu mavi deliklerle süslenmiştir, mananın üst sınırını 320 puan artırır	0	0
 镶嵌褐黄孔，增加物理攻击14点	Kahverengi ve sarı deliklerle süslenmiştir, fiziksel saldırıyı 14 puan artırır	0	0
@@ -212,10 +223,15 @@
 镶嵌白色孔，增加抗暴6	Beyaz deliklerle kaplanmış, isyan direncini 6 puan artırır	0	0
 镶嵌白色孔，增加抗暴10	Beyaz deliklerle kaplanmış, isyan direncini 10 puan artırır	0	0
 镶嵌翠绿孔，增加移动速度0.06	Zümrüt yeşili deliklerle kaplanmıştır, hareket hızını 0,06 artırır	0	0
+农夫与庄家	Çiftçi ve Tüccar 	0	0
+牧民与牛奶	Çoban ve Süt 	0	0
+牧场除虫	Çiftlikte Haşere Kontrolü 	0	0
 镶嵌翠绿孔，增加移动速度0.10	Zümrüt yeşili deliklerle süslenmiştir, hareket hızını 0,10 artırır	0	0
 宠物技能晶石，提高5%魔法伤害，降低2%防御伤害。	Evcil hayvan beceri kristali, büyü hasarını %5 artırır ve savunma hasarını %2 azaltır.	0	0
 宠物技能晶石，提高99点魔法破防和70点魔法破伤，提高6点闪避。	Evcil hayvan beceri kristali, 99 puan sihirli savunma, 70 puan sihirli saldırı, ve atlatmayı 6 puan artırır.	0	0
 宠物技能晶石，提高15点物理命中。	Evcil hayvan beceri kristali, fiziksel isabeti 15 puan artırır.	0	0
+设置副本刷新时间开启副本	Görev yenileme zamanını ayarla, görevi başlat.	0	0
+副本开启后第二天开始刷新	Görev açıldıktan sonra ertesi gün yenilenmeye başlar.	0	0
 宠物技能晶石，提高128点魔法破防和70点魔法破伤。	Evcil hayvan beceri kristali, 128 puan sihirli savunma 70 puan sihirli saldırı artırır.	0	0
 宠物技能晶石，提高18点物理暴击。	Evcil hayvan beceri kristali, fiziksel kritik vuruşu 18 puan artırır.	0	0
 第1名帮派玩家奖励:一百万株紫草、三个帮赛宝箱和一把六芒星钥匙	Birinci olan çeteye ödül, Bir milyon karakafes, üç çete hazine sandığı ve altı köşeli yıldız anahtarı	0	0
@@ -249,6 +265,7 @@
 宠物技能晶石，提高9点魔法命中和7点抗暴。	Evcil hayvan beceri kristali, büyü vuruşunu 9 puan ve şiddete karşı direncini 7 puan artırır.	0	0
 宠物技能晶石，提高100点魔法破防和70点魔法破伤。	Evcil hayvan beceri kristali, büyü savunma hasarını 100 puan, büyü hasarı hasarını ise 70 puan artırır.	0	0
 宠物技能晶石，提高14点物理暴击,提高20点韧性。	Evcil hayvan beceri kristali, fiziksel kritik vuruşu 14 puan ve dayanıklılığı 20 puan artırır.	0	0
+师父申请断绝关系中，生效剩余	Ustanın ilişkiyi kesme başvurusu sürecinde, geçerlilik için kalan süre, 	0	0
 这鱼可真新鲜。小姑娘，你见到我家老头子的时候告诉他多钓一些鱼回来哦。	Bu balık çok taze. Küçük kızım, babamı gördüğünde ona daha fazla balık tutup geri gelmesini söyle.	0	0
 这鱼可真新鲜。小伙子，你见到我家老头子的时候告诉他多钓一些鱼回来哦。	Bu balık çok taze. Genç adam, babamı gördüğünde ona daha fazla balık tutup geri gelmesini söyle.	0	0
 宠物技能晶石，提高15点魔法暴击和14点魔法暴伤。	Evcil hayvan beceri kristali, sihirli kritik vuruşu 15 puan ve sihirli kritik hasarı 14 puan artırır.	0	0
@@ -260,6 +277,7 @@
 是的，巴尔有一封信让我交给你	Evet, şehir muhafızı'nın sana vermem gereken bir mektubu var.	0	0
 知道他的消息就很好了，能帮我到村东南农田边的桑树搜集一卷蚕丝吗？我想做一件皮衣给他，需要用蚕丝做的线	Onunla ilgili haberleri bilmek harika olurdu., Köyün güney doğusundaki tarım arazisinin yanındaki, dut ağacından bir rulo ipek toplamama yardım edermisin? Ona deri bir ceket yapmak istiyorum, ipek iplere ihtiyacım var.	0	0
 真羡慕你们之间的感情，我很愿意帮忙	Aranızdaki ilişkiyi gerçekten kıskanıyorum, ve yardım etmeye çok hazırım.	0	0
+修改副本刷新时间	görev yenileme zamanını değiştir.	0	0
 打开一张精致的新婚祝福卡，说：	Zarif bir düğün kutsama kartı açtı ve şunları söyledi: 	0	0
 到塔丽村外的农田找到桑树采集蚕丝	Dut ağaçları bulmak ve ipek toplamak için Tali Köyü dışındaki tarım arazisine gidin.	0	0
 收集到蚕丝了吗？	İpek topladın mı?	0	0
@@ -323,7 +341,11 @@
 Feedback system for plays outside of China. If one of your characters has reached level 15, or you have recharged 100RMB, you can send message from here. One account can send only one message per day. 	Çin dışındaki oyunlar için geri bildirim sistemi. Karakterlerinizden biri 15. seviyeye ulaştıysa veya 100RMB şarj ettiyseniz buradan mesaj gönderebilirsiniz. Bir hesap günde yalnızca bir mesaj gönderebilir..	0	0
 帮主发起了对帮派物品:	Çete lideri çete eşyalarına karşı açık artırma başlattı, 	0	0
 的帮派积分拍卖,需要的小伙伴快找内堂主管竞拍吧	  Çete puanı açık artırması, ihtiyacı olan arkadaşlar lütfen şirket içi gözetmenden teklif vermesini istiyoruz.	0	0
+要求帮派等级1	Çete seviyesi 1 gerektirir	0	0
+要求帮派等级4	Çete seviyesi 4 gerektirir	0	0
+要求帮派等级5	Çete seviyesi 5 gerektirir	0	0
 父亲大人，我训练了一只本领高强的弓兵部队，准备攻打月亮城，当我出兵时，矮精灵长老将感应到我的信息，他会让您到我的宫殿来，当您来到这里，将会看到这封信，此时人类正被我们的军队打的焦头烂额，您要趁人类最忙乱的时候，把这封信悄悄埋在月亮城的正下方，我将激活信中所画的魔法阵，强大的地震波会彻底摧毁月亮城，这将是我们胜利的开端。这次计划十分周密，为聪明的精灵王子自豪吧！	Baba, Ay Şehri'ne saldırmak için güçlü bir okçu birliği eğittim.Birlikler gönderdiğimde cüce yaşlı mesajımı hissedecek ve sarayıma gelmene izin verecek, buraya geldiğinde bu mektubu göreceksin. zaman, insanlar ordumuz tarafından dövülüyor.İnsanlar için en yoğun zamandan faydalanmalısın ve bu mektubu sessizce Ay Şehri'nin altına gömmelisin.Mektuptaki çizimi etkinleştireceğim.Sihirli çember, güçlü deprem dalga ay şehrini tamamen yok edecek, bu bizim zaferimizin başlangıcı olacak. Bu sefer plan çok kapsamlı, akıllı elf prensiyle gurur duy!.	0	0
+每天刷新一次	Her gün bir kez yenilenir.	0	0
 精灵长老说：收好了吧？穿上鞋子，还有一个是宝箱，记得及时打开使用。接下来才是真正的考验。东北方的训练室里有几种变异野兽，去把它们都杀死。过得了这关，你的实力就足够出去了。新手引导：若想查看自己的个人信息，请按大键盘数字区左侧的反撇号键打开信息菜单，打开菜单后按ESC键可以关闭。想重复听这段话，请按回车键。	Yaşlı Elf dedi ki: Hazır mısın? Ayakkabılarını giy ve bir hazine sandığı var, zamanında açmayı unutma. Sonra gerçek test geliyor. Kuzeydoğudaki eğitim odasında birkaç mutant canavar var, gidip hepsini öldürün. Bu seviyeyi geçtikten sonra gücünüz çıkmak için yeterlidir. Başlangıç ​​kılavuzu: Kişisel bilgilerinizi görüntülemek istiyorsanız, bilgi menüsünü açmak için lütfen büyük klavyenin sayısal alanının sol tarafında bulunan geri tepme tuşuna basın.Menüyü açtıktan sonra kapatmak için ESC tuşuna basın. Bu pasajı tekrarlamak için Enter tuşuna basın.	0	0
 精灵长老说：穿上鞋子，还有一个是宝箱，记得及时打开使用。接下来才是真正的考验。东北方的训练室里有几种变异野兽，去把它们都杀死。过得了这关，你的实力就足够出去了。新手引导：若想查看自己的个人信息，请按大键盘数字区左侧的反撇号键打开信息菜单，打开菜单后按ESC键可以关闭。想重复听这段话，请按回车键。	Yaşlı Elf dedi ki: Ayakkabılarını giy ve bir hazine sandığı var, zamanında açmayı unutma. Sonra gerçek test geliyor. Kuzeydoğudaki eğitim odasında birkaç mutant canavar var, gidip hepsini öldürün. Bu seviyeyi geçtikten sonra gücünüz çıkmak için yeterlidir. Başlangıç ​​kılavuzu: Kişisel bilgilerinizi görüntülemek istiyorsanız, bilgi menüsünü açmak için lütfen büyük klavyenin sayısal alanının sol tarafında bulunan geri tepme tuşuna basın.Menüyü açtıktan sonra kapatmak için ESC tuşuna basın. Bu pasajı tekrarlamak için Enter tuşuna basın.	0	0
 勇士们进入副本后需分头行动。实力较强的队伍走北侧通道，实力较弱的队伍走南侧通道。要小心通道中的涡轮，涡轮会把附近的人吸入涡轮仓，一旦被吸褥就会摔死，摔死时切勿使用复活水晶，一定要选择地图复活。通道中有控制涡轮的开关，开关能控制对策通道的涡轮。Boss房间外的涡轮由双控开关控制。	Zindana girdikten sonra savaşçılar ayrı ayrı hareket etmelidir. Daha güçlü takımlar kuzey geçidini, daha zayıf takımlar ise güney geçidini alır. Geçitlerdeki türbinlere dikkat edin.Türbinler yakındaki insanları türbin kompartımanına çeker.Yatak emildiğinde düşerek ölürler.Ölüme düşerken diriliş kristalini kullanmayın.Diriltmek için haritayı seçmelisiniz.. Geçitte türbini kontrol etmek için bir anahtar vardır ve anahtar, karşı önlem geçidinin türbinini kontrol edebilir. patron odasının dışındaki türbin çift kontrol anahtarı ile kontrol edilir.	0	0
@@ -1076,6 +1098,7 @@ Download the full package of the game	oyunun tam paketini indirin.	0	0
 你按下按钮，传来一阵机关运转生，石门可以通过了。	Düğmeye bastığınızda, bir mekanizma patlaması olur ve taş kapıdan geçebilir.	0	0
 处于战斗状态时，不能进行融合兽的唤醒和休眠操作。	Savaştayken, füzyon canavarı uyandırılamaz veya kış uykusuna alınamaz.	0	0
 民兵队长努桑哈;壮实的农户，组织起村民保卫村庄。	Güçlü bir çiftçi olan milis kaptanı Nusanha, köyü savunmak için köylüleri örgütledi.	0	0
+请输入兑换数量	Lütfen takas edilecek miktarı girin.	0	0
 城民莱拉;一位中年妇人，徘徊在北城门处踟蹰不前。	Şehir vatandaşı Laila; orta yaşlı bir kadın, kuzey kapısında süzülüyor ve tereddüt ediyor.	0	0
 金河瀑布后边有个水帘洞，那是一个非常神奇的空间。	Oldukça büyülü bir alan olan Jinhe Şelalesi'nin arkasında bir su perdesi deliği var.	0	0
 一套强化道具,包括一张武器强化加强符,一张武器强化保护符,十张装备强化加强符,十张装备强化保护符	Bir silah güçlendirme şans artırıcı, bir silah güçlendirme koruyucu, on ekipman güçlendirme şans artırıcı ve on ekipman güçlendirme koruyucu dahil olmak üzere bir dizi güçlendirici aksesuar	0	0
@@ -1513,7 +1536,6 @@ Submit feedback	Geri bildirim gönder.	0	0
 铁匠桑吉;修理和打造装备。	Demirci Sanchi; ekipman tamir eder ve kurar.	0	0
 场民金伯莉;身材圆润的妇人	Fielder Kimberly; yuvarlak bir kadın	0	0
 前往紫罗兰成;需76级以上	menekşe şehrine gider; Seviye 76 veya üstü gereklidir	0	0
-任务名称:剿匪救人（标准）	Görev adı: Haydutları bastır ve insanları kurtar (standart)	0	0
 点此查看该装备可洗出的孔色	Bu ekipmandan yıkanabilen delik renklerini görmek için buraya tıklayın	0	0
 修女玛丽;发放夫妻副本任务	Rahibe Mary; karı koca görevinin bir kopyasını verir.	0	0
 队员桑推尔;一脸风霜的老兵	Oyuncu Suntur	0	0
@@ -1729,7 +1751,7 @@ suggestions	öneriler.	0	0
 伟大的精灵王厄尔斯收	Büyük Elf Kral Earl'leri.	0	0
 宣战高地战并进入战场	bir yayla savaş ilanı edin ve savaş alanına girin.	0	0
 每日完成不同帮派任务	hergün farklı çete görevlerini tamamlamak.	0	0
-魔界的入侵（超繁重）	şeytan dünyasının istilası süper sor.	0	0
+魔界的入侵	Şeytanlar Diyarı'nın İstilası 	0	0
 确定要用金币付款吗？	altın ile ödeme yapmak istediğinizden eminmisiniz?	0	0
 该玩家已有两位师父了	bu oyuncunun zaten iki ustası var.	0	0
 暗黑修道院传送阵II	karanlık kütüphane ışınlanma dizisi.	0	0
@@ -1751,7 +1773,7 @@ Mist world	sislü dünya.	0	0
 您身上没有合适的钥匙	sende doğru anahtar  yok.	0	0
 收下奖赏，完成任务。	ödülü al ve görevi tamamla.	0	0
 的机率替换已有技能，	mevcut beceriyi değiştirme olasılığı:	0	0
-走失的孩子（超高效）	kayıp çocuk süper verimli.	0	0
+走失的孩子	kayıp çocuk 	0	0
 来，干了桌上这杯酒！	gel, bu kadehte bulunan şarabı masanın üzerinde iç.	0	0
 有镶嵌宝石,不能分解	ayrıştırılamayan işlemeli taşlar var.	0	0
 我知道怎么使用新技能	yeni becerileri nasıl kullanacağımı biliyorum.	0	0
@@ -1775,7 +1797,7 @@ Mist world	sislü dünya.	0	0
 该药品超出可存储数量	ilaç depolama miktarını aşıyor.	0	0
 人数不足，无法进入。	girmek için yeterli kişi yok.	0	0
 凳子;一个木头凳子。	tahta tabure oturulabilir.	0	0
-地窖的麻烦（超繁重）	mahsende sorun süper ağır.	0	0
+地窖的麻烦	Kilerdeki Sorun 	0	0
 草原悍匪	Bozkır eşkıyası 	0	0
 碎玉草原	 kırık yeşim otlak 	0	0
 您确定要解散队伍吗？	Ekibi dağıtmak istediğinizden emin misiniz?	0	0
@@ -1806,7 +1828,7 @@ Mist world	sislü dünya.	0	0
 保护梦里花（困难）	rüya çiçeğini korumak, zor.	0	0
 询问莱萨制作进度。	raise görevin ilerlemesini sor.	0	0
 提交变异骷髅的骨头	mutasyon iskelet kemiklerini gönder.	0	0
-生源骑士团（繁重）	yaşam kaynağı şovalyeleri, ağır.	0	0
+生源骑士团	Öğrenci Kaynakları Şövalye Birliği 	0	0
 猎杀血族领主德古拉	vampir efendisi drakulayı öldürmek	0	0
 己方单次最高伤害:	en yüksek tek vuruş hasarınız:	0	0
 敌方单次最高伤害:	düşmanın en yüksek tek vuruş hasarı:	0	0
@@ -1885,7 +1907,7 @@ Mist world	sislü dünya.	0	0
 被任命为帮派矿区管理员	Çete madeni yöneticisi olarak atandı.	0	0
 帮派矿区管理员;无	çete madeni yöneticisi yok.	0	0
 您不是该湖泊管理员	göl yöneticisi değilsiniz.	0	0
-罪恶的审判（标准）	kötülüğün yargılanması, sıtandart.	0	0
+罪恶的审判	Günahkârların Yargısı 	0	0
 没有可存入的融合兽	Yatırılacak füzyon canavarı yok	0	0
 确定存入该装备吗？	ekipmanı bırakmak istediğinizden eminmisiniz?	0	0
 您没有可分解的装备	ayrıştırılabilir ekipmanınız yok.	0	0
@@ -2127,9 +2149,9 @@ feedback	geri bildirim gönder.	0	0
 到塔丽村传送消息	Tali Köyü'ne mesaj gönder	0	0
 天赋点，当前占用	puanınız vardır,	0	0
 猎杀冰雪女王洛斯	Kar Kraliçesi Loth'u öldürmek	0	0
-剿匪救人（标准）	Haydutları bastır ve insanları kurtar (standart)	0	0
+剿匪救人	Haydutları bastır ve insanları kurtar 	0	0
 领取;每日限1次	görevi almak günde 1 kez ile sınırlıdır.	0	0
-支援前线（繁重）	Ön hattı destekleyin (ağır)	0	0
+支援前线	Ön hattı destekleyin 	0	0
 可使用物品类商品	Kullanılabilir öğeler.	0	0
 打鼠任务已领完。	Fare öldürme görevi tamamlandı.	0	0
 购买5级技能晶石	Seviye 5 beceri oyunu satın alın	0	0
@@ -2203,6 +2225,7 @@ feedback	geri bildirim gönder.	0	0
 向师父赠送物品	ustaya hediye eşya gönder.	0	0
 咳……咳咳……	öksürük öksürük...	0	0
 暗黑祈祷吟唱中	karanlık dua ediyor.	0	0
+确定申请与	İttifak başvurusu yapmak istediğinizden emin misiniz? 	0	0
 血族领主德古拉	vampir efendisi drakula.	0	0
 暗黑招魂师尸体	karanlık ruh cesedi.	0	0
 ;进生产区示警	üretim alanları uyarısı.	0	0
@@ -2711,7 +2734,7 @@ diamond	elmas.	0	0
 嗜血蚯蚓尸体	kana susamış solucan cesedi.	0	0
 粘液蠕虫尸体	balçık solucanı cesedi.	0	0
 生命指环右手	hayat yüzüğü sağ el.	0	0
-查看敌对说明	düşmanca açıklamayı görüntüle.	0	0
+查看敌对说明	Düşmanlık açıklamasını görüntüle.	0	0
 最高群疗输出	en yüksek gurup terapi çıktısı:	0	0
 最高单疗输出	en yüksek tek terapi çıktısı:	0	0
 打开紫色沉船宝箱得到	mor batık gemi hazine sandığını açtı ve, aldığı 	0	0
@@ -2909,7 +2932,7 @@ diamond	elmas.	0	0
 没有套装加成	belirlenen bonus yok.	0	0
 火灵戒指右手	ateş ruhu yüzüğü sağ el.	0	0
 英雄战戒右手	kahraman savaş yüzüğü sağ el.	0	0
-点击继续洗练	deliklei değiştirmek için tıklayın.	0	0
+点击继续洗练	delikleri değiştirmek için tıklayın.	0	0
 火种之戒右手	alev yüzük sağ el.	0	0
 火种之戒左手	alev yüzük sol el.	0	0
 光辉戒指左手	şanlı yüzük sol el.	0	0
@@ -4353,12 +4376,12 @@ _角斗白章	gladyatör beyaz rozeti.	0	0
 狂战之刀	vahşi savaşçı palası.	0	0
 仁爱披风	iyilik pelerini.	0	0
 善良束腰	nezaket kemeri.	0	0
-回应敌对	düşmanlığa cevap vermek.	0	0
+回应敌对	düşmanlığa cevap ver.	0	0
 申请结盟	bir ittifak için baş vurun.	0	0
 海底世界出现了一个闪闪发光的小箱子，快去找到它看看里面有什么吧！	Su altı dünyasında Parlak küçük bir kutu beliriyor, gidip onu bulun ve içinde ne olduğuna bakın!	0	0
 幸运的冒险者打开了海底世界的宝箱。	Şanslı maceracı su altı dünyasındaki hazine sandığını açtı.	0	0
 撤消结盟	ittifakı geri al.	0	0
-发起敌对	düşmanlık gütmek.	0	0
+发起敌对	düşmanlık başlat.	0	0
 黏附炸药	patlayıcıları yapıştır.	0	0
 辐射走廊	radioaktif koridor.	0	0
 木桩碎屑	tahta kazık enkazı.	0	0
@@ -4670,6 +4693,7 @@ _角斗白章	gladyatör beyaz rozeti.	0	0
 女巫莎菲	cadı sophie	0	0
 西部戈壁	ıslak batı dağı.	0	0
 东部荒漠	doğu çölü.	0	0
+要求玩家等级	Oyuncu seviyesi 	0	0
 超出等级	seviye dışı 	0	0
 沧澜河边	Canglan Nehri tarafı.	0	0
 蓝色按钮	mavi düğme.	0	0
@@ -5655,7 +5679,7 @@ null	boş.	0	0
 十字水道	suyun çapraz akıntısı.	0	0
 血击匕首	kanlı hançer.	0	0
 中等肉干	orta boy çiğ et.	0	0
-块金刚石	elmas cevheri.	0	0
+金刚石	elmas cevheri.	0	0
 白熊尸体	kutup ayısının cesedi.	0	0
 雪豹尸体	buz leoparı cesedi.	0	0
 冰蓝巨蜥	buz mavisi monitör kertenkele.	0	0
@@ -6518,7 +6542,6 @@ null	boş.	0	0
 的师徒关系吗？	Usta-çırak ilişkisini keseceğinizden eminmisininz?	0	0
 赤小豆	kırmızı fasulye.	0	0
 三明治	sandiviç.	0	0
-金刚石	elmas	0	0
 冠企鹅	tepeli penguen.	0	0
 环海豹	fok.	0	0
 髯海狮	sakallı deniz aslanı.	0	0
@@ -6597,6 +6620,7 @@ null	boş.	0	0
 冰山	buz dağı.	0	0
 冰壁	buz duvarı.	0	0
 按钮	taş düğme.	0	0
+火焰仙子	Alev perisi 	0	0
 火焰	ateş alevi.	0	0
 选择难度等级	Zorluk seviyesini seçin	0	0
 滨田	hamada.	0	0
@@ -6652,6 +6676,11 @@ null	boş.	0	0
 领取奖励后离开	Ödülü aldıktan sonra ayrılın	0	0
 点击领取	almak için tıklayın	0	0
 点此领取奖励	Ödüllerinizi almak için burayı tıklayın	0	0
+每人每日限制领取1次	Her kişi günde en fazla 1 kez alabilir.	0	0
+每人每日限制领取2次	Her kişi günde en fazla 2 kez alabilir.	0	0
+每人每日限制领取3次	Her kişi günde en fazla 3 kez alabilir.	0	0
+每人每日限制领取4次	Her kişi günde en fazla 4 kez alabilir.	0	0
+每人每日限制领取5次	Her kişi günde en fazla 5 kez alabilir.	0	0
 领取	aldınız:	0	0
 神武	tanrı wu.	0	0
 碎石	çakıl.	0	0
@@ -6781,7 +6810,7 @@ null	boş.	0	0
 雄狮	erkek aslan.	0	0
 天台	çatı katı.	0	0
 阁楼	çatı katı.	0	0
-巨门	dev kapğı.	0	0
+巨门	dev kapı.	0	0
 十吨	on ton.	0	0
 黑石	siyah taş.	0	0
 塔壁	kule duvarı.	0	0
@@ -6911,6 +6940,7 @@ null	boş.	0	0
 激怒	asi öfke.	0	0
 无情	acımasız.	0	0
 怪石	garip kaya.	0	0
+海盗船	Korsan gemisi 	0	0
 海盗	korsan.	0	0
 亲王	prens.	0	0
 赌徒	kumarbaz.	0	0
@@ -7307,6 +7337,7 @@ null	boş.	0	0
 击打	vuruyor.	0	0
 戳刺	bıçaklıyor.	0	0
 血藤	kan asması.	0	0
+青幽湖的水怪（	Qingyou Gölü'nün Su Canavarı ( 	0	0
 水怪	su canavarı.	0	0
 水蛇	su yılanı.	0	0
 射击	fırlatmaya hazırlanıyor.	0	0
@@ -7434,8 +7465,9 @@ null	boş.	0	0
 钻石	elmasa maal olur	0	0
 公鸡	horoz	0	0
 母鸡	tavuk	0	0
-卫兵的心事（高效）	Muhafızın Düşünceleri (Verimli)	0	0
+卫兵的心事	Muhafızın Düşünceleri 	0	0
 卫兵	şehir muhafızı	0	0
+开始洗练	delik del	0	0
 洗练	delik del	0	0
 制作	ilaç yap	0	0
 若有玩家在结束时间前三分钟以内出过分，则竞拍延续到连续三分钟没有玩家出分时结束。	 Eğer bir oyuncu bitiş saatinden önceki, üç dakika içinde teklif verirse art arda üç dakika boyunca hiçbir oyuncu teklif vermez ise açık artırma sona erecektir.	0	0
@@ -7574,6 +7606,7 @@ null	boş.	0	0
 山壁	dağ duvarı	0	0
 火把	meşale	0	0
 石门	mağara	0	0
+关闭副本	Görevi kapat	0	0
 关闭	kapat.	0	0
 狼人	kurt adam	0	0
 化肥	gübre	0	0
@@ -7801,6 +7834,7 @@ null	boş.	0	0
 死灵术士	ölümsüz falcı 	0	0
 死灵	büyücü.	0	0
 惊吓	korkutma.	0	0
+调查幽灵	Hayalet Araştırması 	0	0
 迷失的幽灵啊，让我来拯救你吧！	Kayıp hayalet, izin ver seni kurtarayım!	0	0
 迷失的幽灵	kayıp hayalet 	0	0
 幽灵屋	 hayalet ev 	0	0
@@ -7985,6 +8019,7 @@ null	boş.	0	0
 可禅让给入帮十天以上的成员	On günden fazla çetede olan üyelere verilebilir	0	0
 天道子	Cennet yolunun oğlu 	0	0
 天神套装	 gök tanrısının seti 	0	0
+每天刷新	 hergün yenilenir 	0	0
 天	 gün. 	0	0
 分解可得	 Ayrıştırma yoluyla elde edilicek taş miktarı, 	0	0
 起拍分数	  Başlangıç puanı 	0	0
@@ -8027,6 +8062,7 @@ null	boş.	0	0
 非报名时间	Kayıt dışı süre	0	0
 绿名	 yeşil isim	0	0
 名师勋章	Ünlü öğretmen madalyası 	0	0
+副本名称	Görev adı 	0	0
 名	 sıranız. 	0	0
 点	saat:	0	0
 点	puan.	0	0
@@ -8293,6 +8329,11 @@ null	boş.	0	0
 更新于	tarihinde güncellendi 	0	0
 草莓新冰乐	Dondurulmuş çilek 	0	0
 新人	 Yeni gelen, 	0	0
+每次刷新消耗	Yenileme başına tüketim 	0	0
+刷新消耗	 yenileme başına tüketim 	0	0
+刷新时间	Yenileme zamanı 	0	0
+每周刷新一次	 Haftada bir kez yenilenir 	0	0
+副本开启后第二周开始刷新	Görev açıldıktan sonra ikinci haftadan itibaren yenilenmeye başlar.	0	0
 新	yeni:	0	0
 希望你能学会它，并好好利用。	Umarım bunu öğrenebilir ve iyi bir şekilde kullanabilirsiniz.	0	0
 补己营和攻防设施	 Takviye kampı ve savunma-hücum tesisleri 	0	0
@@ -9249,6 +9290,7 @@ _攻防银章	 _Saldırı ve Savunma Gümüş Madalyası 	0	0
 第7	7. 	0	0
 第8	8. 	0	0
 第9	9. 	0	0
+查看入本记录	Göreve giriş kayıtlarını görüntüle	0	0
 记录	 avının kaydı	0	0
 页	 Sayfa 	0	0
 糖心喵喵兔	Şeker Kalp Miyav Miyav Tavşan 	0	0
@@ -9567,6 +9609,7 @@ _攻防金章	_Saldırı ve savunma altın madalyası 	0	0
 败给	 kaybetti 	0	0
 战胜	 kazandı 	0	0
 空缺	 boş çete 	0	0
+周一	 pazartesi 	0	0
 周三	 Çarşamba 	0	0
 周日	 Pazar 	0	0
 周五	 Cuma 	0	0
@@ -9863,3 +9906,32 @@ C４炸药	C4 patlayıcı 	0	0
 强制离婚	Zorunlu Boşanma 	0	0
 您没有伴侣	Bir partnerin yok	0	0
 喵喵小妖	Küçük şeytan 	0	0
+已重置	Sıfırla	0	0
+史莱姆危机	Balçık krizi	0	0
+开	açık 	0	0
+寒冰法宝现世	Buzlu Sihirli Eşya Ortaya Çıktı 	0	0
+标准	 standart 	0	0
+繁重	 zor 	0	0
+骑士考核的序幕	Şövalye Değerlendirmesinin Başlangıcı 	0	0
+超高效	 Süper verimli 	0	0
+公平的对决	Adil Karşılaşma 	0	0
+高校	 üniversite 	0	0
+全副武装	Tam Teçhizatlı 	0	0
+骑士的求援	Yardım isteyen şovalye 	0	0
+赠送物资	Malzeme Bağışı 	0	0
+邪恶的召唤	Kötücül Çağrı 	0	0
+哨站的防御	Karakol 	0	0
+低劣的机器	Kalitesiz Makine 	0	0
+跑腿送药	İlaç Teslimatı 	0	0
+遇险的丈夫	Tehlikede Olan Koca 	0	0
+高效	 verimli 	0	0
+蒙尘的宝石	Tozlu Mücevher 	0	0
+空间封印	Alan Mührü 	0	0
+山蒿丛	 dağ pelinotu kümesi 	0	0
+船舷	Gemi tarafı	0	0
+舷梯	merdiven tarafı 	0	0
+甲板	güverte 	0	0
+船舱	Kabin	0	0
+船尾	geminin kuyruğu 	0	0
+芬格尔山	Parmak tepesi 	0	0
+芬格尔洞	parmak mağrası 	0	0
