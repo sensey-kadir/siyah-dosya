@@ -1,0 +1,87 @@
+﻿基础设置	Temel Ayarlar	0	0
+角色红上线	sağlık yüzdesi 	0	0
+角色蓝上线	mana yüzdesi	0	0
+宠物红上线	evcil hayvan sağlık yüzdesi 	0	0
+宠物蓝上线	evcil hayvan mana yüzdesi 	0	0
+是否使用宠物	kaç evcil hayvan kullanılacak 	0	0
+是否跟随队长	ekip ışınlanması 	0	0
+是否随机移动	harita gezinme modu 	0	0
+是否查看坐标	Koordinatları ne kadar sürede görüntüleyeceği 	0	0
+是否开启采集	meslek becerisi 	0	0
+是否辅助模式	ekip sağlık modu 	0	0
+是否监测经验	deneyim sınırı 	0	0
+是否寻路吃药	yol bulurken ilaç içme durumu 	0	0
+是否优先治疗	sağlığın öncemi, sonramı tercih edileceği 	0	0
+最长移动时间	Maksimum hareket süresi 	0	0
+定时热键时间	Zamanlanmış kısayol tuşu 	0	0
+退出游戏时间	oyundan çıkış süresi 	0	0
+复活方式选择	Diriliş yöntemi seçimi 	0	0
+断线是否重连	Bağlantı koparsa yeniden bağlanılsın mı 	0	0
+执行初始位置	Başlangıç pozisyonu uygulansın mı 	0	0
+热键设置	Hotkey ayarları	0	0
+技能热键	Yetenek kısayol tuşları 	0	0
+解损热键	kayıp kaldırma tuşu 	0	0
+单疗热键	tekli terapi tuşu 	0	0
+群疗热键	Grup terapi tuşu 	0	0
+盾牌热键	koruma kalkanı tuşu 	0	0
+定时热键	aura tuşu 	0	0
+附加热键	ek kısa yolu 	0	0
+指令热键	komut kısa yol tuşu 	0	0
+采集热键	toplama kısa yol tuşu 	0	0
+角色红药热键	Karakter kırmızı iksir tuşu 	0	0
+角色蓝药热键	Karakter mavi iksir tuşu 	0	0
+宠物红药热键	evcil hayvan kırmızı iksir tuşu 	0	0
+宠物蓝药热键	evcil hayvan mavi iksir tuşu 	0	0
+宠物饭团热键	evcil hayvan pirinç topu tuşu 	0	0
+释放宠物热键	evcil hayvan çağırma tuşu 	0	0
+工具箱热键	Araç Kutusu tuşu 	0	0
+速度融合热键	hızlı fizyon tuşu 	0	0
+查看对象设置	nesne görüntüleme ayarları	0	0
+查看对象	Nesneleri Görüntüle 	0	0
+宝箱	Hazine kutusu	0	0
+战士	savaşçı	0	0
+兽人	Ork	0	0
+刺客	suikastçi	0	0
+猎人	avcı	0	0
+法师	Büyücü	0	0
+精灵	Elf	0	0
+牧师	rahip	0	0
+巫师	sihirbaz	0	0
+尸体	Ceset	0	0
+干尸	Kurutulmuş ceset	0	0
+腐尸	Çürük ceset	0	0
+枯骨	Ölü kemikler	0	0
+的冰灯	Buz lambası	0	0
+地图相关设置	Harita ile İlgili Ayarlar	0	0
+坐标引导	Koordinat rehberi 	0	0
+自动寻路	Otomatik yol bulma 	0	0
+寻路避让	Yol bulma sırasında kaçınılacaklar 	0	0
+竞赛	yarışma	0	0
+帮赛	çete savaşı 	0	0
+行脚	gezgin	0	0
+活动	etkinlik	0	0
+传送	teleport	0	0
+闲逛的村民	köylüler	0	0
+清理背包设置	çanta temizleme ayarları	0	0
+清理物品	Öğeleri Temizle 	0	0
+清理装备	ekipman temizleme 	0	0
+存入物品	öğeleri depolama 	0	0
+存入装备	Ekipmanı depolama 	0	0
+查看模式	Görünüm modu 	0	0
+敌方	Düşman	0	0
+全部	Tümü	0	0
+己方 	kendi tarafın	0	0
+战斗模式	Savaş modu 	0	0
+和平反击模式	barışçıl karşı saldırı modu	0	0
+和平模式	Barış modu	0	0
+所有模式	Tüm Mod	0	0
+团队模式	ekip modu	0	0
+帮派模式	çete modu	0	0
+善恶模式	İyi ve Kötü Mod	0	0
+脚本切换设置	Script Geçiş Ayarları	0	0
+[私聊指令设置	Özel Mesaj Komutu Ayarları 	0	0
+脚本切换	Script geçişi 	0	0
+私聊指令	Özel Sohbet Talimatları 	0	0
+自由模拟设置	Serbest Simülasyon Ayarları 	0	0
+自由模拟	Serbest simülasyon 	0	0
+地形障碍	Arazi engelleri	0	0
